@@ -278,7 +278,15 @@ A, A:hover {
 }
 
 .left-menu .link-ico-12{
-	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/room_security.png);
+	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/room-hoz.png);
+}
+
+.left-menu .link-ico-13{
+	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/room-garaj.png);
+}
+
+.left-menu .link-ico-14{
+	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/room-hoz2.png);
 }
 
 .left-arrow{
