@@ -1413,6 +1413,7 @@ A, A:hover {
 	font-weight: bold;
     text-transform: uppercase;
 	width:calc(100vw/3 - 40px)!important;
+	color: #ffffff;
 }
 
 
