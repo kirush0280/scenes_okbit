@@ -24,12 +24,12 @@ a, a:hover {
 
 /* Лог алисы */
 b {
-        color:blue;
+        color:blue!important;
 }
 
 .shout_content {
         font-size: inherit;
-        color: black;
+        color: black!important;
   }
 
 /* Конец лога Алисы */
