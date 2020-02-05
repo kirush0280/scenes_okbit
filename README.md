@@ -1,6 +1,6 @@
 # scenes_okbit
 Сцены для модуля scenes_okbit
-
+<code>
 Лог Алисы вставляем как свободный html:
 <style>
  b {
@@ -17,3 +17,4 @@
 }
 </style>
 [#module name="shoutbox" limit="10" reverse="1" mobile="1"#]  
+</code>
