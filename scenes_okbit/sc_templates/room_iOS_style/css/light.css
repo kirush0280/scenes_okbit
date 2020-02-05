@@ -615,7 +615,7 @@ A, A:hover {
     padding: 0;
     cursor: pointer;
 	float: right;
-	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/open.png)!important;
+	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/open_w.png)!important;
 }
 
 
@@ -626,7 +626,7 @@ A, A:hover {
     padding: 0;
     cursor: pointer;
 	float: right;
-	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/close.png)!important;
+	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/close_w.png)!important;
 }
 
 .win-open:active, .win-close:active {
@@ -1129,7 +1129,7 @@ A, A:hover {
   align-items: center;
   justify-content: flex-start;
   flex-wrap: wrap;
-  border: 2px solid #fff;
+  border: 2px solid #84C0FF;
   border-radius: 8px;
   width: 100%;
 }
@@ -1175,7 +1175,7 @@ A, A:hover {
 
 
 .radio-container .radio-btn, .radio-container-c .radio-btn {
-  border-right: 2px solid #fff;
+  border-right: 2px solid #84c0ff;
   overflow: hidden;
   width: calc(25%);
   height: 33px;
