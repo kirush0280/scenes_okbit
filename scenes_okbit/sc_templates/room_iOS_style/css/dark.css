@@ -2921,15 +2921,5 @@ A, A:hover {
 	.info-sl{
 		width: calc(100vw - 40px)!important;
 	}
-	.back-button {
-		color: #ffffff;
-	}
-	.avent-time{
-		font-size: 14px;
-	        margin: 3px 20px 0 25px;
-	        float: right;
-	        font-weight: bold;
-	        color: #b1b1b1!important;
-}
 
 }

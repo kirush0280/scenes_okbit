@@ -10,36 +10,13 @@ h4, span, div, p, text{
 
 a, a:hover {
 	text-decoration: none!important;
-	color: #000000;
+        color: #000000;
 }
-
-	.avent-time{
-		font-size: 14px;
-	        margin: 3px 20px 0 25px;
-	        float: right!important;
-/*		font-weight: bold;*/
-	        color: #000000!important;
-	}
-
-
-/* Лог алисы */
-b {
-        color:blue!important;
-}
-
-.shout_content {
-        font-size: inherit;
-        color: black!important;
-  }
-
-/* Конец лога Алисы */
 
 body {
-/*	background: #2e323a!important;*/
 	background: #F0EFF4!important;
-/*	background-image:url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/pattern_40w.gif)!important;*/
-/*	color: #b1b1b1 !important;*/
-	color: #000000!important;
+/*	background-image:url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/pattern_40.gif)!important;*/
+	color: #000000 !important;
 	font-size: 20px!important;
 	text-align: center!important;
 	padding: 0px!important;
@@ -49,12 +26,20 @@ table {
 	width:100%!important;
 }
 
+.avent-time {
+        font-size: 14px;
+        margin: 3px 20px 0 25px;
+        float: right!important;
+        color: #000000!important;
+        }
+
 .top-title, .top-back {
 	float:left;
 	font-size: 19px;
 	text-align:left;
 	margin: 18px 0  0 20px;
-	color: #000000!important;
+	font-weight: bold;
+	color: #000000;
 }
 
 .top-menu{
@@ -208,7 +193,6 @@ table {
 .left-link{
 	width:100%;
 	height: 40px;
-/*	background: #37373a;*/
 	background: #ffffff;
 	padding: 6px;
 	padding-top: 4px;
@@ -224,7 +208,6 @@ table {
 }
 
 A .left-link {
-/*	color: #b1b1b1!important;*/
 	color: #000000!important;
 	font-size: 14px!important;
 }
@@ -234,8 +217,7 @@ A, A:hover {
 }
 
 .left-menu .left-link:active{
-/*	background: #c8c8d087!important;*/
-	background: #ffffff!important;
+	background: #c8c8d087!important;
 	box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset, 0 -1px 0 rgba(255, 255, 255, .1)   
 	inset;box-shadow:0 1px 0 rgba(255, 255, 255, .5) inset, 0 -1px 0 rgba(255, 255, 255, .1)  
 	inset; 
@@ -317,7 +299,6 @@ A, A:hover {
 
 .left-menu .text-html{
 	width:100%;
-/*	background: #37373a;*/
 	background: #ffffff;
 	padding: 6px;
 	padding-top: 4px;
@@ -442,13 +423,11 @@ A, A:hover {
 	width:100%;
 	margin: auto;
 	height: 40px;
-/*	background: #37373a;*/
 	background: #ffffff;
 	padding: 6px;
 	margin-bottom:2px;
 	border-radius: 10px;
 }
-
 
 .full-center {
 	width:100%;
@@ -610,6 +589,9 @@ A, A:hover {
 	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-1.png)!important;
 }
 
+
+
+
 .center-menu .link-curtains-1 {
 	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-1.png)!important;
 }
@@ -633,7 +615,7 @@ A, A:hover {
     padding: 0;
     cursor: pointer;
 	float: right;
-	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/open_w.png)!important;
+	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/open.png)!important;
 }
 
 
@@ -644,21 +626,19 @@ A, A:hover {
     padding: 0;
     cursor: pointer;
 	float: right;
-	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/close_w.png)!important;
+	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/close.png)!important;
 }
 
 .win-open:active, .win-close:active {
-/*	background: #36b736;*/
 	background: #ffffff;
 }
 
 
 .info-s {
 	float:right;
-/*	font-weight: bold;*/
+	font-weight: bold;
 	font-size: 14px;
 	margin: 5px 10px;
-	color: #000000;
 	
 }
 
@@ -696,6 +676,7 @@ A, A:hover {
 .info-ico-9 {
     background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/movement-room.png)!important;
 }
+
 
 .right-menu .link-ico{
 	margin: 0 auto;
@@ -759,8 +740,8 @@ A, A:hover {
 .right-menu .link-color-3-1, .right-menu .link-color-9-1{
 	border: 2px solid #c94a77;
 	background:#7c2443;
-
 }
+
 
 .right-menu .link-color-4-0{
 	border: 2px solid #07a307;
@@ -769,7 +750,6 @@ A, A:hover {
 .right-menu .link-color-4-1{
 	border: 2px solid #d8ff94;
 	background:#07a307;
-
 }
 
 .right-menu .link-color-5-0, .right-menu .link-color-10-0{
@@ -818,8 +798,6 @@ A, A:hover {
 .right-menu span {
 	font-size: 12px;
 	padding: 4px;
-	color: #000000;
-/*	background: #ffffff;*/
 }
 
 .right-menu .link-ico-1-0 {
@@ -919,6 +897,8 @@ A, A:hover {
 	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/script-kol-1.png)!important;
 }
 
+
+
 .right-menu{
 	float:right;
 	font-size:16px;
@@ -941,8 +921,7 @@ A, A:hover {
 
 .right-menu .text-html{
 	width:100%;
-/*	background: #37373a;*/
-	background #f0eff4;
+	background: #f0eff4;
 	padding: 6px;
 	padding-top: 4px;
 	margin-bottom:2px;
@@ -961,14 +940,13 @@ A, A:hover {
 	margin: 8px auto;
 	width:calc(100%);
 	height:calc(100% - 90px);
-	background:#F0EFF4;
+	background:#f0eff4;
 	border-radius: 10px!important;
 	padding-top: 10px;
 }
 
 .pult{
 	width: 220px;
-/*	width:calc(100%);*/
 	margin: 0px auto!important;
 }
 
@@ -1068,9 +1046,7 @@ A, A:hover {
 
 .img_fav img:active{
 	padding: 7px;
-/*	background:#00b934;*/
-	background: #ffffff;
-
+	background:#ffffff;
 }
 
 
@@ -1092,7 +1068,6 @@ A, A:hover {
 
 .img_fav_tv img:active{
 	padding: 7px;
-/*	background:#00b934;*/
 	background:#ffffff;
 }
 
@@ -1116,7 +1091,6 @@ A, A:hover {
 
 .gray {
 	border: 2px solid #898c94;
-
 }
 
 .gray:active {
@@ -1155,9 +1129,9 @@ A, A:hover {
   align-items: center;
   justify-content: flex-start;
   flex-wrap: wrap;
-  border: 2px solid #9FCFF3;
+  border: 2px solid #fff;
   border-radius: 8px;
-  width: 100%
+  width: 100%;
 }
 
 
@@ -1201,7 +1175,7 @@ A, A:hover {
 
 
 .radio-container .radio-btn, .radio-container-c .radio-btn {
-  border-right: 2px solid #000;
+  border-right: 2px solid #fff;
   overflow: hidden;
   width: calc(25%);
   height: 33px;
@@ -1209,7 +1183,7 @@ A, A:hover {
 
 
 .radio-container-m .radio-btn {
-  border-right: 2px solid #000;
+  border-right: 2px solid #fff;
   overflow: hidden;
   width: calc(33.3%);
   height: 33px;
@@ -1224,7 +1198,7 @@ A, A:hover {
 .radio-container .radio-btn label, .radio-container-c .radio-btn label, .radio-container-m .radio-btn label{
   background-color: transparent;
   font-size: 14px;
-  color: #000;
+  color: #000000;
   display: block;
   text-align: center;
   padding: 6px 4px;
@@ -1234,9 +1208,8 @@ A, A:hover {
 .radio-container .radio-btn input, .radio-container-c .radio-btn input, .radio-container-m .radio-btn input{display: none;}
 
 .radio-container .radio-btn input:checked + label, .radio-container-c .radio-btn input:checked + label, .radio-container-m .radio-btn input:checked + label{
-  background-color: #f0eff4; /* Кондиционер, активная кнопка */
+  background-color: #f0eff4;
   color: #05c605;
-
 }
 
 .rc1 {
@@ -1343,7 +1316,6 @@ A, A:hover {
 
 .info-bin {
  border:1px solid #fafafa;
-/* background-color: #7c7f83; */
  background-color: #dddddd;
  border-radius: 18px;
  -webkit-border-radius: 18px;
@@ -1355,7 +1327,6 @@ A, A:hover {
 }
 
 .info-color-0 {
-/* background-color: #7c7f83!important;*/
  background-color: #dddddd!important;
 }
 
@@ -1364,11 +1335,11 @@ A, A:hover {
 }
 
 .info-color1-1 {
-	background-color: #7c7f83!important;
+ background-color: #7c7f83!important;
 }
 
 .info-color1-0 {
-	background-color: #36b636!important;
+ background-color: #36b636!important;
 }
 
 
@@ -1452,6 +1423,8 @@ A, A:hover {
 	color: #000000;
 }
 
+
+
 /* Далее идет оформление чекбокса в современных браузерах, а также IE9 и выше.
 Благодаря тому, что старые браузеры не поддерживают селекторы :not и :checked,
 в них все нижеследующие стили не сработают. */
@@ -1460,7 +1433,7 @@ A, A:hover {
 input[type="checkbox"] {
     display: none;
 }
- 
+
 /* стили для метки */
 input[type="checkbox"] + label {
     cursor: pointer;
@@ -1469,7 +1442,7 @@ input[type="checkbox"] + label {
     font-family: tahoma, sans-serif, arial;
     line-height: 40px;
 }
- 
+
 /* стили для поля с бегунком*/
 input[type="checkbox"] + label::before {
     content: "";
@@ -1487,7 +1460,7 @@ input[type="checkbox"] + label::before {
     background: #dddddd;
 
 }
- 
+
 /* стили для бегунка*/
 input[type="checkbox"] + label::after {
     content: "";
@@ -1502,14 +1475,14 @@ input[type="checkbox"] + label::after {
     border: 1px solid #dadada;
     box-shadow: 0 3px 3px rgba(140, 140, 140, .1);
 }
- 
+
 /* плавность )) */
 input[type="checkbox"] + label::before,
 input[type="checkbox"] + label::after {
     -webkit-transition: all .2s ease-out;
     transition: all .2s ease-out;
 }
- 
+
 /* чекнутое состояние )) */
 input[type="checkbox"]:checked + label::before {
     background: #6edc5f;
@@ -1518,11 +1491,6 @@ input[type="checkbox"]:checked + label::before {
 input[type="checkbox"]:checked + label::after {
     left: 31px;
 }
-
-
-
-
-
 
 .checkStyle {
 	width:64px;
@@ -1556,13 +1524,10 @@ input[type="checkbox"]:checked + label::after {
 	border:1px solid #2e323a;
 }
 
-
-
 .rangeStyle {
 	margin:6px 4px 10px 0px;
 	float:right;
 	font-size: 14px;
-	color: #000000;
 }
 
 .modalDialog {
@@ -1664,8 +1629,8 @@ input[type="checkbox"]:checked + label::after {
 
 .small-top-title {
 	display: none;
-
 }
+
 
 
 
@@ -1678,10 +1643,9 @@ input[type="checkbox"]:checked + label::after {
 	margin: 1px!important;
 	padding:0px !important;
 	font-size:18px!important;
-	/*height:70px !important;
-	background:#37373a !important; */
-	background:#F6F6F8!important;
-	border-bottom: 1px ridge #6d6e6f !important;
+	/*height:70px !important;*/
+	background:#f6f6f8 !important;
+	border-bottom: 2px ridge #6d6e6f !important;
 }
 
 
@@ -1714,7 +1678,7 @@ input[type="checkbox"]:checked + label::after {
 	height: 100vh!important;
 	text-align:left  !important;
 	border: 0px !important;
-	border-right: 2px solid #dadada  !important;
+	border-right: 2px solid #242425  !important;
 	background : 0 !important;
 }
 
@@ -1778,7 +1742,7 @@ input[type="checkbox"]:checked + label::after {
 	height: 100vh!important;
 	text-align:left  !important;
 	border: 0px !important;
-	border-left: 2px solid #dadada  !important;
+	border-left: 0px solid #242425  !important;
 	background : 0 !important;
 }
 
@@ -2671,8 +2635,7 @@ input[type="checkbox"]:checked + label::after {
 .top-back{
 	margin-top: 22px;
 	font-size:16px;
-/*	color: #000000!important;*/
-    }
+}
 
 
 
@@ -2862,7 +2825,6 @@ input[type="checkbox"]:checked + label::after {
 	.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}} {
 		padding: 0px!important;
 		margin: 0px!important;
-/*		background: #2e323a!important;*/
 		background: #f0eff4!important;
 	}
 	
@@ -2874,7 +2836,7 @@ input[type="checkbox"]:checked + label::after {
 	}
 	
 	.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .center-v { /* CENTER */	
-	border: 1px solid #666;
+	/*border: 1px solid #666;*/	
 	margin: 5px!important;
 	padding:0px!important;
 	}
@@ -2944,8 +2906,7 @@ input[type="checkbox"]:checked + label::after {
 	}
 	
 	.top-menu{
-/*		background: #37373a!important;*/
-		background: ##F6F6F8!important;
+		background: #f6f6f8!important;
 		width: 100%!important;
 		padding: 3px;
 	}
@@ -2964,13 +2925,15 @@ input[type="checkbox"]:checked + label::after {
 		border-radius: 5px;
 		border: 1px solid #000000; /* задаём границу */
 		padding: 1px 5px 1px 5px;
-		background: #ffffff!important;
+		background: #f0eff4;
 		font-size:16px;
-		color: #ffffff;
+		color:#ffffff;
 	}
+	
 	.tv-out-p{
 		width:calc(100vw - 10px)!important;
-	}	
+	}
+	
 	.player {
 		width:calc(100vw - 20px)!important;
 	}
@@ -2978,5 +2941,4 @@ input[type="checkbox"]:checked + label::after {
 	.info-sl{
 		width: calc(100vw - 40px)!important;
 	}
-
 }
