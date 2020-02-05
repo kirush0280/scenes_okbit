@@ -1455,6 +1455,7 @@ A, A:hover {
 	font-weight: bold;
     text-transform: uppercase;
 	width:calc(100vw/3 - 40px)!important;
+	color: #000000;
 }
 
 /* Далее идет оформление чекбокса в современных браузерах, а также IE9 и выше.
