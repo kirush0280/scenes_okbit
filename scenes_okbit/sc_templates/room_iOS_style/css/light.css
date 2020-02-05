@@ -449,6 +449,7 @@ A, A:hover {
 	border-radius: 10px;
 }
 
+
 .full-center {
 	width:100%;
 	margin: auto;
@@ -654,9 +655,10 @@ A, A:hover {
 
 .info-s {
 	float:right;
-	font-weight: bold;
+/*	font-weight: bold;*/
 	font-size: 14px;
 	margin: 5px 10px;
+	color: #000000;
 	
 }
 
@@ -2902,6 +2904,7 @@ input[type="checkbox"]:checked + label::after {
 		font-weight: bold;
 		margin-top: 5px!important; 
 		float:left!important;
+		color: #000000;
 	}
 	
 	.center-menu .link-ico-out {
