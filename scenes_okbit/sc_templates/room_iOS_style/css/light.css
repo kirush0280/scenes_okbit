@@ -633,7 +633,7 @@ A, A:hover {
     padding: 0;
     cursor: pointer;
 	float: right;
-	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/open.png)!important;
+	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/open_w.png)!important;
 }
 
 
@@ -644,7 +644,7 @@ A, A:hover {
     padding: 0;
     cursor: pointer;
 	float: right;
-	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/close.png)!important;
+	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/close_w.png)!important;
 }
 
 .win-open:active, .win-close:active {
