@@ -9,6 +9,18 @@ h4, span, div, p, text{
 /*	color: #000000;*/
 }
 
+/* Лог алисы */
+b {
+        color:blue!important;
+}
+
+.shout_content {
+        font-size: inherit;
+        color: black!important;
+  }
+
+/* Конец лога Алисы */
+
 body {
 	background: #f1eff6!important;
 	background-image:url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/pattern_40w.jpg)!important;
