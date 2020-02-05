@@ -1559,6 +1559,7 @@ input[type="checkbox"]:checked + label::after {
 	margin:6px 4px 10px 0px;
 	float:right;
 	font-size: 14px;
+	color: #000000;
 }
 
 .modalDialog {
