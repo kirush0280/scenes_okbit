@@ -23,6 +23,18 @@ table {
 	width:100%!important;
 }
 
+/* Лог алисы */
+b {
+        color:inherit!important;
+}
+
+.shout_content {
+        font-size: inherit;
+        color: inherit!important;
+  }
+
+/* Конец лога Алисы */
+
 .top-title {
 	float:left;
 	font-size: 19px;

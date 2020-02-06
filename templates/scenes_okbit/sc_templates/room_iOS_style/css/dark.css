@@ -601,39 +601,38 @@ A, A:hover {
 	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-4.png)!important;
 }
 
-.win-open {	
-	margin: 0 4px;
+.win-open {
+    margin: 0 4px;
     width: 30px;
     height: 28px;
     padding: 0;
     cursor: pointer;
-	float: right;
-	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/open.png)!important;
+    float: right;
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/open.png)!important;
 }
 
 .win-stop {	
-	margin: 0 4px;
+    margin: 0 4px;
     width: 30px;
     height: 28px;
     padding: 0;
     cursor: pointer;
-	float: right;
-	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-stop.png)!important;
+    float: right;
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-stop.png)!important;
 }
 
 .win-close {	
-	margin: 0 4px;
+    margin: 0 4px;
     width: 30px;
     height: 28px;
     padding: 0;
     cursor: pointer;
-	float: right;
-	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/close.png)!important;
+    float: right;
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/close.png)!important;
 }
 
-
 .win-open:active, .win-stop:active, .win-close:active {
-	background: #36b736;
+    background: #36b736;
 }
 
 
@@ -1689,7 +1688,7 @@ A, A:hover {
     visibility: visible !important; 
 }
 
-.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}} .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .center-v { /* CENTER */	
+.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}} .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .center-v { /* CENTER */	
 	/*border: 1px solid #666;*/	
 	margin: 5px 15px!important;
 	padding:0 10px 0 10px;
@@ -1708,7 +1707,7 @@ A, A:hover {
 
 /* из прозрачного к видемому */
 
-.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .center-v { /* CENTER */		
+.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .center-v { /* CENTER */		
 	-webkit-animation-duration: 2s;
 	animation-duration: 2s;
 	-webkit-animation-fill-mode: both;
@@ -1717,7 +1716,7 @@ A, A:hover {
 	animation-name: fadeIn;
 }
 
-.{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}} {
+.{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}} {
 	display:none !important;
 }
 
@@ -2749,7 +2748,7 @@ A, A:hover {
 		margin: 4px 0 0 4px;
 	}
 	
-	.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .center-v {
+	.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .center-v {
 		margin: 5px 5px!important;
 		padding: 0 1px 0 1px!important;
 		width: calc(36% - 15px)!important;
@@ -2804,16 +2803,16 @@ A, A:hover {
 		flex-flow: wrap!important;
 	}
 	
-	.{{HEADER}}, .{{LEFT}}, .{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .{{RIGHT1}}, .{{RIGHT2}}, .{{RIGHT3}}, .{{RIGHT4}}, .{{RIGHT5}}, .{{RIGHT6}}, .{{RIGHT7}}, .{{RIGHT8}}, .{{RIGHT9}}, .{{RIGHT10}}, .{{RIGHT11}}, .{{RIGHT12}}, .{{RIGHT13}}, .{{RIGHT14}}, .{{RIGHT15}}, .center-v, .right-v { 
+	.{{HEADER}}, .{{LEFT}}, .{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .{{RIGHT1}}, .{{RIGHT2}}, .{{RIGHT3}}, .{{RIGHT4}}, .{{RIGHT5}}, .{{RIGHT6}}, .{{RIGHT7}}, .{{RIGHT8}}, .{{RIGHT9}}, .{{RIGHT10}}, .{{RIGHT11}}, .{{RIGHT12}}, .{{RIGHT13}}, .{{RIGHT14}}, .{{RIGHT15}}, .center-v, .right-v { 
 		width: 100%!important;
 		height : auto !important;
 	}
 		
 	.{{HEADER}} {order: 3!important;}
 	.{{LEFT}} {order: 0!important;}
-	.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}} , .center-v {order: 2!important;}
+	.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}} , .center-v {order: 2!important;}
 	.{{RIGHT1}}, .{{RIGHT2}}, .{{RIGHT3}}, .{{RIGHT4}}, .{{RIGHT5}}, .{{RIGHT6}}, .{{RIGHT7}}, .{{RIGHT8}}, .{{RIGHT9}}, .{{RIGHT10}}, .{{RIGHT11}}, .{{RIGHT12}}, .{{RIGHT13}}, .{{RIGHT14}}, .{{RIGHT15}}, .right-v {order: 1!important;}
-	.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}} {
+	.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}} {
 		padding: 0px!important;
 		margin: 0px!important;
 		background: #2e323a!important;
@@ -2826,8 +2825,7 @@ A, A:hover {
 		border-radius: 0!important;
 	}
 	
-	.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .center-v { /* CENTER */	
-	/*border: 1px solid #666;*/	
+	.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .center-v {
 	margin: 5px!important;
 	padding:0px!important;
 	}
