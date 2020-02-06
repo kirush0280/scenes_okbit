@@ -7,8 +7,6 @@
 <div class="top-title title-big" style="float:left; margin-left:50px;">{{TITLE}}</div>
 <!-- / подстановка нзвания сцены  -->
 
-
-
 <!-- вывод верхнего меню -->
 <div class="top-menu">{{HEADER}}</div>
 <!-- / вывод верхнего меню -->
