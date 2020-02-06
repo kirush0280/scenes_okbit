@@ -639,6 +639,7 @@ A, A:hover {
 	font-weight: bold;
 	font-size: 14px;
 	margin: 5px 10px;
+	color: #000000;
 	
 }
 
@@ -922,6 +923,7 @@ A, A:hover {
 .right-menu .text-html{
 	width:100%;
 	background: #f0eff4;
+	color: #000000;
 	padding: 6px;
 	padding-top: 4px;
 	margin-bottom:2px;
@@ -1528,6 +1530,7 @@ input[type="checkbox"]:checked + label::after {
 	margin:6px 4px 10px 0px;
 	float:right;
 	font-size: 14px;
+	color: #000000;
 }
 
 .modalDialog {
