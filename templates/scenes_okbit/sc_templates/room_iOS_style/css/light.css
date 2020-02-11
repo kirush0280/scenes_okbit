@@ -45,7 +45,7 @@ table {
     margin: 3px 20px 0 25px;
     float: right;
     font-weight: bold;
-    color: #b1b1b1!important;
+    color: #000000!important;
 }
 
 .top-title, .top-back {
@@ -300,9 +300,6 @@ A, A:hover {
 
 .left-menu .link-ico-12{
 	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/room_security.png);
-}
-.left-menu .link-ico-13{
-        background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/room_setting.png);
 }
 
 .left-arrow{
@@ -826,6 +823,7 @@ A, A:hover {
 .right-menu span {
 	font-size: 12px;
 	padding: 4px;
+	color: #000000;
 }
 
 .right-menu .link-ico-1-0 {
@@ -1675,7 +1673,7 @@ input[type="checkbox"]:checked + label::after {
 	font-size:18px!important;
 	/*height:70px !important;*/
 	background:#f6f6f8 !important;
-	border-bottom: 2px ridge #6d6e6f !important;
+/*	border-bottom: 2px ridge #6d6e6f !important;*/
 }
 
 
@@ -1708,7 +1706,7 @@ input[type="checkbox"]:checked + label::after {
 	height: 100vh!important;
 	text-align:left  !important;
 	border: 0px !important;
-	border-right: 2px solid #242425  !important;
+/*	border-right: 2px solid #242425  !important;*/
 	background : 0 !important;
 }
 
