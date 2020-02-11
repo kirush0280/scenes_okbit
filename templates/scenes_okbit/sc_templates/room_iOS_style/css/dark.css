@@ -2835,6 +2835,21 @@ A, A:hover {
         padding:0px!important;*/
 
         }
+        .player {
+                width:calc(100vw - 20px)!important;
+        }
+        .small-top-title {
+                display: block!important;
+                margin-top: 5px!important;
+                float: right!important;
+                margin-right: 10px;
+                border-radius: 5px;
+                border: 1px solid #000000; /* задаём границу */
+                padding: 1px 5px 1px 5px;
+                background: #f0eff4;
+                font-size: 16px;
+                color: #ffffff;
+        }
 
         .img-home {
                 height: 200px;
@@ -2918,23 +2933,8 @@ A, A:hover {
                 height: 45px !important;
                 margin: 0 6px 0 6px!important;
         }
-        .small-top-title {
-                display: block!important;
-                margin-top: 5px!important;
-                float: right!important;
-                margin-right: 10px;
-                border-radius: 5px;
-                border: 1px solid #000000; /* задаём границу */
-                padding: 1px 5px 1px 5px;
-                background: #f0eff4;
-                font-size: 16px;
-                color: #ffffff;
-        }
         .tv-out-p{
                 width:calc(100vw - 10px)!important;
-        }
-        .player {
-                width:calc(100vw - 20px)!important;
         }
         .info-sl{
                 width: calc(100vw - 40px)!important;

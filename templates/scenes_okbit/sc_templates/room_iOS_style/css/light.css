@@ -306,6 +306,7 @@ A, A:hover {
 	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/room_setting.png);
 }
 
+
 .left-arrow{
 	margin: 4px 2px 0 0;
 	float:right;
@@ -2863,6 +2864,18 @@ input[type="checkbox"]:checked + label::after {
 	.player {
 		width:calc(100vw - 20px)!important;
 	}
+	.small-top-title {
+		display: block!important;
+		margin-top: 5px!important; 
+		float: right!important;
+		margin-right: 10px;
+		border-radius: 5px;
+		border: 1px solid #000000; /* задаём границу */
+		padding: 1px 5px 1px 5px;
+		background: #f0eff4;
+		font-size: 16px;
+		color: #ffffff;
+	}
 	
 	.img-home {
 		height: 200px;
@@ -2946,18 +2959,6 @@ input[type="checkbox"]:checked + label::after {
 		height: 45px !important;
 		margin: 0 6px 0 6px!important;
 	}	
-	.small-top-title {
-		display: block!important;
-		margin-top: 5px!important; 
-		float: right!important;
-		margin-right: 10px;
-		border-radius: 5px;
-		border: 1px solid #000000; /* задаём границу */
-		padding: 1px 5px 1px 5px;
-		background: #f0eff4;
-		font-size: 16px;
-		color: #ffffff;
-	}
 	.tv-out-p{
 		width:calc(100vw - 10px)!important;
 	}
