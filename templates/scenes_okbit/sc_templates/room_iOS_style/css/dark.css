@@ -26,21 +26,6 @@ table {
 	width:100%!important;
 }
 
-
-b {
-        color:inherit; /* цвет имени */
-}
-
-.shout_form { 
-            display: none!important;
-    }
-
-.shout_content {
-        font-size: inherit;
-        color: inherit; /* цвет основного текста */
-	text-align: left;
-}
-
 .avent-time{
     font-size: 14px;
     margin: 3px 20px 0 25px;
@@ -2845,8 +2830,8 @@ A, A:hover {
                 order: 2!important;
                 padding: 0px!important;
                 margin: 0px!important;
-                background: #f0eff4!important;
-/*      margin: 5px!important;
+/*                background: #f0eff4!important;
+      margin: 5px!important;
         padding:0px!important;*/
 
         }
