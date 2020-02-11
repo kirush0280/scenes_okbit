@@ -15,7 +15,6 @@ a, a:hover {
 
 body {
 	background: #F0EFF4!important;
-/*	background-image:url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/pattern_40.gif)!important;*/
 	color: #000000 !important;
 	font-size: 20px!important;
 	text-align: center!important;
@@ -30,12 +29,7 @@ table {
         color:blue; /* цвет имени */
 }
 
-.shout_form { 
-            display: none!important;
-    }
-
 .shout_content {
-        font-size: inherit;
         color: black; /* цвет основного текста */
 	text-align: left;
 }
@@ -2877,7 +2871,7 @@ input[type="checkbox"]:checked + label::after {
 		color: #ffffff;
 	}
 	.top-menu{
-		background: #f6f6f8!important;
+		background: #f0eff4!important;
 		width: 100%!important;
 		padding: 3px;
 	}
@@ -2931,7 +2925,7 @@ input[type="checkbox"]:checked + label::after {
 	}
 	
 	.center-menu .link-ico-out {
-		width:8 5px;
+		width:85px;
 		margin-bottom: 5px;
 	}
 	

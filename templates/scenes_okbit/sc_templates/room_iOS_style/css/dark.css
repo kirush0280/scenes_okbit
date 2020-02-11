@@ -2844,11 +2844,21 @@ A, A:hover {
                 float: right!important;
                 margin-right: 10px;
                 border-radius: 5px;
-                border: 1px solid #000000; /* задаём границу */
+                border: 1px solid #37373a; /* задаём границу */
                 padding: 1px 5px 1px 5px;
-                background: #f0eff4;
-                font-size: 16px;
-                color: #ffffff;
+                background: #7b7e83;
+		font-size: 16px;
+        }
+        .top-menu{
+                background: #37373a!important;
+                width: 100%!important;
+                padding: 3px;
+        }
+
+        .top-menu .link {
+                width: 45px !important;
+                height: 45px !important;
+                margin: 0 6px 0 6px!important;
         }
 
         .mini-title {
@@ -2858,17 +2868,17 @@ A, A:hover {
                 font-weight: bold;
                 text-transform: uppercase;
         }
-
-        .top-menu{
-                background: #f6f6f8!important;
-                width: 100%!important;
-                padding: 3px;
+        .top-title {
+                display: none;
         }
-
-        .top-menu .link {
-                width: 45px !important;
-                height: 45px !important;
-                margin: 0 6px 0 6px!important;
+        .small-title {
+                height: 30px;
+                padding-top: 5px;
+                margin-left: 10px;
+                font-size: 16px;
+                font-weight: bold;
+                margin-top: 5px!important;
+                float: left!important;
         }
 
         .img-home {
@@ -2892,23 +2902,8 @@ A, A:hover {
                 font-size: 16px;
         }
 
-        .top-title {
-                display: none;
-        }
-
-        .small-title {
-                height: 30px;
-                padding-top: 5px;
-                margin-left: 10px;
-                font-size: 16px;
-                font-weight: bold;
-                margin-top: 5px!important;
-                float: left!important;
-                color: #000000;
-        }
-
         .center-menu .link-ico-out {
-                width:8 5px;
+                width:85px;
                 margin-bottom: 5px;
         }
 
@@ -2934,7 +2929,7 @@ A, A:hover {
                 border: 0 !important;
         }
         .tv-out-p{
-                width:calc(100vw - 10px)!important;
+                width: calc(100vw - 10px)!important;
         }
         .info-sl{
                 width: calc(100vw - 40px)!important;
