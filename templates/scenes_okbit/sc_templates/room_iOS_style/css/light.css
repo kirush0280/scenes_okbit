@@ -280,6 +280,10 @@ A, A:hover {
 	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/room_security.png);
 }
 
+.left-menu .link-ico-13{
+	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/room_setting.png);
+}
+
 .left-arrow{
 	margin: 4px 2px 0 0;
 	float:right;
