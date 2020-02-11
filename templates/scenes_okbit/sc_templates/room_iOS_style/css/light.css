@@ -26,6 +26,28 @@ table {
 	width:100%!important;
 }
 
+ b {
+        color:blue; /* цвет имени */
+}
+
+.shout_form { 
+            display: none!important;
+    }
+
+.shout_content {
+        font-size: inherit;
+        color: black; /* цвет основного текста */
+	text-align: left;
+}
+
+.avent-time{
+    font-size: 14px;
+    margin: 3px 20px 0 25px;
+    float: right;
+    font-weight: bold;
+    color: #b1b1b1!important;
+}
+
 .top-title, .top-back {
 	float:left;
 	font-size: 19px;
@@ -295,6 +317,7 @@ A, A:hover {
 	padding: 6px;
 	padding-top: 4px;
 	margin-bottom:2px;
+	
 }
 
 .time-home {
@@ -928,6 +951,8 @@ A, A:hover {
 	padding: 6px;
 	padding-top: 4px;
 	margin-bottom:2px;
+	text-align:center;
+
 }
 
 .right-arrow{
@@ -1118,8 +1143,6 @@ A, A:hover {
 	text-align:center;
 	
 }
-
-
 
 .circleP img {
 	width: 33px!important; 
@@ -2642,8 +2665,6 @@ input[type="checkbox"]:checked + label::after {
 }
 
 
-
-
 /* Portrait tablets and medium desktops */
 @media (min-width: 1440px) and (max-width: 1920px) {
 	.img-home {
@@ -2701,9 +2722,6 @@ input[type="checkbox"]:checked + label::after {
 	
 	
 }
-
-
-
 
 /* Portrait tablets and small desktops */
 @media (min-width: 700px) and (max-width: 899px) {
@@ -2808,31 +2826,34 @@ input[type="checkbox"]:checked + label::after {
 	
 }
 
-
-
-
 /* Landscape phones and smaller */
-@media (max-width: 699px) {
+@media (min-width: 300px) and (max-width: 699px) {
 	#scene_background_{{ID}} {
 		display: flex!important;
 		flex-flow: wrap!important;
-	}
-	
+	}	
 	.{{HEADER}}, .{{LEFT}}, .{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .{{RIGHT1}}, .{{RIGHT2}}, .{{RIGHT3}}, .{{RIGHT4}}, .{{RIGHT5}}, .{{RIGHT6}}, .{{RIGHT7}}, .{{RIGHT8}}, .{{RIGHT9}}, .{{RIGHT10}}, .{{RIGHT11}}, .{{RIGHT12}}, .{{RIGHT13}}, .{{RIGHT14}}, .{{RIGHT15}}, .center-v, .right-v { 
 		width: 100%!important;
 		height : auto !important;
 	}
-		
-	.{{HEADER}} {order: 3!important;}
-	.{{LEFT}} {order: 0!important;}
-	.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}} , .center-v {order: 2!important;}
-	.{{RIGHT1}}, .{{RIGHT2}}, .{{RIGHT3}}, .{{RIGHT4}}, .{{RIGHT5}}, .{{RIGHT6}}, .{{RIGHT7}}, .{{RIGHT8}}, .{{RIGHT9}}, .{{RIGHT10}}, .{{RIGHT11}}, .{{RIGHT12}}, .{{RIGHT13}}, .{{RIGHT14}}, .{{RIGHT15}}, .right-v {order: 1!important;}
+	.{{HEADER}} {
+		order: 3!important;
+	}
+	.{{LEFT}} {
+		order: 0!important;
+	}
+	.{{RIGHT1}}, .{{RIGHT2}}, .{{RIGHT3}}, .{{RIGHT4}}, .{{RIGHT5}}, .{{RIGHT6}}, .{{RIGHT7}}, .{{RIGHT8}}, .{{RIGHT9}}, .{{RIGHT10}}, .{{RIGHT11}}, .{{RIGHT12}}, .{{RIGHT13}}, .{{RIGHT14}}, .{{RIGHT15}}, .right-v {
+		order: 1!important;
+	}
 
-
-	.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}} {
+	.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .center-v  {
+		order: 2!important;
 		padding: 0px!important;
 		margin: 0px!important;
 		background: #f0eff4!important;
+/*	margin: 5px!important;
+	padding:0px!important;*/
+
 	}
 	
 	.img-home {
@@ -2842,12 +2863,6 @@ input[type="checkbox"]:checked + label::after {
 		border-radius: 0!important;
 	}
 	
-/*	.{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .center-v { 	
-	margin: 5px!important;
-	padding:0px!important;
-	}
-*/
-
 	.in-home-1 {
 		height:130px;
 	}
@@ -2856,6 +2871,7 @@ input[type="checkbox"]:checked + label::after {
 		height:70px;
 		margin: 0 auto; 
 	}
+
 	
 	.home-addition {
 		font-size: 16px;
@@ -2871,13 +2887,13 @@ input[type="checkbox"]:checked + label::after {
 		margin-left: 10px;
 		font-size: 16px;
 		font-weight: bold;
-		margin-top: 5px!important; 
-		float:left!important;
+		margin-top: 5px!important;
+		float: left!important;
 		color: #000000;
 	}
 	
 	.center-menu .link-ico-out {
-		width:85px;
+		width:8 5px;
 		margin-bottom: 5px;
 	}
 	
@@ -2890,8 +2906,8 @@ input[type="checkbox"]:checked + label::after {
 	}
 	
 	.ico-stutus .ico {
-		width:24px;
-		height:24px;
+		width: 24px;
+		height: 24px;
 	}
 	
 	.time-home{
@@ -2905,7 +2921,7 @@ input[type="checkbox"]:checked + label::after {
 	
 	.mini-title {
 		font-size: 12px;
-		text-align:left;
+		text-align: left;
 		padding: 7px;
 		font-weight: bold;
 		text-transform: uppercase; 
@@ -2921,31 +2937,26 @@ input[type="checkbox"]:checked + label::after {
 		width: 45px !important;
 		height: 45px !important;
 		margin: 0 6px 0 6px!important;
-	}
-	
+	}	
 	.small-top-title {
 		display: block!important;
 		margin-top: 5px!important; 
-		float:right!important;
+		float: right!important;
 		margin-right: 10px;
 		border-radius: 5px;
 		border: 1px solid #000000; /* задаём границу */
 		padding: 1px 5px 1px 5px;
 		background: #f0eff4;
-		font-size:16px;
-		color:#ffffff;
+		font-size: 16px;
+		color: #ffffff;
 	}
-	
 	.tv-out-p{
 		width:calc(100vw - 10px)!important;
 	}
-	
 	.player {
 		width:calc(100vw - 20px)!important;
 	}
-	
 	.info-sl{
 		width: calc(100vw - 40px)!important;
 	}
-
 }
