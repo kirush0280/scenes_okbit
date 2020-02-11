@@ -2851,6 +2851,26 @@ A, A:hover {
                 color: #ffffff;
         }
 
+        .mini-title {
+                font-size: 12px;
+                text-align: left;
+                padding: 7px;
+                font-weight: bold;
+                text-transform: uppercase;
+        }
+
+        .top-menu{
+                background: #f6f6f8!important;
+                width: 100%!important;
+                padding: 3px;
+        }
+
+        .top-menu .link {
+                width: 45px !important;
+                height: 45px !important;
+                margin: 0 6px 0 6px!important;
+        }
+
         .img-home {
                 height: 200px;
                 padding:0px;
@@ -2912,26 +2932,6 @@ A, A:hover {
         .{{HEADER}} {
                 background: 0!important;
                 border: 0 !important;
-        }
-
-        .mini-title {
-                font-size: 12px;
-                text-align: left;
-                padding: 7px;
-                font-weight: bold;
-                text-transform: uppercase;
-        }
-
-        .top-menu{
-                background: #f6f6f8!important;
-                width: 100%!important;
-                padding: 3px;
-        }
-
-        .top-menu .link {
-                width: 45px !important;
-                height: 45px !important;
-                margin: 0 6px 0 6px!important;
         }
         .tv-out-p{
                 width:calc(100vw - 10px)!important;
