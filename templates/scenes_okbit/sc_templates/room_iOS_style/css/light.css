@@ -544,7 +544,21 @@ A, A:hover {
 .center-menu .link-ico-14, .right-menu .link-ico-14 {
 	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-1.png)!important;
 }
+.center-menu .link-ico-15, .right-menu .link-ico-15 {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-2.png)!important;
+}
 
+.center-menu .link-ico-16, .right-menu .link-ico-16 {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-3.png)!important;
+}
+
+.center-menu .link-ico-17, .right-menu .link-ico-17 {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-4.png)!important;
+}
+
+.center-menu .link-ico-18, .right-menu .link-ico-18 {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-5.png)!important;
+}
 
 
 .center-menu .select-ico-1 {
@@ -603,6 +617,22 @@ A, A:hover {
 	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-1.png)!important;
 }
 
+.center-menu .select-ico-15 {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-2.png)!important;
+}
+
+.center-menu .select-ico-16 {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-3.png)!important;
+}
+
+.center-menu .select-ico-17 {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-4.png)!important;
+}
+
+.center-menu .select-ico-18 {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-5.png)!important;
+}
+
 
 
 
@@ -620,6 +650,9 @@ A, A:hover {
 
 .center-menu .link-curtains-4 {
 	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-4.png)!important;
+}
+.center-menu .link-curtains-5 {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-5.png)!important;
 }
 
 .win-open {	
