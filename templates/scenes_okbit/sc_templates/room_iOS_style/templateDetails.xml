@@ -2004,6 +2004,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">room-hoz2			</filesIco>
 		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER1" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2059,6 +2063,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">radio-in			</filesIco>
 		<filesIco id="14">win-1			</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER1" element="rgb_sel">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2079,6 +2087,7 @@
 		<filesIco id="2">win-2				</filesIco>
 		<filesIco id="3">win-3				</filesIco>
 		<filesIco id="4">win-4				</filesIco>
+		<filesIco id="5">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER1" element="info_sos">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2109,6 +2118,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">room-hoz2			</filesIco>
 		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER2" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2162,6 +2175,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">radio-in			</filesIco>
 		<filesIco id="14">win-1			</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER2" element="rgb_sel">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2182,6 +2199,7 @@
 		<filesIco id="2">win-2				</filesIco>
 		<filesIco id="3">win-3				</filesIco>
 		<filesIco id="4">win-4				</filesIco>
+		<filesIco id="5">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER2" element="info_sos">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2213,6 +2231,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">room-hoz2			</filesIco>
 		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER3" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2266,6 +2288,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">radio-in			</filesIco>
 		<filesIco id="14">win-1			</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER3" element="rgb_sel">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2286,6 +2312,7 @@
 		<filesIco id="2">win-2				</filesIco>
 		<filesIco id="3">win-3				</filesIco>
 		<filesIco id="4">win-4				</filesIco>
+		<filesIco id="5">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER3" element="info_sos">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2318,6 +2345,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">room-hoz2			</filesIco>
 		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER4" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2371,6 +2402,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">radio-in			</filesIco>
 		<filesIco id="14">win-1			</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER4" element="rgb_sel">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2391,6 +2426,7 @@
 		<filesIco id="2">win-2				</filesIco>
 		<filesIco id="3">win-3				</filesIco>
 		<filesIco id="4">win-4				</filesIco>
+		<filesIco id="5">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER4" element="info_sos">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2422,6 +2458,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">room-hoz2			</filesIco>
 		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER5" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2475,6 +2515,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">radio-in			</filesIco>
 		<filesIco id="14">win-1			</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER5" element="rgb_sel">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2495,6 +2539,7 @@
 		<filesIco id="2">win-2				</filesIco>
 		<filesIco id="3">win-3				</filesIco>
 		<filesIco id="4">win-4				</filesIco>
+		<filesIco id="5">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER5" element="info_sos">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2526,6 +2571,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">room-hoz2			</filesIco>
 		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER6" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2579,6 +2628,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">radio-in			</filesIco>
 		<filesIco id="14">win-1			</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER6" element="rgb_sel">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2599,6 +2652,7 @@
 		<filesIco id="2">win-2				</filesIco>
 		<filesIco id="3">win-3				</filesIco>
 		<filesIco id="4">win-4				</filesIco>
+		<filesIco id="5">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER6" element="info_sos">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2630,6 +2684,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">room-hoz2			</filesIco>
 		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER7" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2683,6 +2741,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">radio-in			</filesIco>
 		<filesIco id="14">win-1			</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER7" element="rgb_sel">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2703,6 +2765,7 @@
 		<filesIco id="2">win-2				</filesIco>
 		<filesIco id="3">win-3				</filesIco>
 		<filesIco id="4">win-4				</filesIco>
+		<filesIco id="5">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER7" element="info_sos">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2734,6 +2797,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">room-hoz2			</filesIco>
 		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER8" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2787,6 +2854,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">radio-in			</filesIco>
 		<filesIco id="14">win-1			</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER8" element="rgb_sel">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2807,6 +2878,7 @@
 		<filesIco id="2">win-2				</filesIco>
 		<filesIco id="3">win-3				</filesIco>
 		<filesIco id="4">win-4				</filesIco>
+		<filesIco id="5">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER8" element="info_sos">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2839,6 +2911,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">room-hoz2			</filesIco>
 		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER9" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2892,6 +2968,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">radio-in			</filesIco>
 		<filesIco id="14">win-1			</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER9" element="rgb_sel">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2912,6 +2992,7 @@
 		<filesIco id="2">win-2				</filesIco>
 		<filesIco id="3">win-3				</filesIco>
 		<filesIco id="4">win-4				</filesIco>
+		<filesIco id="5">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER9" element="info_sos">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2944,6 +3025,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">room-hoz2			</filesIco>
 		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER10" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2997,6 +3082,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">radio-in			</filesIco>
 		<filesIco id="14">win-1			</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER10" element="rgb_sel">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -3017,6 +3106,7 @@
 		<filesIco id="2">win-2				</filesIco>
 		<filesIco id="3">win-3				</filesIco>
 		<filesIco id="4">win-4				</filesIco>
+		<filesIco id="5">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER10" element="info_sos">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3048,6 +3138,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">room-hoz2			</filesIco>
 		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER11" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3101,6 +3195,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">radio-in			</filesIco>
 		<filesIco id="14">win-1			</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER11" element="rgb_sel">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -3121,6 +3219,7 @@
 		<filesIco id="2">win-2				</filesIco>
 		<filesIco id="3">win-3				</filesIco>
 		<filesIco id="4">win-4				</filesIco>
+		<filesIco id="5">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER11" element="info_sos">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3153,6 +3252,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">room-hoz2			</filesIco>
 		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER12" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3206,6 +3309,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">radio-in			</filesIco>
 		<filesIco id="14">win-1			</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER12" element="rgb_sel">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -3226,6 +3333,7 @@
 		<filesIco id="2">win-2				</filesIco>
 		<filesIco id="3">win-3				</filesIco>
 		<filesIco id="4">win-4				</filesIco>
+		<filesIco id="5">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER12" element="info_sos">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3258,6 +3366,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">room-hoz2			</filesIco>
 		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER13" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3311,6 +3423,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">radio-in			</filesIco>
 		<filesIco id="14">win-1			</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER13" element="rgb_sel">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -3331,6 +3447,7 @@
 		<filesIco id="2">win-2				</filesIco>
 		<filesIco id="3">win-3				</filesIco>
 		<filesIco id="4">win-4				</filesIco>
+		<filesIco id="5">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER13" element="info_sos">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3363,6 +3480,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">room-hoz2			</filesIco>
 		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER14" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3416,6 +3537,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">radio-in			</filesIco>
 		<filesIco id="14">win-1			</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER14" element="rgb_sel">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -3436,6 +3561,7 @@
 		<filesIco id="2">win-2				</filesIco>
 		<filesIco id="3">win-3				</filesIco>
 		<filesIco id="4">win-4				</filesIco>
+		<filesIco id="5">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER14" element="info_sos">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3468,6 +3594,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">room-hoz2			</filesIco>
 		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER15" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3521,6 +3651,10 @@
 		<filesIco id="12">rgb				</filesIco>
 		<filesIco id="13">radio-in			</filesIco>
 		<filesIco id="14">win-1			</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+		<filesIco id="16">win-3				</filesIco>
+		<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER15" element="rgb_sel">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -3541,6 +3675,7 @@
 		<filesIco id="2">win-2				</filesIco>
 		<filesIco id="3">win-3				</filesIco>
 		<filesIco id="4">win-4				</filesIco>
+		<filesIco id="5">win-5				</filesIco>
 	</ico>
 	<ico ico_pos="CENTER15" element="info_sos">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3556,7 +3691,6 @@
         </ico>
 
 	<!-- CENTER15 ICO END -->
-
 	<!-- RIGHT1 ICO START -->
 	<ico ico_pos="RIGHT1" element="button_icor">
 		<filesIco id="1">script-lamp-0</filesIco>
