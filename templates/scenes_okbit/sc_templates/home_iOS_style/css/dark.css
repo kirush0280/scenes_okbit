@@ -563,11 +563,11 @@ A, A:hover {
 	background: #d7a306;
 }
 
-.center-menu .link-color-2-0{
+.center-menu .link-color-2-0, .center-menu .link-color-17-0{
 	border: 2px solid #93d556;
 }
 
-.center-menu .link-color-2-1{
+.center-menu .link-color-2-1, .center-menu .link-color-17-1{
 	border: 2px solid #d2fdab;
 	background:#93d556;
 }
@@ -756,7 +756,13 @@ A, A:hover {
 .center-menu .link-ico-16-0 {
 	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/script-radio-0.png)!important;
 }
+.center-menu .link-ico-17-1 {
+	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/script-spruce-1.png)!important;
+}
 
+.center-menu .link-ico-17-0 {
+	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/script-spruce-0.png)!important;
+}
 
 .center-menu .info-ico-in{
 	font-size:18px;
