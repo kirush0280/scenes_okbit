@@ -22,8 +22,8 @@ b {
 /* Конец лога Алисы */
 
 body {
-	background: #f1eff6!important;
-	background-image:url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/pattern_40w.jpg)!important;
+	background: #f0eff4!important;
+/*	background-image:url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/pattern_40w.jpg)!important;*/
 /*	color: #aeadaf!important;*/
 	color: #b1b1b1 !important;
 	font-size: 20px!important;
@@ -175,19 +175,20 @@ table {
 	color: #000000;
 	font-size:16px;
 	width:100%;
-	background: #F5F4F9;
+	background: #f0eff4;
 }
 
 .left-link{
 	width:100%;
 /*	color: #ffffff;*/
 	height: 40px;
-	background: #fbf9f9;
+	background: #ffffff;
 	padding: 6px;
 	padding-top: 4px;
 /*	font-weight: 100; 
 	border-bottom: 2px solid #d7d7d7  !important; 
 	margin-bottom: 2px;*/
+	font-weight: bold;
 }
 
 .left-link span{
@@ -408,11 +409,11 @@ A, A:hover {
 .left-menu .text-html{
 	width: 100%;
 	color: #777;
-	background: #fbf9f9;
+	background: #ffffff;
 	padding: 6px;
 	padding-top: 4px;
 	margin-bottom: 2px;
-/* 	font-weight: bold;
+/*	font-weight: bold;
 	border-bottom: 2px solid #000  !important; */
 }
 .time-home {
@@ -746,7 +747,7 @@ A, A:hover {
 
 .right-menu .text-html{
 	width:100%;
-	background: #f5f4f9;
+	background: #f0eff4;
 	padding: 6px;
 	padding-top: 4px;
 	margin-bottom:2px;
@@ -798,7 +799,7 @@ A, A:hover {
 	height: calc(100vh - 80px)!impartant;
 	text-align:left  !important;
 	border: 0px !important;
-	border-right: 2px solid #dadada  !important;
+/*	border-right: 2px solid #dadada  !important;*/
 	background : #f1f0f6 !important;
 }
 
@@ -857,7 +858,7 @@ A, A:hover {
 	height:100vh  !important;
 	text-align:left  !important;
 	border: 0px !important;
-	border-left: 2px solid #dadada  !important;
+/*	border-left: 2px solid #dadada  !important;*/
 	background : #f1f0f6 !important;
 }
 
