@@ -2008,6 +2008,7 @@
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
 		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER1" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2123,7 +2124,7 @@
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
 		<filesIco id="18">win-5				</filesIco>
-
+		<filesIco id="19">left-show-radio</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER2" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2238,7 +2239,7 @@
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
 		<filesIco id="18">win-5				</filesIco>
-
+		<filesIco id="19">left-show-radio</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER3" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2354,7 +2355,7 @@
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
 		<filesIco id="18">win-5				</filesIco>
-
+		<filesIco id="19">left-show-radio</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER4" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2469,7 +2470,7 @@
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
 		<filesIco id="18">win-5				</filesIco>
-
+		<filesIco id="19">left-show-radio</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER5" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2584,7 +2585,7 @@
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
 		<filesIco id="18">win-5				</filesIco>
-
+		<filesIco id="19">left-show-radio</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER6" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2699,7 +2700,7 @@
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
 		<filesIco id="18">win-5				</filesIco>
-
+		<filesIco id="19">left-show-radio</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER7" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2814,7 +2815,7 @@
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
 		<filesIco id="18">win-5				</filesIco>
-
+		<filesIco id="19">left-show-radio</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER8" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -2930,7 +2931,7 @@
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
 		<filesIco id="18">win-5				</filesIco>
-
+		<filesIco id="19">left-show-radio</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER9" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3046,7 +3047,7 @@
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
 		<filesIco id="18">win-5				</filesIco>
-
+		<filesIco id="19">left-show-radio</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER10" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3161,7 +3162,7 @@
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
 		<filesIco id="18">win-5				</filesIco>
-
+		<filesIco id="19">left-show-radio</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER11" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3277,7 +3278,7 @@
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
 		<filesIco id="18">win-5				</filesIco>
-
+		<filesIco id="19">left-show-radio</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER12" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3393,7 +3394,7 @@
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
 		<filesIco id="18">win-5				</filesIco>
-
+		<filesIco id="19">left-show-radio</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER13" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3509,7 +3510,7 @@
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
 		<filesIco id="18">win-5				</filesIco>
-
+		<filesIco id="19">left-show-radio</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER14" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
@@ -3625,7 +3626,7 @@
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
 		<filesIco id="18">win-5				</filesIco>
-
+		<filesIco id="19">left-show-radio</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER15" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
