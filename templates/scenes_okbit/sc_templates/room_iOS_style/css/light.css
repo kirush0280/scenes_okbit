@@ -559,6 +559,9 @@ A, A:hover {
 .center-menu .link-ico-18, .right-menu .link-ico-18 {
     background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-5.png)!important;
 }
+.center-menu .link-ico-19, .right-menu .link-ico-19 {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/left-show-radio.png)!important;
+}
 
 
 .center-menu .select-ico-1 {
