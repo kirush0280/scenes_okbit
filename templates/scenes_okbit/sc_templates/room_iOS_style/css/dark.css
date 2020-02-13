@@ -291,6 +291,9 @@ A, A:hover {
 .left-menu .link-ico-13{
     background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/room_setting.png);
 }
+.left-menu .link-ico-14{
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/room_aquarium.png);
+}
 
 .left-arrow{
 	margin: 4px 2px 0 0;
