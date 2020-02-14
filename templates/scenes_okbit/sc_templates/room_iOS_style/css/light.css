@@ -565,6 +565,15 @@ A, A:hover {
 .center-menu .link-ico-19, .right-menu .link-ico-19 {
     background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/left-show-radio.png)!important;
 }
+.center-menu .link-ico-20, .right-menu .link-ico-20 {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/cold_water.png)!important;
+}
+.center-menu .link-ico-21, .right-menu .link-ico-21 {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/hot_water.png)!important;
+}
+.center-menu .link-ico-22, .right-menu .link-ico-22 {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/warm_water.png)!important;
+}
 
 
 .center-menu .select-ico-1 {
