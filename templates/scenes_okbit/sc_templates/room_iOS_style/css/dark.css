@@ -31,7 +31,7 @@ table {
     margin: 3px 20px 0 25px;
     float: right;
     font-weight: bold;
-    color: #b1b1b1!important;
+    color: #ffffff!important;
 }
 
 .top-title, .top-back {
@@ -705,7 +705,7 @@ A, A:hover {
 	font-weight: bold;
 	font-size: 14px;
 	margin: 5px 10px;
-	
+	color: #ffffff;
 }
 
 .info-ico-1 {
