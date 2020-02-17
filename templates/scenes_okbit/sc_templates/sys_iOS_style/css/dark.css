@@ -3,21 +3,20 @@
     src: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/css/font/IstokWeb-Regular.ttf); /* Путь к файлу со шрифтом */
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
 
 h4, span, div, p, text{
 	font-family: okbit!important;
 }
 
-
+a, a:hover {
+        text-decoration: none!important;
+        color: #ffffff;
+}
 
 body {
 	background: #2e323a!important;
 	background-image:url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/pattern_40.gif)!important;
-	color: #b1b1b1 !important;
+	color: #ffffff !important;
 	font-size: 20px!important;
 	text-align: center!important;
 	padding: 0px!important;
@@ -359,6 +358,7 @@ table {
 	font-weight: bold;
 	font-size: 14px;
 	margin: 5px 10px;
+	color: #ffffff;
 	
 }
 
@@ -415,6 +415,7 @@ table {
     background-size: cover;
     background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/sLeft.png);
 }
+
 
 
 .link-ico-switch span {
@@ -1005,13 +1006,12 @@ table {
 }
 
 .avent-time{
-	font-size: 14px;
+    font-size: 14px;
     margin: 3px 20px 0 25px;
     float: right;
     font-weight: bold;
-	color: #b1b1b1!important;
+    color: #ffffff!important;
 }
-
 
 .{{HEADER}} { /* HEADER */
 	position: relative !important;
@@ -2004,8 +2004,8 @@ center-menu
 
 	
 	.top-title, .top-back {
-		font-size: 14px;
-		margin: 14px 0 0 20px;
+		font-size: 16px;
+		margin: 16px 0 0 20px;
 	}
 	
 	.{{HEADER}}{
@@ -2060,9 +2060,6 @@ center-menu
 	.small-title{
 		display: block!important;
 	}
-	
-
-
 	.in-home-1 {
 		height:130px;
 	}
@@ -2076,10 +2073,10 @@ center-menu
 		font-size: 16px;
 	}
 	
-	.top-title, .top-back {
+	.top-title {
 		display: none;
 	}
-	
+
 	.small-title {
 		height:30px;
 		margin-top:8px;
@@ -2091,6 +2088,7 @@ center-menu
 	.top-small {		
 		height: 37px;
 		width:100%;		
+		color: #ffffff;
 	}
 	
 	.center-menu .link-ico-out {
@@ -2152,10 +2150,8 @@ center-menu
 	.top-menu .link {
 		width: 45px !important;
 		height: 45px !important;
-		margin: 0 7px 0 7px!important;
+		margin: 0 6px 0 6px!important;
 	}
-	
-	
 	.small-top-title {
 		display: block!important;
 		margin-top: 5px!important; 
@@ -2165,6 +2161,7 @@ center-menu
 		border: 1px solid #37373a; /* задаём границу */
 		padding: 1px 5px 1px 5px;
 		background: #7b7e83!important;
+		font-size: 16px;
 	}
 	
 	.range-t{
@@ -2191,7 +2188,10 @@ center-menu
 		height: 94px;
 		margin-bottom: 5px;
 	}
-	
+	.top-back {
+	    font-size: 16px;
+	    margin: 14px 0 0 20px;	
+	    color: #ffffff!important;
 }
 
 
