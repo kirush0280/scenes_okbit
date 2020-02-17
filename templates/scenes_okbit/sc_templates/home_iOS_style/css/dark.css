@@ -13,7 +13,7 @@ h4, span, div, p, text{
 body {
 	background: #2e323a!important;
 	background-image:url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/pattern_40.gif)!important;
-	color: #b1b1b1 !important;
+	color: #ffffff !important;
 	font-size: 20px!important;
 	text-align: center!important;
 	padding: 0px!important;
@@ -25,7 +25,7 @@ table {
 
 /* Лог алисы */
 b {
-        color:yellow!important;
+	color: rgba(249, 229, 91, 0.9);
 }
 
 .shout_content {
@@ -422,6 +422,7 @@ A, A:hover {
 	padding: 6px;
 	padding-top: 4px;
 	margin-bottom:2px;
+	color: #ffffff;
 }
 
 .time-home {
@@ -800,6 +801,7 @@ A, A:hover {
 	float:right;
 	font-size:16px;
 	width:100%;
+	color: #ffffff;
 }
 
 .right-menu .title {
