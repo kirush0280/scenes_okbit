@@ -16,7 +16,7 @@ a, a:hover {
 body {
 	background: #2e323a!important;
 	background-image:url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/pattern_40.gif)!important;
-	color: #b1b1b1 !important;
+	color: #ffffff !important;
 	font-size: 20px!important;
 	text-align: center!important;
 	padding: 0px!important;
@@ -1577,12 +1577,8 @@ A, A:hover {
 	margin:6px 4px 10px 0px;
 	float:right;
 	font-size: 14px;
+	color: #ffffff;
 }
-
-
-
-
-
 
 .modalDialog {
 		position: fixed;
