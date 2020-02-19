@@ -1945,17 +1945,17 @@ A, A:hover {
                 height : auto !important;
         }
 
-        .{{HEADER}} {order: 2!important;}
+        .{{HEADER}} {order: 3!important;}
         .{{LEFT}} {order: 1!important;}
         .{{CENTER}} {order: 0!important;}
-        .{{RIGHT}} {order: 3!important;}
+        .{{RIGHT}} {order: 2!important;}
 
 
         .{{CENTER}} {
                 padding: 0px!important;
                 margin: 0px!important;
 /*                background: #2e323a!important;*/
-                background: #ffffff!important;
+                background: #f0eff4!important;
         }
 
         .img-home {
@@ -2025,7 +2025,7 @@ A, A:hover {
 
         .top-menu{
 /*                background: #37373a!important;*/
-                background: #ffffff!important;
+                background: #f0eff4!important;
                 width: 100%!important;
                 padding: 3px;
         }

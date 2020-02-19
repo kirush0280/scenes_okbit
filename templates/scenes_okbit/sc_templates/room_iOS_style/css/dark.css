@@ -665,6 +665,29 @@ A, A:hover {
     background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/win-5.png)!important;
 }
 
+.link-player {
+    background-size: 33px;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+
+.link-player-prev {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/playControl/prev.png)!important;
+}
+.link-player-pause {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/playControl/pause.png)!important;
+}
+.link-player-play {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/playControl/play.png)!important;
+}
+.link-player-stop {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/playControl/stop.png)!important;
+}
+.link-player-next {
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/playControl/next.png)!important;
+}
+
+
 .win-open {
     margin: 0 4px;
     width: 30px;

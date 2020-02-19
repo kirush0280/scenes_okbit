@@ -10,29 +10,18 @@
 
 </script>
 
-
-
 <div class="player"> 
 	<div class="player-in">					
-		<div class="circleP gray" onclick="playControl(1)">
-			<img src="../../templates/scenes_okbit/sc_templates/room_iOS_style/images/playControl/prev.png"/>
+		<div class="circleP gray link-player link-player-prev" onclick="playControl(1)">
 		</div>           
-		<div class="circleP gray" onclick="playControl(2)">
-			<img src="../../templates/scenes_okbit/sc_templates/room_iOS_style/images/playControl/pause.png"/>
+		<div class="circleP gray link-player link-player-pause" onclick="playControl(2)">
 		</div>
-		<div class="circleP gray" onclick="playControl(3); app_player_5ca27efec036e_action('play');">
-			<img src="../../templates/scenes_okbit/sc_templates/room_iOS_style/images/playControl/play.png"/>
+		<div class="circleP gray link-player link-player-play" onclick="playControl(3); app_player_5ca27efec036e_action('play');">
 		</div>
-		<div class="circleP gray" onclick="playControl(4)">
-			<img src="../../templates/scenes_okbit/sc_templates/room_iOS_style/images/playControl/stop.png"/>
+		<div class="circleP gray link-player link-player-stop" onclick="playControl(4)">
 		</div>
-		<div class="circleP gray" onclick="playControl(5)">
-			<img src="../../templates/scenes_okbit/sc_templates/room_iOS_style/images/playControl/next.png"/>		
+		<div class="circleP gray link-player link-player-next" onclick="playControl(5)">
 		</div>
 		<div style="clear: left"></div>
 	</div>
 </div>
-
-
-
-    
