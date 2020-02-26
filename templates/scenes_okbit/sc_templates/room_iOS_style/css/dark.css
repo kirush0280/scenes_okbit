@@ -300,6 +300,10 @@ A, A:hover {
 .left-menu .link-ico-15{
     background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/left-show-industry.png);
 }
+.left-menu .link-ico-16{
+    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/info-wather.png);
+}
+
 
 .left-arrow{
 	margin: 4px 2px 0 0;
