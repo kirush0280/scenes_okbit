@@ -19,6 +19,5 @@ git clone https://github.com/kirush0280/scenes_okbit.git
 sql_mode=IGNORE_SPACE,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
 ```
 2. В mysql в таблице elements, столбец CSS, необходимо изменить тип поля TEXT на LONGTEXT.
-https://yadi.sk/i/Fj3eq3xPbaWl6Q
 ------
 
