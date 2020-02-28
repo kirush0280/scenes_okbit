@@ -177,6 +177,7 @@
 		<filesIco id="15">script-p-0</filesIco>
 		<filesIco id="16">script-radio-0</filesIco>
 		<filesIco id="17">script-spruce-0</filesIco>
+		<filesIco id="18">script-mail-0</filesIco>
 
 	</ico>
 	<ico ico_pos="CENTER" element="switch_ico">
@@ -197,6 +198,7 @@
 		<filesIco id="15">script-p-0</filesIco>
 	    <filesIco id="16">script-radio-0</filesIco>
 	    <filesIco id="17">script-spruce-0</filesIco>
+		<filesIco id="18">script-mail-0</filesIco>
 	</ico>
 	
 </templates>
