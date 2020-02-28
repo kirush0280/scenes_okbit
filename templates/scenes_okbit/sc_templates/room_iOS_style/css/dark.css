@@ -827,21 +827,21 @@ A, A:hover {
 	background:#07a307;
 }
 
-.right-menu .link-color-5-0, .right-menu .link-color-10-0{
+.right-menu .link-color-5-0, .right-menu .link-color-10-0, .right-menu .link-color-14-0{
 	border: 2px solid #0164b1;
 }
 
-.right-menu .link-color-5-1, .right-menu .link-color-10-1{
+.right-menu .link-color-5-1, .right-menu .link-color-10-1, .right-menu .link-color-14-1{
 	border: 2px solid #60a8e0;
 	background:#0164b1;
 	
 }
 
-.right-menu .link-color-6-0, .right-menu .link-color-11-0{
+.right-menu .link-color-6-0, .right-menu .link-color-11-0, .right-menu .link-color-13-0{
 	border: 2px solid #ce0101;
 }
 
-.right-menu .link-color-6-1, .right-menu .link-color-11-1{
+.right-menu .link-color-6-1, .right-menu .link-color-11-1, .right-menu .link-color-13-1{
 	border: 2px solid #fd8989;
 	background:#ce0101;
 }
@@ -972,6 +972,21 @@ A, A:hover {
 	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/script-kol-1.png)!important;
 }
 
+.right-menu .link-ico-13-0 {
+	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/script-open-0.png)!important;
+}
+
+.right-menu .link-ico-13-1 {
+	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/script-open-1.png)!important;
+}
+
+.right-menu .link-ico-14-0 {
+	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/script-openk-0.png)!important;
+}
+
+.right-menu .link-ico-14-1 {
+	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/script-openk-1.png)!important;
+}
 
 
 .right-menu{
