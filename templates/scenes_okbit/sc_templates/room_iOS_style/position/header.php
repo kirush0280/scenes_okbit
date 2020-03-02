@@ -4,7 +4,7 @@
 <!-- / подстановка ссылки на главную -->
 
 <!-- подстановка нзвания сцены -->
-<div class="top-title title-big" style="float:left; margin-left:50px;">{{TITLE}}</div>
+<div class="top-title" style="float:left; margin-left:50px;">{{TITLE}}</div>
 <!-- / подстановка нзвания сцены  -->
 
 <!-- вывод верхнего меню -->
