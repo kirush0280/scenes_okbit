@@ -11,7 +11,7 @@ git clone https://github.com/kirush0280/scenes_okbit.git
 7. Во вкладке "Лицензия", вносим ID и ключ.
 
 -------
-Для нормальной работы модуля:
+Для нормальной работы модуля **ОБЯЗАТЕЛЬНО НУЖНО**
 1. отключаем strict mode:
 ```
 # cat /etc/mysql/conf.d/disable_strict_mode.cnf
