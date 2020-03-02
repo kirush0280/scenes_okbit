@@ -23,4 +23,5 @@ sql_mode=IGNORE_SPACE,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO
 To-do list (за информацией к https://tlgg.ru/kirush80). Все необходимо адаптировать для темной и светлой темы:
 1. Термостат с кнопками (/elements/slider_wb_r_usual.php, /elements/slider_wb_usual.php).
 2. Плеер медиа (аудио)
-3. Спрятать отображение разделов (LEFT/CENTER/RIGHT) в сценах HOME/ROOM/SYS в которых отсутсвуют элементы.
+3. Сделать кнопку "Пересобрать все сцены"
+4. Спрятать отображение разделов (LEFT/CENTER/RIGHT) в сценах HOME/ROOM/SYS в которых отсутсвуют элементы.
