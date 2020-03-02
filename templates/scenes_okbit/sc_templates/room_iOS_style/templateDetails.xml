@@ -1941,8 +1941,7 @@
 	
 	<!-- HEADER ICO START -->	
 	<ico ico_pos="HEADER" element="ico_link">
-		<filesIco id="1">top-cold
-		</filesIco>
+		<filesIco id="1">top-cold		</filesIco>
 		<filesIco id="2">top-lamp		</filesIco>
 		<filesIco id="3">top-lamp-1		</filesIco>
 		<filesIco id="4">top-lamp-2		</filesIco>
@@ -1950,24 +1949,24 @@
 		<filesIco id="6">top-note		</filesIco>
 		<filesIco id="7">top-cam		</filesIco>
 		<filesIco id="8">top-shit		</filesIco>
-		<filesIco id="9">top-setting	</filesIco>
+		<filesIco id="9">top-setting		</filesIco>
 		<filesIco id="10">top-gradus		</filesIco>
 		<filesIco id="11">top-plan		</filesIco>
-		<filesIco id="12">top-shit-poj	</filesIco>
-		<filesIco id="13">top-shit-ohr	</filesIco>
+		<filesIco id="12">top-shit-poj		</filesIco>
+		<filesIco id="13">top-shit-ohr		</filesIco>
 		<filesIco id="14">top-graf		</filesIco>
-		<filesIco id="15">top-in-sys	</filesIco>
-		<filesIco id="16">top-plan-1	</filesIco>
-		<filesIco id="17">top-plan-2	</filesIco>
-		<filesIco id="18">top-plan-3	</filesIco>
+		<filesIco id="15">top-in-sys		</filesIco>
+		<filesIco id="16">top-plan-1		</filesIco>
+		<filesIco id="17">top-plan-2		</filesIco>
+		<filesIco id="18">top-plan-3		</filesIco>
 		<filesIco id="19">top-com		</filesIco>
 		<filesIco id="20">top-otop		</filesIco>
-		<filesIco id="21">top-geo</filesIco>
-		<filesIco id="22">top-pos</filesIco>
-		<filesIco id="23">top-happi</filesIco>
-		<filesIco id="24">top-log</filesIco>
-		<filesIco id="25">top-zam</filesIco>
-		<filesIco id="26">top-socket</filesIco>
+		<filesIco id="21">top-geo		</filesIco>
+		<filesIco id="22">top-pos		</filesIco>
+		<filesIco id="23">top-happi		</filesIco>
+		<filesIco id="24">top-log		</filesIco>
+		<filesIco id="25">top-zam		</filesIco>
+		<filesIco id="26">top-socket		</filesIco>
 	</ico>
 	<!-- HEADER ICO END -->
 	
