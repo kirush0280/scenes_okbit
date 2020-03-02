@@ -1,7 +1,7 @@
 Сцены для Majordomo для модуля scenes_okbit
 **(инструкция для тех кто понимает, что делает)**
 
-1. Приобретаем лицензию (получите ID и ключ)
+1. Приобретаем лицензию (получите ID и ключ) - https://smart-home.ee/ru/magazin/product/view/11/410
 2. Скачиваем модуль:
 git clone https://github.com/kirush0280/scenes_okbit.git
 3. Переносим папки modules/ templates/ в соответствующие папки Majordomo
@@ -20,4 +20,7 @@ sql_mode=IGNORE_SPACE,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO
 ```
 2. В mysql в таблице elements, столбец CSS, необходимо изменить тип поля TEXT на LONGTEXT.
 ------
-
+To-do list (за информацией к https://tlgg.ru/kirush80). Все необходимо адаптировать для темной и светлой темы:
+1. Термостат с кнопками (/elements/slider_wb_r_usual.php, /elements/slider_wb_usual.php).
+2. Плеер медиа (аудио)
+3. Спрятать отображение разделов (LEFT/CENTER/RIGHT) в сценах HOME/ROOM/SYS в которых отсутсвуют элементы.
