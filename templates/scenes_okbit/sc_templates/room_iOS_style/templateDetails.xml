@@ -1941,32 +1941,32 @@
 	
 	<!-- HEADER ICO START -->	
 	<ico ico_pos="HEADER" element="ico_link">
-                <filesIco id="1">top-cold		</filesIco>
-                <filesIco id="2">top-lamp		</filesIco>
-                <filesIco id="3">top-lamp-1		</filesIco>
-                <filesIco id="4">top-lamp-2		</filesIco>
-                <filesIco id="5">top-lamp-3		</filesIco>
-                <filesIco id="6">top-note		</filesIco>
-                <filesIco id="7">top-cam		</filesIco>
-                <filesIco id="8">top-shit		</filesIco>
-                <filesIco id="9">top-setting		</filesIco>
-                <filesIco id="10">top-gradus		</filesIco>
-                <filesIco id="11">top-shit-poj		</filesIco>
-                <filesIco id="12">top-shit-ohr		</filesIco>
-                <filesIco id="13">top-graf		</filesIco>
-                <filesIco id="14">top-in-sys		</filesIco>
-                <filesIco id="15">top-plan		</filesIco>
-                <filesIco id="16">top-plan-1		</filesIco>
-                <filesIco id="17">top-plan-2		</filesIco>
-                <filesIco id="18">top-plan-3		</filesIco>
-                <filesIco id="19">top-com		</filesIco>
-                <filesIco id="20">top-otop		</filesIco>
-                <filesIco id="21">top-geo		</filesIco>
-                <filesIco id="22">top-pos		</filesIco>
-                <filesIco id="23">top-happi		</filesIco>
-                <filesIco id="24">top-log		</filesIco>
-                <filesIco id="25">top-zam		</filesIco>
-                <filesIco id="26">top-socket		</filesIco>
+		<filesIco id="1">top-cold		</filesIco>
+		<filesIco id="2">top-lamp		</filesIco>
+		<filesIco id="3">top-lamp-1		</filesIco>
+		<filesIco id="4">top-lamp-2		</filesIco>
+		<filesIco id="5">top-lamp-3		</filesIco>
+		<filesIco id="6">top-note		</filesIco>
+		<filesIco id="7">top-cam		</filesIco>
+		<filesIco id="8">top-shit		</filesIco>
+		<filesIco id="9">top-setting		</filesIco>
+		<filesIco id="10">top-gradus		</filesIco>
+		<filesIco id="11">top-plan		</filesIco>
+		<filesIco id="12">top-shit-poj		</filesIco>
+		<filesIco id="13">top-shit-ohr		</filesIco>
+		<filesIco id="14">top-graf		</filesIco>
+		<filesIco id="15">top-in-sys		</filesIco>
+		<filesIco id="16">top-plan-1		</filesIco>
+		<filesIco id="17">top-plan-2		</filesIco>
+		<filesIco id="18">top-plan-3		</filesIco>
+		<filesIco id="19">top-com		</filesIco>
+		<filesIco id="20">top-otop		</filesIco>
+		<filesIco id="21">top-geo</filesIco>
+		<filesIco id="22">top-pos</filesIco>
+		<filesIco id="23">top-happi</filesIco>
+		<filesIco id="24">top-log</filesIco>
+		<filesIco id="25">top-zam</filesIco>
+		<filesIco id="26">top-socket</filesIco>
 	</ico>
 	<!-- HEADER ICO END -->
 	
@@ -1989,6 +1989,53 @@
 		<filesIco id="15">left-show-industry</filesIco>
 		<filesIco id="16">info-wather</filesIco>
 		<filesIco id="17">heat-pol</filesIco>
+
+
+                <filesIco id="18">room-spal</filesIco>
+                <filesIco id="19">room-kuh</filesIco>
+                <filesIco id="20">room-zal</filesIco>
+                <filesIco id="21">room-vanna</filesIco>
+                <filesIco id="22">room-dets</filesIco>
+                <filesIco id="23">room-stol</filesIco>
+                <filesIco id="24">room-lodj</filesIco>
+                <filesIco id="25">room-ubor</filesIco>
+                <filesIco id="26">room-kubin</filesIco>
+                <filesIco id="27">room-prih</filesIco>
+                <filesIco id="28">room-hoz</filesIco>
+                <filesIco id="29">room-hoz2</filesIco>
+                <filesIco id="30">room-garaj</filesIco>
+                <filesIco id="31">room-kor</filesIco>
+                <filesIco id="32">room-sauna</filesIco>
+                <filesIco id="33">room-det-sp</filesIco>
+                <filesIco id="34">room-spal2</filesIco>
+                <filesIco id="35">room-roof</filesIco>
+                <filesIco id="36">room-ban1</filesIco>
+                <filesIco id="37">room-ban2</filesIco>
+                <filesIco id="38">room-ban3</filesIco>
+                <filesIco id="39">room-kladovka</filesIco>
+                <filesIco id="40">room-ulica</filesIco>
+                <filesIco id="41">room-prach</filesIco>
+                <filesIco id="42">room-ter</filesIco>
+                <filesIco id="43">room-dets2</filesIco>
+                <filesIco id="44">room-pogreb</filesIco>
+                <filesIco id="45">room-bar</filesIco>
+                <filesIco id="46">room-bar1</filesIco>
+                <filesIco id="47">room-bar2</filesIco>
+                <filesIco id="48">room-biblioteka</filesIco>
+                <filesIco id="49">room-biblioteka2</filesIco>
+                <filesIco id="50">room-biblioteka3</filesIco>
+                <filesIco id="51">room-dining</filesIco>
+                <filesIco id="52">room-dining2</filesIco>
+                <filesIco id="53">room-dining3</filesIco>
+                <filesIco id="54">room-jam</filesIco>
+                <filesIco id="55">room-jam2</filesIco>
+                <filesIco id="56">room-jam3</filesIco>
+                <filesIco id="57">room-kotel</filesIco>
+                <filesIco id="58">room-kotel2</filesIco>
+                <filesIco id="59">room-kotel3</filesIco>
+                <filesIco id="60">room-kabinet1</filesIco>
+                <filesIco id="61">room-kabinet2</filesIco>
+                <filesIco id="62">room-kabinet3</filesIco>
 	</ico>
 	<!-- LEFT ICO END -->
 	
@@ -2011,7 +2058,7 @@
 		<filesIco id="15">win-2				</filesIco>
 	    	<filesIco id="16">win-3				</filesIco>
 	    	<filesIco id="17">win-4				</filesIco>
-		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="18">win-5</filesIco>
 		<filesIco id="19">left-show-radio</filesIco>
 		<filesIco id="20">cold_water</filesIco>
 		<filesIco id="21">hot_water</filesIco>

@@ -2,9 +2,14 @@
 	<div class="title-mid">{{TITLE}}</div>
 <!-- / подстановка названия сцены  -->
 
-<!-- подстановка ссылки на главную -->
-	<div class="top-back"><a href="/popup/scenes/{{HOME_SCENE}}.html">
-<div class="right-arrow"></div>Назад</a></div>
+
+<!--  подстановка ссылки на главную -->
+<div class="top-menu-home"><ul>
+<li><a href="#" onclick="history.back();">
+<div class="link-home link-ico-2"></div></a></li>
+<li><a href="/popup/scenes/{{HOME_SCENE}}.html">
+<div class="link-home link-ico-1"></div></a></li>
+</ul></div>
 <!-- / подстановка ссылки на главную -->
 
 

@@ -191,6 +191,140 @@ table {
 }
 
 /* цвет фона меню в правом углу */
+
+.top-menu-home{
+	float:left;
+	font-size:16px;
+	margin: 0px!important;
+	background: #f6f6f8!important;    
+}
+
+.top-menu-home ul li{
+	float:right;
+	margin:5px;
+}
+
+.top-menu-home .link-home{
+	width:50px;
+	height:50px;
+	border-radius: 4px;
+	background-size: cover;
+	margin: 0 2px 0 2px;
+}
+
+.top-menu-home .link-home:active{
+	box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset, 0 -1px 0 rgba(255, 255, 255, .1)   
+	inset;box-shadow:0 1px 0 rgba(255, 255, 255, .5) inset, 0 -1px 0 rgba(255, 255, 255, .1)  
+	inset; 
+	  -moz-transform: translatey(3px); /* Для Firefox */ 
+	  -ms-transform: translatey(3px); /* Для IE */ 
+	  -webkit-transform: translatey(3px); /* Для Safari, Chrome, iOS */ 
+	  -o-transform:translatey(3px); /* Для Opera */ 
+	transform: translatey(3px);
+	border: 2px solid #b1b1b1;
+}
+
+.top-menu-home .link-ico-1{
+	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/top-home.png);
+}
+
+.top-menu-home .link-ico-2{
+	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/top-back.png);
+}
+
+
+
+
+
+.top-menu{
+	float:right;
+	font-size:16px;
+	margin: 0px!important;
+	background: #f6f6f8!important;    
+}
+
+.top-menu ul li{
+	float:left;
+	margin:5px;
+}
+
+.top-menu .link{
+	width:50px;
+	height:50px;
+	border-radius: 4px;
+	background-size: cover;
+	margin: 0 2px 0 2px;
+}
+
+.top-menu .link:active{
+	box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset, 0 -1px 0 rgba(255, 255, 255, .1)   
+	inset;box-shadow:0 1px 0 rgba(255, 255, 255, .5) inset, 0 -1px 0 rgba(255, 255, 255, .1)  
+	inset; 
+	  -moz-transform: translatey(3px); /* Для Firefox */ 
+	  -ms-transform: translatey(3px); /* Для IE */ 
+	  -webkit-transform: translatey(3px); /* Для Safari, Chrome, iOS */ 
+	  -o-transform:translatey(3px); /* Для Opera */ 
+	transform: translatey(3px);
+	border: 2px solid #b1b1b1;
+}
+
+.top-menu .link-ico-1{
+	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/top-cold.png);
+}
+
+.top-menu .link-ico-2{
+	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/top-lamp.png);
+}
+
+
+
+
+
+
+.top-menu{
+	float:right;
+	font-size:16px;
+	margin: 0px!important;
+	background: #f6f6f8!important;    
+}
+
+.top-menu ul li{
+	float:left;
+	margin:5px;
+}
+
+.top-menu .link{
+	width:50px;
+	height:50px;
+	border-radius: 4px;
+	background-size: cover;
+	margin: 0 2px 0 2px;
+}
+
+.top-menu .link:active{
+	box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset, 0 -1px 0 rgba(255, 255, 255, .1)   
+	inset;box-shadow:0 1px 0 rgba(255, 255, 255, .5) inset, 0 -1px 0 rgba(255, 255, 255, .1)  
+	inset; 
+	  -moz-transform: translatey(3px); /* Для Firefox */ 
+	  -ms-transform: translatey(3px); /* Для IE */ 
+	  -webkit-transform: translatey(3px); /* Для Safari, Chrome, iOS */ 
+	  -o-transform:translatey(3px); /* Для Opera */ 
+	transform: translatey(3px);
+	border: 2px solid #b1b1b1;
+}
+
+.top-menu .link-ico-1{
+	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/top-cold.png);
+}
+
+.top-menu .link-ico-2{
+	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/top-lamp.png);
+}
+
+
+
+
+
 .top-menu{
 	float:right;
 	font-size:16px;
