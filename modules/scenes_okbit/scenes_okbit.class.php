@@ -174,6 +174,9 @@ function admin(&$out) {
   if ($this->view_mode=='build2') {
    $this->build_s_okbit_2($out, $this->id, $this->idp);
   }
+ if ($this->view_mode=='buildall') {
+   $this->build_s_okbit_all($out);
+  }	 
   
   if ($this->view_mode=='delete_s_okbit') {
    $this->delete_s_okbit($this->id);
@@ -260,7 +263,28 @@ function usual(&$out) {
 	$this->redirect("?data_source=s_okbit&view_mode=edit_s_okbit&tab=data&id=$idp");	
  }
  
- 
+/**
+* s_okbit buildall
+*
+* @access public
+*/
+
+ function build_s_okbit_all(&$out) {
+
+	$scenesID = SQLSelect("SELECT * FROM scenes_okbit ORDER BY SCENES_ID ASC");
+	$cnt=Count($scenesID);
+	for($i=0; $i<$cnt; $i++) {
+	$id = $scenesID[$i]['SCENES_ID'];
+	   
+	DebMes ("Собираем сцену - " . $id  , 'scenes_okbit');
+	if ($_SERVER['HTTPS'] == "") $http = "http://"; else $http = "https://"; 
+	$newurl =  ($http . $_SERVER['SERVER_ADDR'] . $_SERVER['PHP_SELF'] . "?pd=" . $_GET["pd"]. "&md=scenes_okbit&inst=adm&data_source=s_okbit&view_mode=build&id=" . $id);
+	file_get_contents($newurl);   
+  }
+	$this->redirect("?data_source=s_okbit");	
+	 	
+
+ } 
  
  /**
 * s_okbit reorder elements
@@ -397,29 +421,29 @@ scenes_element_okbit -
   $data = <<<EOD
  scenes_okbit: ID int(10) unsigned NOT NULL auto_increment
  scenes_okbit: SCENES_ID int(10) NOT NULL DEFAULT '0'
- scenes_okbit: TEMPLATE varchar(255) NOT NULL DEFAULT ''
- scenes_okbit: TEMPLATE_CSS varchar(255) NOT NULL DEFAULT ''
- scenes_okbit: ADDITION varchar(255) NOT NULL DEFAULT ''
- scenes_okbit: HOME_IMG varchar(255) NOT NULL DEFAULT ''
- scenes_okbit: TYPE_SCENE varchar(255) NOT NULL DEFAULT ''
- scenes_okbit: HOME_SCENE varchar(255) NOT NULL DEFAULT ''
- scenes_okbit: CLONE_MENU varchar(255) NOT NULL DEFAULT ''
+ scenes_okbit: TEMPLATE varchar(255) DEFAULT NULL
+ scenes_okbit: TEMPLATE_CSS varchar(255) DEFAULT NULL
+ scenes_okbit: ADDITION varchar(255) DEFAULT NULL
+ scenes_okbit: HOME_IMG varchar(255) DEFAULT NULL
+ scenes_okbit: TYPE_SCENE varchar(255) DEFAULT NULL
+ scenes_okbit: HOME_SCENE varchar(255) DEFAULT NULL
+ scenes_okbit: CLONE_MENU varchar(255) DEFAULT NULL
  scenes_okbit: PRIORITY int(10) NOT NULL DEFAULT '0'
  scenes_element_okbit: ID int(10) unsigned NOT NULL auto_increment
- scenes_element_okbit: TITLE varchar(100) NOT NULL DEFAULT ''
- scenes_element_okbit: POSITION varchar(100) NOT NULL DEFAULT ''
- scenes_element_okbit: VALUE varchar(255) NOT NULL DEFAULT ''
- scenes_element_okbit: HTML longtext NOT NULL DEFAULT ''
- scenes_element_okbit: TEXTAREA longtext NOT NULL DEFAULT ''
- scenes_element_okbit: TYPE varchar(255) NOT NULL DEFAULT ''
- scenes_element_okbit: SCENE_LINK varchar(100) NOT NULL DEFAULT ''
- scenes_element_okbit: ICO varchar(255) NOT NULL DEFAULT ''
- scenes_element_okbit: SHOW1 varchar(255) NOT NULL DEFAULT ''
- scenes_element_okbit: SHOW2 varchar(255) NOT NULL DEFAULT ''
+ scenes_element_okbit: TITLE varchar(100) DEFAULT NULL
+ scenes_element_okbit: POSITION varchar(100) DEFAULT NULL
+ scenes_element_okbit: VALUE varchar(255) DEFAULT NULL
+ scenes_element_okbit: HTML longtext DEFAULT NULL
+ scenes_element_okbit: TEXTAREA longtext DEFAULT NULL
+ scenes_element_okbit: TYPE varchar(255) DEFAULT NULL
+ scenes_element_okbit: SCENE_LINK varchar(100) DEFAULT NULL
+ scenes_element_okbit: ICO varchar(255) DEFAULT NULL
+ scenes_element_okbit: SHOW1 varchar(255) DEFAULT NULL
+ scenes_element_okbit: SHOW2 varchar(255) DEFAULT NULL
  scenes_element_okbit: PARENT_ID int(10) NOT NULL DEFAULT '0'
- scenes_element_okbit: LINKED_OBJECT varchar(100) NOT NULL DEFAULT ''
- scenes_element_okbit: LINKED_PROPERTY varchar(100) NOT NULL DEFAULT ''
- scenes_element_okbit: LINKED_METHOD varchar(100) NOT NULL DEFAULT ''
+ scenes_element_okbit: LINKED_OBJECT varchar(100) DEFAULT NULL
+ scenes_element_okbit: LINKED_PROPERTY varchar(100) DEFAULT NULL
+ scenes_element_okbit: LINKED_METHOD varchar(100) DEFAULT NULL
  scenes_element_okbit: PRIORITY int(10) NOT NULL DEFAULT '0'
  
  
