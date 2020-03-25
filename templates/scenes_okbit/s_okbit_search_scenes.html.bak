@@ -102,6 +102,25 @@
 
 			<div style="clear: left"></div>
 			
+			
+			[#begin POSITION#]
+			
+			<div class="sc-block">
+				<div class="sc-h4">[#POSIT#]</div>
+			<ul>	
+				[#begin ELEMENTS#]
+					<li>
+						<a href="?data_source=<#DATA_SOURCE#>&view_mode=edit_element&tab=data&scene_id=[#ID#]&element_id=[#ELEMENT_ID#]" title="Элементы">[#ELEMENT#]</a>
+					</li>
+				[#end ELEMENTS#]
+				
+			</ul>
+			</div>
+			
+			[#end POSITION#]
+			
+			<div style="clear: left"></div>
+			
 		</div>
 	
 		[#end RESULT#]		
