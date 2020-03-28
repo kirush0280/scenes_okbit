@@ -279,6 +279,10 @@
 		<nameElements>curtains</nameElements>
 		<titleElements>Электрокарниз</titleElements>
 	</elements>	
+	<elements pos="CENTER1">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 	<!-- CENTER1 END -->
 	
 	<!-- CENTER2 START -->
@@ -354,6 +358,10 @@
 		<nameElements>curtains</nameElements>
 		<titleElements>Электрокарниз</titleElements>
 	</elements>	
+	<elements pos="CENTER2">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 	<!-- CENTER2 END -->
 	
 	<!-- CENTER3 START -->
@@ -429,6 +437,10 @@
 		<nameElements>curtains</nameElements>
 		<titleElements>Электрокарниз</titleElements>
 	</elements>
+	<elements pos="CENTER3">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>	
 	<!-- CENTER3 END -->
 	
 	
@@ -505,6 +517,10 @@
 		<nameElements>curtains</nameElements>
 		<titleElements>Электрокарниз</titleElements>
 	</elements>
+	<elements pos="CENTER4">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>	
 	<!-- CENTER4 END -->	
 	
 	<!-- CENTER5 START -->
@@ -580,6 +596,10 @@
 		<nameElements>curtains</nameElements>
 		<titleElements>Электрокарниз</titleElements>
 	</elements>	
+	<elements pos="CENTER5">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 	<!-- CENTER5 END -->	
 
 	<!-- CENTER6 START -->
@@ -655,6 +675,10 @@
 	<elements pos="CENTER6">
 		<nameElements>curtains</nameElements>
 		<titleElements>Электрокарниз</titleElements>
+	</elements>
+	<elements pos="CENTER7">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
 	</elements>
 	<!-- CENTER6 END -->	
 
@@ -733,6 +757,10 @@
 		<nameElements>curtains</nameElements>
 		<titleElements>Электрокарниз</titleElements>
 	</elements>	
+	<elements pos="CENTER7">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 	<!-- CENTER7 END -->	
 
 
@@ -809,6 +837,10 @@
 		<nameElements>curtains</nameElements>
 		<titleElements>Электрокарниз</titleElements>
 	</elements>	
+	<elements pos="CENTER8">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 	<!-- CENTER8 END -->	
 
 
@@ -885,6 +917,10 @@
 		<nameElements>curtains</nameElements>
 		<titleElements>Электрокарниз</titleElements>
 	</elements>	
+	<elements pos="CENTER9">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 	<!-- CENTER9 END -->	
 
 
@@ -962,6 +998,10 @@
 		<nameElements>curtains</nameElements>
 		<titleElements>Электрокарниз</titleElements>
 	</elements>	
+	<elements pos="CENTER10">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 	<!-- CENTER10 END -->	
 
 	<!-- CENTER11 START -->
@@ -1038,6 +1078,10 @@
 		<nameElements>curtains</nameElements>
 		<titleElements>Электрокарниз</titleElements>
 	</elements>	
+	<elements pos="CENTER11">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 	<!-- CENTER11 END -->	
 
 
@@ -1115,6 +1159,10 @@
 		<nameElements>curtains</nameElements>
 		<titleElements>Электрокарниз</titleElements>
 	</elements>	
+	<elements pos="CENTER12">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 	<!-- CENTER12 END -->	
 
 	<!-- CENTER13 START -->
@@ -1191,6 +1239,10 @@
 		<nameElements>curtains</nameElements>
 		<titleElements>Электрокарниз</titleElements>
 	</elements>	
+	<elements pos="CENTER13">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 	<!-- CENTER13 END -->	
 
 	<!-- CENTER14 START -->
@@ -1266,6 +1318,10 @@
 		<nameElements>curtains</nameElements>
 		<titleElements>Электрокарниз</titleElements>
 	</elements>	
+	<elements pos="CENTER14">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 	<!-- CENTER14 END -->	
 
 	<!-- CENTER15 START -->
@@ -1341,6 +1397,10 @@
 		<nameElements>curtains</nameElements>
 		<titleElements>Электрокарниз</titleElements>
 	</elements>	
+	<elements pos="CENTER15">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 	<!-- CENTER15 END -->	
 
 	
@@ -1380,6 +1440,10 @@
 	<elements pos="RIGHT1">
 		<nameElements>slider_wb_r</nameElements>
 		<titleElements>Слайдер с кнопками</titleElements>
+	</elements>
+	<elements pos="RIGHT1">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
 	</elements>
 
 	<!-- RIGHT1 END -->
@@ -1421,6 +1485,10 @@
 		<nameElements>slider_wb_r</nameElements>
 		<titleElements>Слайдер с кнопками</titleElements>
 	</elements>
+	<elements pos="RIGHT2">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 	<!-- RIGHT2 END -->
 	
 	<!-- RIGHT3 START -->
@@ -1459,6 +1527,10 @@
 	<elements pos="RIGHT3">
 		<nameElements>slider_wb_r</nameElements>
 		<titleElements>Слайдер с кнопками</titleElements>
+	</elements>
+	<elements pos="RIGHT3">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
 	</elements>
 	<!-- RIGHT3 END -->
 	
@@ -1499,6 +1571,10 @@
 		<nameElements>slider_wb_r</nameElements>
 		<titleElements>Слайдер с кнопками</titleElements>
 	</elements>
+	<elements pos="RIGHT4">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 	<!-- RIGHT4 END -->
 
 	<!-- RIGHT5 START -->
@@ -1537,6 +1613,10 @@
 	<elements pos="RIGHT5">
 		<nameElements>slider_wb_r</nameElements>
 		<titleElements>Слайдер с кнопками</titleElements>
+	</elements>
+	<elements pos="RIGHT5">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
 	</elements>
 	<!-- RIGHT5 END -->
 	
@@ -1577,7 +1657,11 @@
 		<nameElements>slider_wb_r</nameElements>
 		<titleElements>Слайдер с кнопками</titleElements>
 	</elements>
-
+	<elements pos="RIGHT6">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
+	
 	<!-- RIGHT6 END -->
 
 	<!-- RIGHT7 START -->
@@ -1616,6 +1700,10 @@
 	<elements pos="RIGHT7">
 		<nameElements>slider_wb_r</nameElements>
 		<titleElements>Слайдер с кнопками</titleElements>
+	</elements>
+	<elements pos="RIGHT7">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
 	</elements>
 
 	<!-- RIGHT7 END -->
@@ -1657,6 +1745,10 @@
 		<nameElements>slider_wb_r</nameElements>
 		<titleElements>Слайдер с кнопками</titleElements>
 	</elements>
+	<elements pos="RIGHT8">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 
 	<!-- RIGHT8 END -->
 	
@@ -1696,6 +1788,10 @@
 	<elements pos="RIGHT9">
 		<nameElements>slider_wb_r</nameElements>
 		<titleElements>Слайдер с кнопками</titleElements>
+	</elements>
+	<elements pos="RIGHT9">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
 	</elements>
 
 	<!-- RIGHT9 END -->
@@ -1737,6 +1833,10 @@
 		<nameElements>slider_wb_r</nameElements>
 		<titleElements>Слайдер с кнопками</titleElements>
 	</elements>
+	<elements pos="RIGHT10">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 
 	<!-- RIGHT10 END -->
 
@@ -1777,6 +1877,11 @@
 		<nameElements>slider_wb_r</nameElements>
 		<titleElements>Слайдер с кнопками</titleElements>
 	</elements>
+	<elements pos="RIGHT11">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
+	
 	<!-- RIGHT11 END -->
 
 	<!-- RIGHT12 START -->
@@ -1815,6 +1920,10 @@
 	<elements pos="RIGHT12">
 		<nameElements>slider_wb_r</nameElements>
 		<titleElements>Слайдер с кнопками</titleElements>
+	</elements>
+	<elements pos="RIGHT12">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
 	</elements>
 
 	<!-- RIGHT12 END -->
@@ -1856,6 +1965,10 @@
 		<nameElements>slider_wb_r</nameElements>
 		<titleElements>Слайдер с кнопками</titleElements>
 	</elements>
+	<elements pos="RIGHT13">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 
 	<!-- RIGHT13 END -->
 
@@ -1896,6 +2009,10 @@
 		<nameElements>slider_wb_r</nameElements>
 		<titleElements>Слайдер с кнопками</titleElements>
 	</elements>
+	<elements pos="RIGHT14">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
 
 	<!-- RIGHT14 END -->
 
@@ -1935,6 +2052,10 @@
 	<elements pos="RIGHT15">
 		<nameElements>slider_wb_r</nameElements>
 		<titleElements>Слайдер с кнопками</titleElements>
+	</elements>
+	<elements pos="RIGHT15">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
 	</elements>
 
 	<!-- RIGHT15 END -->
