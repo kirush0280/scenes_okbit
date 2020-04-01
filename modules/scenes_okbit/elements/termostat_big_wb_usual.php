@@ -59,17 +59,20 @@ $('#right_{{ELEMENT_ID}}').click(function(){
 		
 	}
 	
-	function rangeSend_{{ELEMENT_ID}}(){
-        val = $('#range{{ELEMENT_ID}}').val();
+	function rangeSend_{{ELEMENT_ID}}(val){
+        val = Number(val);
+		
+	if ( isNaN(val) ) { alert(val + " - это не число"); val = "%{{OBJECT}}.normalTargetValue%";
+	} else {
 		if( val < minim ){ val = minim; }
 		if( val > maxim ){ val = maxim ;}
         url_string ='/objects/?object={{OBJECT}}&op=set&p=normalTargetValue&v='+val;
         xmlhttp = new XMLHttpRequest();
 		xmlhttp.open("GET", url_string, true);
-		xmlhttp.send(null); 
+		xmlhttp.send(null);		
+		}
 		document.getElementById('range{{ELEMENT_ID}}').value = val;
-	}	
-
+	}
 	
 		var info_t_{{ELEMENT_ID}}=Number('%{{OBJECT}}.value%');
 	if(info_t_{{ELEMENT_ID}} >= 22 && info_t_{{ELEMENT_ID}} <= 26){
@@ -94,14 +97,14 @@ $('#right_{{ELEMENT_ID}}').click(function(){
     height: 65px;
 	 }	 
 	
-	.termostat_big #left_{{ELEMENT_ID}}.btn-default {
+	.termostat_big #left_{{ELEMENT_ID}}.btn {
 	border-radius: 10px 0px 0px 10px;
     -webkit-border-radius: 10px 0px 0px 10px;
 	/*border: 2px solid #36b636;*/
 	height: 50px;
 	}
 	
-	.termostat_big #right_{{ELEMENT_ID}}.btn-default {
+	.termostat_big #right_{{ELEMENT_ID}}.btn {
 	border-radius: 0px 10px 10px 0px;
     -webkit-border-radius: 0px 10px 10px 0px;
 	/*border: 2px solid #36b636;*/
@@ -197,11 +200,12 @@ $('#right_{{ELEMENT_ID}}').click(function(){
 	 		
 	
 	<div class="termostat right">
-		<div id="left_{{ELEMENT_ID}}" class="termbtn btn btn-default btn-sm info-green-2">-</div>
-		<input class="termostat_big termbtn btn btn-default btn-sm" id="range{{ELEMENT_ID}}" oninput="range_{{ELEMENT_ID}}()" onchange="rangeSend_{{ELEMENT_ID}}()"  type="text" value="%{{OBJECT}}.normalTargetValue%">
-		<div id="right_{{ELEMENT_ID}}" class="termbtn btn btn-default btn-sm info-green-2">+</div>
+		<div id="left_{{ELEMENT_ID}}" class="termbtn btn btn-sm info-green-2">-</div>
+		<input class="termostat_big termbtn btn btn-sm" id="range{{ELEMENT_ID}}" oninput="range_{{ELEMENT_ID}}()" onchange="rangeSend_{{ELEMENT_ID}}(this.value)"  type="text" value="%{{OBJECT}}.normalTargetValue%">
+		<div id="right_{{ELEMENT_ID}}" class="termbtn btn btn-sm info-green-2">+</div>
 	</div>
 </div>
+
 
 
 

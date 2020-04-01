@@ -55,17 +55,20 @@ $('#right_{{ELEMENT_ID}}').click(function(){
 		
 	}
 	
-	function rangeSend_{{ELEMENT_ID}}(){
-        val = $('#range{{ELEMENT_ID}}').val();
+	function rangeSend_{{ELEMENT_ID}}(val){	
+		val = Number(val);
+		
+	if ( isNaN(val) ) { alert(val + " - это не число"); val = "%{{OBJECT}}.normalTargetValue%";
+	} else {
 		if( val < minim ){ val = minim; }
-		if( val > maxim ){ val = maxim ;}
+		if( val > maxim ){ val = maxim; }
         url_string ='/objects/?object={{OBJECT}}&op=set&p=normalTargetValue&v='+val;
         xmlhttp = new XMLHttpRequest();
 		xmlhttp.open("GET", url_string, true);
-		xmlhttp.send(null); 
+		xmlhttp.send(null); 		
+		}
 		document.getElementById('range{{ELEMENT_ID}}').value = val;
-	}	
-
+	}
 </script>
 <style type="text/css">
 	 
@@ -74,13 +77,13 @@ $('#right_{{ELEMENT_ID}}').click(function(){
     height: 68px;
 	 }	 
 	
-	.termostat #left_{{ELEMENT_ID}}.btn-default {
+	.termostat #left_{{ELEMENT_ID}}.btn {
 	border-radius: 10px 0px 0px 10px;
     -webkit-border-radius: 10px 0px 0px 10px;
 	border: 2px solid #36b636;
 	}
 	
-	.termostat #right_{{ELEMENT_ID}}.btn-default {
+	.termostat #right_{{ELEMENT_ID}}.btn {
 	border-radius: 0px 10px 10px 0px;
     -webkit-border-radius: 0px 10px 10px 0px;
 	border: 2px solid #36b636;
@@ -136,11 +139,18 @@ $('#right_{{ELEMENT_ID}}').click(function(){
 	 		
 	
 	<div class="termostat right">
-		<div id="left_{{ELEMENT_ID}}" class="btn btn-default btn-sm">-</div>
-		<input class="termostat btn btn-default btn-sm" id="range{{ELEMENT_ID}}" oninput="range_{{ELEMENT_ID}}()" onchange="rangeSend_{{ELEMENT_ID}}()"  type="text" value="%{{OBJECT}}.normalTargetValue%">
-		<div id="right_{{ELEMENT_ID}}" class="btn btn-default btn-sm">+</div>
+		<div id="left_{{ELEMENT_ID}}" class="btn btn-sm">-</div>
+		<input class="termostat btn btn-sm" id="range{{ELEMENT_ID}}" oninput="range_{{ELEMENT_ID}}()" onchange="rangeSend_{{ELEMENT_ID}}(this.value)"  type="text" value="%{{OBJECT}}.normalTargetValue%">
+		<div id="right_{{ELEMENT_ID}}" class="btn btn-sm">+</div>
 	</div>
 </div>
+
+
+
+
+
+
+
 
 
 
