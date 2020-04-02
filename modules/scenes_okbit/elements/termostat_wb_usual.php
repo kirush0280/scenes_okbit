@@ -101,7 +101,6 @@ $('#right_{{ELEMENT_ID}}').click(function(){
 	 input.termostat{
 	width:4em;
 	border: 2px solid #36b636;
-	background-color: transparent;	
 	}
 	 
 	.termostat .clear {
