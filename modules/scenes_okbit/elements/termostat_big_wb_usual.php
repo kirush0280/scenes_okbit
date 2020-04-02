@@ -121,19 +121,21 @@ $('#right_{{ELEMENT_ID}}').click(function(){
 	 }
 	
 	.termbtn {
-		height:50px;
-		width:3em;
-		 padding: 13px 4px;
-		
+	height:50px;
+	width:3em;
+	padding: 13px 4px;
+	font-weight: bold;
+	
 	}
 	
-	 input.termostat_big{
+	input.termostat_big{
 	width:3.2em;
 	font-size: 1.4em;
 	font-weight: bold;
 	border: 2px solid #36b636;
+	background-color: transparent;	
 	}
-	 
+	
 	.termostat_big .clear {
     clear: left; /* Отмена обтекания */
 	}	 
@@ -163,7 +165,7 @@ $('#right_{{ELEMENT_ID}}').click(function(){
 	.termostat_big .info-ico-in {
     font-size: 1.5em;
     font-weight: bold;
-    margin-top: 12px;
+    margin-top: 11px;
 }
 	.info-blue-2 {
     border: 2px solid #0164b1;
@@ -200,15 +202,11 @@ $('#right_{{ELEMENT_ID}}').click(function(){
 	 		
 	
 	<div class="termostat right">
-		<div id="left_{{ELEMENT_ID}}" class="termbtn btn btn-sm info-green-2">-</div>
-		<input class="termostat_big termbtn btn btn-sm" id="range{{ELEMENT_ID}}" oninput="range_{{ELEMENT_ID}}()" onchange="rangeSend_{{ELEMENT_ID}}(this.value)"  type="text" value="%{{OBJECT}}.normalTargetValue%">
-		<div id="right_{{ELEMENT_ID}}" class="termbtn btn btn-sm info-green-2">+</div>
+		<div id="left_{{ELEMENT_ID}}" class="termbtn  btn btn-sm info-green-2">-</div>
+		<input class="termostat_big termbtn  btn btn-sm" id="range{{ELEMENT_ID}}" oninput="range_{{ELEMENT_ID}}()" onchange="rangeSend_{{ELEMENT_ID}}(this.value)"  type="text" value="%{{OBJECT}}.normalTargetValue%">
+		<div id="right_{{ELEMENT_ID}}" class="termbtn  btn btn-sm info-green-2">+</div>
 	</div>
 </div>
-
-
-
-
 
 
 
