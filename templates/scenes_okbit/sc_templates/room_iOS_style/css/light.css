@@ -1756,7 +1756,9 @@ input[type="checkbox"]:checked + label::after {
 	display: none;
 }
 
-
+.termostat input{
+	color: #000;
+}
 
 
 .{{HEADER}} { /* HEADER */

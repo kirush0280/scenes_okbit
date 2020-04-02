@@ -1195,6 +1195,9 @@ input[type="checkbox"]:checked + label::after {
 	color: #b1b1b1!important;
 }
 
+.termostat input{
+	color: #000;
+}
 
 .{{HEADER}} { /* HEADER */
 	position: relative !important;
