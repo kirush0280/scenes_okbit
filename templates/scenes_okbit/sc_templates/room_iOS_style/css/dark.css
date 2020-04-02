@@ -1728,7 +1728,9 @@ A, A:hover {
 	display: none;
 }
 
-
+.termostat input{
+	color: #FFF;
+}
 
 
 .{{HEADER}} { /* HEADER */
