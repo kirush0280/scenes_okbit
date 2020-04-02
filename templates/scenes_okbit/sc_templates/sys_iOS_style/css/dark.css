@@ -1016,6 +1016,10 @@ table {
     color: #ffffff!important;
 }
 
+.termostat input{
+	color: #FFF;
+}
+
 .{{HEADER}} { /* HEADER */
 	position: relative !important;
 	top: auto !important;

@@ -76,6 +76,14 @@
 		<nameElements>termostat</nameElements>
 		<titleElements>Термостат</titleElements>
 	</elements>
+	<elements pos="CENTER">
+		<nameElements>termostat_wb</nameElements>
+		<titleElements>Термостат с кнопками</titleElements>
+	</elements>
+	<elements pos="CENTER">
+		<nameElements>termostat_big_wb</nameElements>
+		<titleElements>Термостат с биг кнопками</titleElements>
+	</elements>
 	<ico ico_pos="HEADER" element="ico_link">
 		<filesIco id="1">top-cold		</filesIco>
 		<filesIco id="2">top-lamp		</filesIco>
