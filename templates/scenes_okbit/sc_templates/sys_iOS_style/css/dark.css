@@ -1016,7 +1016,7 @@ table {
     color: #ffffff!important;
 }
 
-.termostat input{
+.termostat input, .termostat .btn{
 	color: #FFF;
 }
 
