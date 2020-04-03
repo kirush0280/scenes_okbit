@@ -93,8 +93,8 @@ $('#right_{{ELEMENT_ID}}').click(function(){
 <style type="text/css">
 	 
 	.center-in.termostat_big {
-    padding: 5px;
-    height: 65px;
+    padding: 6px;
+    height: 62px;
 	 }	 
 	
 	.termostat_big #left_{{ELEMENT_ID}}.btn {
