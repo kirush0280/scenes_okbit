@@ -73,7 +73,7 @@ $('#right_{{ELEMENT_ID}}').click(function(){
 <style type="text/css">
 	 
 	.center-in.termostat {
-    padding: 1px;
+    padding: 1px 13px 1px 1px;
     height: 68px;
 	 }	 
 	
