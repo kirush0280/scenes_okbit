@@ -1199,6 +1199,7 @@ input[type="checkbox"]:checked + label::after {
 	color: #000;
 }
 
+
 .{{HEADER}} { /* HEADER */
 	position: relative !important;
 	top: auto !important;

@@ -3,7 +3,6 @@
     src: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/css/font/IstokWeb-Regular.ttf); /* Путь к файлу со шрифтом */
 }
 
-
 h4, span, div, p, text{
 	font-family: okbit!important;
 }
@@ -174,9 +173,6 @@ table {
 	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/top-zam.png);
 }
 
-.top-menu .link-ico-26{
-	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/top-socket.png);
-}
 
 .left-menu .title {
 	width:100%;
@@ -299,12 +295,6 @@ A, A:hover {
 }
 .left-menu .link-ico-15{
     background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/left-show-industry.png);
-}
-.left-menu .link-ico-16{
-    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/info-wather.png);
-}
-.left-menu .link-ico-17{
-    background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/heat-pol.png);
 }
 
 .left-arrow{
@@ -850,21 +840,21 @@ A, A:hover {
 	background:#07a307;
 }
 
-.right-menu .link-color-5-0, .right-menu .link-color-10-0, .right-menu .link-color-14-0{
+.right-menu .link-color-5-0, .right-menu .link-color-10-0{
 	border: 2px solid #0164b1;
 }
 
-.right-menu .link-color-5-1, .right-menu .link-color-10-1, .right-menu .link-color-14-1{
+.right-menu .link-color-5-1, .right-menu .link-color-10-1{
 	border: 2px solid #60a8e0;
 	background:#0164b1;
 	
 }
 
-.right-menu .link-color-6-0, .right-menu .link-color-11-0, .right-menu .link-color-13-0{
+.right-menu .link-color-6-0, .right-menu .link-color-11-0{
 	border: 2px solid #ce0101;
 }
 
-.right-menu .link-color-6-1, .right-menu .link-color-11-1, .right-menu .link-color-13-1{
+.right-menu .link-color-6-1, .right-menu .link-color-11-1{
 	border: 2px solid #fd8989;
 	background:#ce0101;
 }
@@ -995,21 +985,6 @@ A, A:hover {
 	background-image: url(../../templates/scenes_okbit/sc_templates/room_iOS_style/images/ico/script-kol-1.png)!important;
 }
 
-.right-menu .link-ico-13-0 {
-	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/script-open-0.png)!important;
-}
-
-.right-menu .link-ico-13-1 {
-	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/script-open-1.png)!important;
-}
-
-.right-menu .link-ico-14-0 {
-	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/script-openk-0.png)!important;
-}
-
-.right-menu .link-ico-14-1 {
-	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/script-openk-1.png)!important;
-}
 
 
 .right-menu{
@@ -1455,6 +1430,14 @@ A, A:hover {
 	background-color: #36b636!important;
 }
 
+.info-term-0 {
+	background-image: url(../../templates/scenes_okbit/sc_templates/sys_iOS_style/images/ico/gradus-t-0.png)!important;
+}
+
+.info-term-1 {
+	background-image: url(../../templates/scenes_okbit/sc_templates/sys_iOS_style/images/ico/gradus-t-1.png)!important;
+}
+
 
 .rad-color-1 {
  border:1px solid #d7a306;
@@ -1727,6 +1710,7 @@ A, A:hover {
 .small-top-title {
 	display: none;
 }
+
 
 .termostat input, .termostat .btn{
 	color: #FFF;
@@ -2785,23 +2769,8 @@ A, A:hover {
 
 @media (min-width: 900px) {
 	
-/*	html {
-		overflow:  hidden;
-	}
-	/* скрываем полосы прокрутки */*/
-	
-	
-	.{{CENTER}} {
-		overflow-y: scroll; /* прокрутка по вертикали */
-		-ms-overflow-style: none;  /* IE 10+ */
-		scrollbar-width: none; /* Firefox */
-	}
-	/* скрываем полосы прокрутки */
-	
-		
-	::-webkit-scrollbar { /* chrome based */
-		width: 0px;  /* ширина scrollbar'a */
-		background: transparent;  /* опционально */
+	html {
+		overflow:  hidden; /* скрываем полосы прокрутки */
 	}
 	
 	.small-title, .mini-title {
