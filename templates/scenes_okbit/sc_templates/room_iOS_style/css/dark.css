@@ -1728,7 +1728,7 @@ A, A:hover {
 	display: none;
 }
 
-.termostat input{
+.termostat input, .termostat .btn{
 	color: #FFF;
 }
 
