@@ -605,6 +605,15 @@ A, A:hover {
 /*	font-weight: bold; */
 }
 
+.center-menu ul{
+	text-align:center;
+}
+
+.center-menu ul li{
+	display:inline-block;
+}
+
+
 .center-menu .link-ico-1-0 {
 	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/script-lamp-0.png)!important;
 }
