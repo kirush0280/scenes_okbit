@@ -13,9 +13,5 @@ git clone https://github.com/kirush0280/scenes_okbit.git
 -------
 Для нормальной работы модуля **ОБЯЗАТЕЛЬНО НУЖНО**
 1. В mysql в таблице elements, столбец CSS, необходимо изменить тип поля TEXT на LONGTEXT.
+2. В mysql в таблице elm_states, столбец HTML, необходимо изменить тип поля TEXT на LONGTEXT.
 
-------
-To-do list (за информацией к https://tlgg.ru/kirush80). Все необходимо адаптировать для темной и светлой темы:
-1. Термостат с кнопками (/elements/slider_wb_r_usual.php, /elements/slider_wb_usual.php).
-2. Плеер медиа (аудио)
-3. Спрятать отображение разделов (LEFT/CENTER/RIGHT) в сценах HOME/ROOM/SYS в которых отсутсвуют элементы.
