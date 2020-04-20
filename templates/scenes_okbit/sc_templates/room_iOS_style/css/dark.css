@@ -2744,7 +2744,7 @@ A, A:hover {
 }
 
 /* Portrait tablets and medium desktops */
-@media (min-width: 1200px) and (max-width: 1439px) {
+@media (min-width: 1212px) and (max-width: 1439px) {
 	
 	.left-menu .link-ico{
 		width:25px!important;
@@ -2760,7 +2760,7 @@ A, A:hover {
 
 
 /* Portrait tablets and medium desktops */
-@media (min-width: 992px) and (max-width: 1199px) {
+/*@media (min-width: 992px) and (max-width: 1199px) {
 	
 	.left-menu .link-ico{
 		width:25px!important;
@@ -2774,11 +2774,11 @@ A, A:hover {
 }
 
 
-@media (min-width: 900px) {
+/*@media (min-width: 900px) {
 	
 	html {
 		overflow:  hidden; /* скрываем полосы прокрутки */
-	}
+/*	}
 	
 	.small-title, .mini-title {
 		display: none;
@@ -2792,7 +2792,7 @@ A, A:hover {
 
 
 /* Portrait tablets and small desktops */
-@media (min-width: 800px) and (max-width: 899px) {
+/*@media (min-width: 800px) and (max-width: 899px) {
 	
 	
 	.small-title{
@@ -2896,7 +2896,7 @@ A, A:hover {
 
 
 /* Landscape phones and smaller */
-@media (min-width: 300px) and (max-width: 799px) {
+@media (min-width: 300px) and (max-width: 1211px) {
         #scene_background_{{ID}} {
                 display: flex!important;
                 flex-flow: wrap!important;
