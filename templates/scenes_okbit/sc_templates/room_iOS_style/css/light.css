@@ -2763,7 +2763,7 @@ input[type="checkbox"]:checked + label::after {
 }
 
 /* Portrait tablets and medium desktops */
-@media (min-width: 1200px) and (max-width: 1439px) {
+@media (min-width: 1212px) and (max-width: 1439px) {
 	
 	.left-menu .link-ico{
 		width:25px!important;
@@ -2779,7 +2779,7 @@ input[type="checkbox"]:checked + label::after {
 
 
 /* Portrait tablets and medium desktops */
-@media (min-width: 992px) and (max-width: 1199px) {
+/*@media (min-width: 992px) and (max-width: 1199px) {
 	
 	.left-menu .link-ico{
 		width:25px!important;
@@ -2793,11 +2793,11 @@ input[type="checkbox"]:checked + label::after {
 }
 
 
-@media (min-width: 900px) {
+/*@media (min-width: 900px) {
 	
 	html {
 		overflow:  hidden; /* скрываем полосы прокрутки */
-	}
+/*	}
 	
 	.small-title, .mini-title {
 		display: none;
@@ -2808,7 +2808,7 @@ input[type="checkbox"]:checked + label::after {
 }
 
 /* Portrait tablets and small desktops */
-@media (min-width: 800px) and (max-width: 899px) {
+/*@media (min-width: 800px) and (max-width: 899px) {
 	
 	
 	.small-title{
@@ -2911,7 +2911,7 @@ input[type="checkbox"]:checked + label::after {
 }
 
 /* Landscape phones and smaller */
-@media (min-width: 300px) and (max-width: 799px) {
+@media (min-width: 300px) and (max-width: 1211px) {
 	#scene_background_{{ID}} {
 		display: flex!important;
 		flex-flow: wrap!important;
