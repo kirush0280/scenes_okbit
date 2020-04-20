@@ -2773,12 +2773,12 @@ A, A:hover {
 
 }
 
-
-/*@media (min-width: 900px) {
+*/
+@media (min-width: 1212px) {
 	
 	html {
 		overflow:  hidden; /* скрываем полосы прокрутки */
-/*	}
+	}
 	
 	.small-title, .mini-title {
 		display: none;
