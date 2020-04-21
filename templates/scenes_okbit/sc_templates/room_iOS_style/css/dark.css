@@ -999,6 +999,7 @@ A, A:hover {
 	float:right;
 	font-size:16px;
 	width:100%;
+	display:none;
 }
 
 .right-menu li{
@@ -1791,15 +1792,16 @@ A, A:hover {
 .{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}} .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .center-v { /* CENTER */	
 	/*border: 1px solid #666;*/	
 	margin: 5px 15px!important;
-	padding:0 10px 0 10px;
+	padding:0 5px;
 	position: relative !important;
 	top: auto !important;
 	left : auto !important;
 	z-index : auto !important;
 	font-size: 16px !important;
-	width:calc(36% - 35px);
+	/*width:calc(36% - 35px);*/
+	width:calc(67% - 35px);
 	float:left  !important;
-	height: 100vh!important;
+	/*height: 100vh!important;*/
 	text-align:center !important;
 	background : 0 !important;
 	border: 0px !important;
@@ -2897,13 +2899,19 @@ A, A:hover {
 
 /* Landscape phones and smaller */
 @media (min-width: 300px) and (max-width: 1211px) {
+	.{{LEFT}} {	/* LEFT */
+		width: 100%!important;
+	float:left  !important;
+	/*height: 100vh!important;*/
+	text-align:left  !important;
+	}
         #scene_background_{{ID}} {
                 display: flex!important;
                 flex-flow: wrap!important;
         }
         .{{HEADER}}, .{{LEFT}}, .{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .{{RIGHT1}}, .{{RIGHT2}}, .{{RIGHT3}}, .{{RIGHT4}}, .{{RIGHT5}}, .{{RIGHT6}}, .{{RIGHT7}}, .{{RIGHT8}}, .{{RIGHT9}}, .{{RIGHT10}}, .{{RIGHT11}}, .{{RIGHT12}}, .{{RIGHT13}}, .{{RIGHT14}}, .{{RIGHT15}}, .center-v, .right-v {
                 width: 100%!important;
-                height : auto !important;
+             /*   height : auto !important;*/
         }
         .{{HEADER}} {
                 order: 3!important;
@@ -2913,6 +2921,7 @@ A, A:hover {
         }
         .{{RIGHT1}}, .{{RIGHT2}}, .{{RIGHT3}}, .{{RIGHT4}}, .{{RIGHT5}}, .{{RIGHT6}}, .{{RIGHT7}}, .{{RIGHT8}}, .{{RIGHT9}}, .{{RIGHT10}}, .{{RIGHT11}}, .{{RIGHT12}}, .{{RIGHT13}}, .{{RIGHT14}}, .{{RIGHT15}}, .right-v {
                 order: 1!important;
+		display:none;
         }
 
         .{{CENTER1}}, .{{CENTER2}}, .{{CENTER3}}, .{{CENTER4}}, .{{CENTER5}}, .{{CENTER6}}, .{{CENTER7}}, .{{CENTER8}}, .{{CENTER9}}, .{{CENTER10}}, .{{CENTER11}}, .{{CENTER12}}, .{{CENTER13}}, .{{CENTER14}}, .{{CENTER15}}, .center-v  {
