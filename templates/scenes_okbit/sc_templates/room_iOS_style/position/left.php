@@ -17,21 +17,6 @@
 		document.getElementById('{{CENTER13}}').setAttribute('class', 'hide');
 		document.getElementById('{{CENTER14}}').setAttribute('class', 'hide');
 		document.getElementById('{{CENTER15}}').setAttribute('class', 'hide');
-		document.getElementById('{{RIGHT1}}').setAttribute('class', 'hide');
-		document.getElementById('{{RIGHT2}}').setAttribute('class', 'hide');
-		document.getElementById('{{RIGHT3}}').setAttribute('class', 'hide');
-		document.getElementById('{{RIGHT4}}').setAttribute('class', 'hide');
-		document.getElementById('{{RIGHT5}}').setAttribute('class', 'hide');
-		document.getElementById('{{RIGHT6}}').setAttribute('class', 'hide');
-		document.getElementById('{{RIGHT7}}').setAttribute('class', 'hide');
-		document.getElementById('{{RIGHT8}}').setAttribute('class', 'hide');
-		document.getElementById('{{RIGHT9}}').setAttribute('class', 'hide');
-		document.getElementById('{{RIGHT10}}').setAttribute('class', 'hide');
-		document.getElementById('{{RIGHT11}}').setAttribute('class', 'hide');
-		document.getElementById('{{RIGHT12}}').setAttribute('class', 'hide');
-		document.getElementById('{{RIGHT13}}').setAttribute('class', 'hide');
-		document.getElementById('{{RIGHT14}}').setAttribute('class', 'hide');
-		document.getElementById('{{RIGHT15}}').setAttribute('class', 'hide');
  	}
 	
 	function show_center_1(){
