@@ -106,81 +106,7 @@
 		<positionFile>center15</positionFile>
 		<priority>74</priority>
 	</position>
-	<position>
-		<namePosition>RIGHT1</namePosition>
-		<positionFile>right1</positionFile>
-		<priority>73</priority>
-	</position>
-	<position>
-		<namePosition>RIGHT2</namePosition>
-		<positionFile>right2</positionFile>
-		<priority>72</priority>
-	</position>
-	<position>
-		<namePosition>RIGHT3</namePosition>
-		<positionFile>right3</positionFile>
-		<priority>71</priority>
-	</position>
-	<position>
-		<namePosition>RIGHT4</namePosition>
-		<positionFile>right4</positionFile>
-		<priority>70</priority>
-	</position>
-	<position>
-		<namePosition>RIGHT5</namePosition>
-		<positionFile>right5</positionFile>
-		<priority>69</priority>
-	</position>
-	<position>
-		<namePosition>RIGHT6</namePosition>
-		<positionFile>right6</positionFile>
-		<priority>68</priority>
-	</position>
-	<position>
-		<namePosition>RIGHT7</namePosition>
-		<positionFile>right7</positionFile>
-		<priority>67</priority>
-	</position>
-	<position>
-		<namePosition>RIGHT8</namePosition>
-		<positionFile>right8</positionFile>
-		<priority>66</priority>
-	</position>
-	<position>
-		<namePosition>RIGHT9</namePosition>
-		<positionFile>right9</positionFile>
-		<priority>65</priority>
-	</position>
-	<position>
-		<namePosition>RIGHT10</namePosition>
-		<positionFile>right10</positionFile>
-		<priority>64</priority>
-	</position>
-	<position>
-		<namePosition>RIGHT11</namePosition>
-		<positionFile>right11</positionFile>
-		<priority>63</priority>
-	</position>
-	<position>
-		<namePosition>RIGHT12</namePosition>
-		<positionFile>right12</positionFile>
-		<priority>62</priority>
-	</position>
-	<position>
-		<namePosition>RIGHT13</namePosition>
-		<positionFile>right13</positionFile>
-		<priority>61</priority>
-	</position>
-	<position>
-		<namePosition>RIGHT14</namePosition>
-		<positionFile>right14</positionFile>
-		<priority>60</priority>
-	</position>
-	<position>
-		<namePosition>RIGHT15</namePosition>
-		<positionFile>right15</positionFile>
-		<priority>59</priority>
-	</position>
+
 
 	<!-- POSITION END -->
 	
@@ -287,6 +213,18 @@
 		<nameElements>termostat_big_wb</nameElements>
 		<titleElements>Термостат с биг кнопками</titleElements>
 	</elements>
+	<elements pos="CENTER1">
+		<nameElements>tv_console</nameElements>
+		<titleElements>ТВ пульт</titleElements>
+	</elements>
+	<elements pos="CENTER1">
+		<nameElements>player</nameElements>
+		<titleElements>Плеер</titleElements>
+	</elements>
+	<elements pos="CENTER1">
+		<nameElements>radio</nameElements>
+		<titleElements>Переключатель входов</titleElements>
+	</elements>
 	<!-- CENTER1 END -->
 	
 	<!-- CENTER2 START -->
@@ -370,6 +308,18 @@
 		<nameElements>termostat_big_wb</nameElements>
 		<titleElements>Термостат с биг кнопками</titleElements>
 	</elements>
+	<elements pos="CENTER2">
+		<nameElements>tv_console</nameElements>
+		<titleElements>ТВ пульт</titleElements>
+	</elements>
+	<elements pos="CENTER2">
+		<nameElements>player</nameElements>
+		<titleElements>Плеер</titleElements>
+	</elements>
+	<elements pos="CENTER2">
+		<nameElements>radio</nameElements>
+		<titleElements>Переключатель входов</titleElements>
+	</elements>
 	<!-- CENTER2 END -->
 	
 	<!-- CENTER3 START -->
@@ -452,6 +402,18 @@
 	<elements pos="CENTER3">
 		<nameElements>termostat_big_wb</nameElements>
 		<titleElements>Термостат с биг кнопками</titleElements>
+	</elements>
+	<elements pos="CENTER3">
+		<nameElements>tv_console</nameElements>
+		<titleElements>ТВ пульт</titleElements>
+	</elements>
+	<elements pos="CENTER3">
+		<nameElements>player</nameElements>
+		<titleElements>Плеер</titleElements>
+	</elements>
+	<elements pos="CENTER3">
+		<nameElements>radio</nameElements>
+		<titleElements>Переключатель входов</titleElements>
 	</elements>
 	<!-- CENTER3 END -->
 	
@@ -537,6 +499,18 @@
 		<nameElements>termostat_big_wb</nameElements>
 		<titleElements>Термостат с биг кнопками</titleElements>
 	</elements>
+	<elements pos="CENTER4">
+		<nameElements>tv_console</nameElements>
+		<titleElements>ТВ пульт</titleElements>
+	</elements>
+	<elements pos="CENTER4">
+		<nameElements>player</nameElements>
+		<titleElements>Плеер</titleElements>
+	</elements>
+	<elements pos="CENTER4">
+		<nameElements>radio</nameElements>
+		<titleElements>Переключатель входов</titleElements>
+	</elements>
 	<!-- CENTER4 END -->	
 	
 	<!-- CENTER5 START -->
@@ -619,6 +593,18 @@
 	<elements pos="CENTER5">
 		<nameElements>termostat_big_wb</nameElements>
 		<titleElements>Термостат с биг кнопками</titleElements>
+	</elements>
+	<elements pos="CENTER5">
+		<nameElements>tv_console</nameElements>
+		<titleElements>ТВ пульт</titleElements>
+	</elements>
+	<elements pos="CENTER5">
+		<nameElements>player</nameElements>
+		<titleElements>Плеер</titleElements>
+	</elements>
+	<elements pos="CENTER5">
+		<nameElements>radio</nameElements>
+		<titleElements>Переключатель входов</titleElements>
 	</elements>
 	<!-- CENTER5 END -->	
 
@@ -703,6 +689,18 @@
 	<elements pos="CENTER6">
 		<nameElements>termostat_big_wb</nameElements>
 		<titleElements>Термостат с биг кнопками</titleElements>
+	</elements>
+	<elements pos="CENTER6">
+		<nameElements>tv_console</nameElements>
+		<titleElements>ТВ пульт</titleElements>
+	</elements>
+	<elements pos="CENTER6">
+		<nameElements>player</nameElements>
+		<titleElements>Плеер</titleElements>
+	</elements>
+	<elements pos="CENTER6">
+		<nameElements>radio</nameElements>
+		<titleElements>Переключатель входов</titleElements>
 	</elements>
 	<!-- CENTER6 END -->	
 
@@ -789,6 +787,18 @@
 		<nameElements>termostat_big_wb</nameElements>
 		<titleElements>Термостат с биг кнопками</titleElements>
 	</elements>
+	<elements pos="CENTER7">
+		<nameElements>tv_console</nameElements>
+		<titleElements>ТВ пульт</titleElements>
+	</elements>
+	<elements pos="CENTER7">
+		<nameElements>player</nameElements>
+		<titleElements>Плеер</titleElements>
+	</elements>
+	<elements pos="CENTER7">
+		<nameElements>radio</nameElements>
+		<titleElements>Переключатель входов</titleElements>
+	</elements>
 	<!-- CENTER7 END -->	
 
 
@@ -873,6 +883,18 @@
 		<nameElements>termostat_big_wb</nameElements>
 		<titleElements>Термостат с биг кнопками</titleElements>
 	</elements>
+	<elements pos="CENTER8">
+		<nameElements>tv_console</nameElements>
+		<titleElements>ТВ пульт</titleElements>
+	</elements>
+	<elements pos="CENTER8">
+		<nameElements>player</nameElements>
+		<titleElements>Плеер</titleElements>
+	</elements>
+	<elements pos="CENTER8">
+		<nameElements>radio</nameElements>
+		<titleElements>Переключатель входов</titleElements>
+	</elements>
 	<!-- CENTER8 END -->	
 
 
@@ -956,6 +978,18 @@
 	<elements pos="CENTER9">
 		<nameElements>termostat_big_wb</nameElements>
 		<titleElements>Термостат с биг кнопками</titleElements>
+	</elements>
+	<elements pos="CENTER9">
+		<nameElements>tv_console</nameElements>
+		<titleElements>ТВ пульт</titleElements>
+	</elements>
+	<elements pos="CENTER9">
+		<nameElements>player</nameElements>
+		<titleElements>Плеер</titleElements>
+	</elements>
+	<elements pos="CENTER9">
+		<nameElements>radio</nameElements>
+		<titleElements>Переключатель входов</titleElements>
 	</elements>
 	<!-- CENTER9 END -->	
 
@@ -1042,6 +1076,18 @@
 		<nameElements>termostat_big_wb</nameElements>
 		<titleElements>Термостат с биг кнопками</titleElements>
 	</elements>
+	<elements pos="CENTER10">
+		<nameElements>tv_console</nameElements>
+		<titleElements>ТВ пульт</titleElements>
+	</elements>
+	<elements pos="CENTER10">
+		<nameElements>player</nameElements>
+		<titleElements>Плеер</titleElements>
+	</elements>
+	<elements pos="CENTER10">
+		<nameElements>radio</nameElements>
+		<titleElements>Переключатель входов</titleElements>
+	</elements>
 	<!-- CENTER10 END -->	
 
 	<!-- CENTER11 START -->
@@ -1125,6 +1171,18 @@
 	<elements pos="CENTER11">
 		<nameElements>termostat_big_wb</nameElements>
 		<titleElements>Термостат с биг кнопками</titleElements>
+	</elements>
+	<elements pos="CENTER11">
+		<nameElements>tv_console</nameElements>
+		<titleElements>ТВ пульт</titleElements>
+	</elements>
+	<elements pos="CENTER11">
+		<nameElements>player</nameElements>
+		<titleElements>Плеер</titleElements>
+	</elements>
+	<elements pos="CENTER11">
+		<nameElements>radio</nameElements>
+		<titleElements>Переключатель входов</titleElements>
 	</elements>
 	<!-- CENTER11 END -->	
 
@@ -1211,6 +1269,18 @@
 		<nameElements>termostat_big_wb</nameElements>
 		<titleElements>Термостат с биг кнопками</titleElements>
 	</elements>
+	<elements pos="CENTER12">
+		<nameElements>tv_console</nameElements>
+		<titleElements>ТВ пульт</titleElements>
+	</elements>
+	<elements pos="CENTER12">
+		<nameElements>player</nameElements>
+		<titleElements>Плеер</titleElements>
+	</elements>
+	<elements pos="CENTER12">
+		<nameElements>radio</nameElements>
+		<titleElements>Переключатель входов</titleElements>
+	</elements>
 	<!-- CENTER12 END -->	
 
 	<!-- CENTER13 START -->
@@ -1295,6 +1365,18 @@
 		<nameElements>termostat_big_wb</nameElements>
 		<titleElements>Термостат с биг кнопками</titleElements>
 	</elements>
+	<elements pos="CENTER13">
+		<nameElements>tv_console</nameElements>
+		<titleElements>ТВ пульт</titleElements>
+	</elements>
+	<elements pos="CENTER13">
+		<nameElements>player</nameElements>
+		<titleElements>Плеер</titleElements>
+	</elements>
+	<elements pos="CENTER13">
+		<nameElements>radio</nameElements>
+		<titleElements>Переключатель входов</titleElements>
+	</elements>
 	<!-- CENTER13 END -->	
 
 	<!-- CENTER14 START -->
@@ -1377,6 +1459,18 @@
 	<elements pos="CENTER14">
 		<nameElements>termostat_big_wb</nameElements>
 		<titleElements>Термостат с биг кнопками</titleElements>
+	</elements>
+	<elements pos="CENTER14">
+		<nameElements>tv_console</nameElements>
+		<titleElements>ТВ пульт</titleElements>
+	</elements>
+	<elements pos="CENTER14">
+		<nameElements>player</nameElements>
+		<titleElements>Плеер</titleElements>
+	</elements>
+	<elements pos="CENTER14">
+		<nameElements>radio</nameElements>
+		<titleElements>Переключатель входов</titleElements>
 	</elements>
 	<!-- CENTER14 END -->	
 
@@ -1461,724 +1555,22 @@
 		<nameElements>termostat_big_wb</nameElements>
 		<titleElements>Термостат с биг кнопками</titleElements>
 	</elements>
+	<elements pos="CENTER15">
+		<nameElements>tv_console</nameElements>
+		<titleElements>ТВ пульт</titleElements>
+	</elements>
+	<elements pos="CENTER15">
+		<nameElements>player</nameElements>
+		<titleElements>Плеер</titleElements>
+	</elements>
+	<elements pos="CENTER15">
+		<nameElements>radio</nameElements>
+		<titleElements>Переключатель входов</titleElements>
+	</elements>
 	<!-- CENTER15 END -->	
 
 	
-	<!-- RIGHT1 START -->
-	<elements pos="RIGHT1">
-		<nameElements>title</nameElements>
-		<titleElements>Заголовок</titleElements>
-	</elements>
-	<elements pos="RIGHT1">
-		<nameElements>html</nameElements>
-		<titleElements>Произвольный html</titleElements>
-	</elements>
-	<elements pos="RIGHT1">
-		<nameElements>switch_icor</nameElements>
-		<titleElements>Выключатель иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT1">
-		<nameElements>button_icor</nameElements>
-		<titleElements>Кнопка иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT1">
-		<nameElements>tv_console</nameElements>
-		<titleElements>ТВ пульт</titleElements>
-	</elements>
-	<elements pos="RIGHT1">
-		<nameElements>player</nameElements>
-		<titleElements>Плеер</titleElements>
-	</elements>
-	<elements pos="RIGHT1">
-		<nameElements>radio</nameElements>
-		<titleElements>Переключатель входов</titleElements>
-	</elements>
-	<elements pos="RIGHT1">
-		<nameElements>slider_r</nameElements>
-		<titleElements>Слайдер</titleElements>
-	</elements>
-	<elements pos="RIGHT1">
-		<nameElements>slider_wb_r</nameElements>
-		<titleElements>Слайдер с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT1">
-		<nameElements>termostat_wb</nameElements>
-		<titleElements>Термостат с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT1">
-		<nameElements>termostat_big_wb</nameElements>
-		<titleElements>Термостат с биг кнопками</titleElements>
-	</elements>
 
-	<!-- RIGHT1 END -->
-	
-	<!-- RIGHT2 START -->
-	<elements pos="RIGHT2">
-		<nameElements>title</nameElements>
-		<titleElements>Заголовок</titleElements>
-	</elements>
-	<elements pos="RIGHT2">
-		<nameElements>html</nameElements>
-		<titleElements>Произвольный html</titleElements>
-	</elements>
-	<elements pos="RIGHT2">
-		<nameElements>switch_icor</nameElements>
-		<titleElements>Выключатель иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT2">
-		<nameElements>button_icor</nameElements>
-		<titleElements>Кнопка иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT2">
-		<nameElements>tv_console</nameElements>
-		<titleElements>ТВ пульт</titleElements>
-	</elements>
-	<elements pos="RIGHT2">
-		<nameElements>player</nameElements>
-		<titleElements>Плеер</titleElements>
-	</elements>
-	<elements pos="RIGHT2">
-		<nameElements>radio</nameElements>
-		<titleElements>Переключатель входов</titleElements>
-	</elements>
-	<elements pos="RIGHT2">
-		<nameElements>slider_r</nameElements>
-		<titleElements>Слайдер</titleElements>
-	</elements>
-	<elements pos="RIGHT2">
-		<nameElements>slider_wb_r</nameElements>
-		<titleElements>Слайдер с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT2">
-		<nameElements>termostat_wb</nameElements>
-		<titleElements>Термостат с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT2">
-		<nameElements>termostat_big_wb</nameElements>
-		<titleElements>Термостат с биг кнопками</titleElements>
-	</elements>
-	<!-- RIGHT2 END -->
-	
-	<!-- RIGHT3 START -->
-	<elements pos="RIGHT3">
-		<nameElements>title</nameElements>
-		<titleElements>Заголовок</titleElements>
-	</elements>
-	<elements pos="RIGHT3">
-		<nameElements>html</nameElements>
-		<titleElements>Произвольный html</titleElements>
-	</elements>
-	<elements pos="RIGHT3">
-		<nameElements>switch_icor</nameElements>
-		<titleElements>Выключатель иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT3">
-		<nameElements>button_icor</nameElements>
-		<titleElements>Кнопка иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT3">
-		<nameElements>tv_console</nameElements>
-		<titleElements>ТВ пульт</titleElements>
-	</elements>
-	<elements pos="RIGHT3">
-		<nameElements>player</nameElements>
-		<titleElements>Плеер</titleElements>
-	</elements>
-	<elements pos="RIGHT3">
-		<nameElements>radio</nameElements>
-		<titleElements>Переключатель входов</titleElements>
-	</elements>
-	<elements pos="RIGHT3">
-		<nameElements>slider_r</nameElements>
-		<titleElements>Слайдер</titleElements>
-	</elements>
-	<elements pos="RIGHT3">
-		<nameElements>slider_wb_r</nameElements>
-		<titleElements>Слайдер с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT3">
-		<nameElements>termostat_wb</nameElements>
-		<titleElements>Термостат с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT3">
-		<nameElements>termostat_big_wb</nameElements>
-		<titleElements>Термостат с биг кнопками</titleElements>
-	</elements>
-	<!-- RIGHT3 END -->
-	
-	<!-- RIGHT4 START -->
-	<elements pos="RIGHT4">
-		<nameElements>title</nameElements>
-		<titleElements>Заголовок</titleElements>
-	</elements>
-	<elements pos="RIGHT4">
-		<nameElements>html</nameElements>
-		<titleElements>Произвольный html</titleElements>
-	</elements>
-	<elements pos="RIGHT4">
-		<nameElements>switch_icor</nameElements>
-		<titleElements>Выключатель иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT4">
-		<nameElements>button_icor</nameElements>
-		<titleElements>Кнопка иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT4">
-		<nameElements>tv_console</nameElements>
-		<titleElements>ТВ пульт</titleElements>
-	</elements>
-	<elements pos="RIGHT4">
-		<nameElements>player</nameElements>
-		<titleElements>Плеер</titleElements>
-	</elements>
-	<elements pos="RIGHT4">
-		<nameElements>radio</nameElements>
-		<titleElements>Переключатель входов</titleElements>
-	</elements>
-	<elements pos="RIGHT4">
-		<nameElements>slider_r</nameElements>
-		<titleElements>Слайдер</titleElements>
-	</elements>
-	<elements pos="RIGHT4">
-		<nameElements>slider_wb_r</nameElements>
-		<titleElements>Слайдер с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT4">
-		<nameElements>termostat_wb</nameElements>
-		<titleElements>Термостат с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT4">
-		<nameElements>termostat_big_wb</nameElements>
-		<titleElements>Термостат с биг кнопками</titleElements>
-	</elements>
-	<!-- RIGHT4 END -->
-
-	<!-- RIGHT5 START -->
-	<elements pos="RIGHT5">
-		<nameElements>title</nameElements>
-		<titleElements>Заголовок</titleElements>
-	</elements>
-	<elements pos="RIGHT5">
-		<nameElements>html</nameElements>
-		<titleElements>Произвольный html</titleElements>
-	</elements>
-	<elements pos="RIGHT5">
-		<nameElements>switch_icor</nameElements>
-		<titleElements>Выключатель иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT5">
-		<nameElements>button_icor</nameElements>
-		<titleElements>Кнопка иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT5">
-		<nameElements>tv_console</nameElements>
-		<titleElements>ТВ пульт</titleElements>
-	</elements>
-	<elements pos="RIGHT5">
-		<nameElements>player</nameElements>
-		<titleElements>Плеер</titleElements>
-	</elements>
-	<elements pos="RIGHT5">
-		<nameElements>radio</nameElements>
-		<titleElements>Переключатель входов</titleElements>
-	</elements>
-	<elements pos="RIGHT5">
-		<nameElements>slider_r</nameElements>
-		<titleElements>Слайдер</titleElements>
-	</elements>
-	<elements pos="RIGHT5">
-		<nameElements>slider_wb_r</nameElements>
-		<titleElements>Слайдер с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT5">
-		<nameElements>termostat_wb</nameElements>
-		<titleElements>Термостат с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT5">
-		<nameElements>termostat_big_wb</nameElements>
-		<titleElements>Термостат с биг кнопками</titleElements>
-	</elements>
-	<!-- RIGHT5 END -->
-	
-	<!-- RIGHT6 START -->
-	<elements pos="RIGHT6">
-		<nameElements>title</nameElements>
-		<titleElements>Заголовок</titleElements>
-	</elements>
-	<elements pos="RIGHT6">
-		<nameElements>html</nameElements>
-		<titleElements>Произвольный html</titleElements>
-	</elements>
-	<elements pos="RIGHT6">
-		<nameElements>switch_icor</nameElements>
-		<titleElements>Выключатель иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT6">
-		<nameElements>button_icor</nameElements>
-		<titleElements>Кнопка иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT6">
-		<nameElements>tv_console</nameElements>
-		<titleElements>ТВ пульт</titleElements>
-	</elements>
-	<elements pos="RIGHT6">
-		<nameElements>player</nameElements>
-		<titleElements>Плеер</titleElements>
-	</elements>
-	<elements pos="RIGHT6">
-		<nameElements>radio</nameElements>
-		<titleElements>Переключатель входов</titleElements>
-	</elements>
-	<elements pos="RIGHT6">
-		<nameElements>slider_r</nameElements>
-		<titleElements>Слайдер</titleElements>
-	</elements>
-	<elements pos="RIGHT6">
-		<nameElements>slider_wb_r</nameElements>
-		<titleElements>Слайдер с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT6">
-		<nameElements>termostat_wb</nameElements>
-		<titleElements>Термостат с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT6">
-		<nameElements>termostat_big_wb</nameElements>
-		<titleElements>Термостат с биг кнопками</titleElements>
-	</elements>
-	
-	<!-- RIGHT6 END -->
-
-	<!-- RIGHT7 START -->
-	<elements pos="RIGHT7">
-		<nameElements>title</nameElements>
-		<titleElements>Заголовок</titleElements>
-	</elements>
-	<elements pos="RIGHT7">
-		<nameElements>html</nameElements>
-		<titleElements>Произвольный html</titleElements>
-	</elements>
-	<elements pos="RIGHT7">
-		<nameElements>switch_icor</nameElements>
-		<titleElements>Выключатель иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT7">
-		<nameElements>button_icor</nameElements>
-		<titleElements>Кнопка иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT7">
-		<nameElements>tv_console</nameElements>
-		<titleElements>ТВ пульт</titleElements>
-	</elements>
-	<elements pos="RIGHT7">
-		<nameElements>player</nameElements>
-		<titleElements>Плеер</titleElements>
-	</elements>
-	<elements pos="RIGHT7">
-		<nameElements>radio</nameElements>
-		<titleElements>Переключатель входов</titleElements>
-	</elements>
-	<elements pos="RIGHT7">
-		<nameElements>slider_r</nameElements>
-		<titleElements>Слайдер</titleElements>
-	</elements>
-	<elements pos="RIGHT7">
-		<nameElements>slider_wb_r</nameElements>
-		<titleElements>Слайдер с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT7">
-		<nameElements>termostat_wb</nameElements>
-		<titleElements>Термостат с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT7">
-		<nameElements>termostat_big_wb</nameElements>
-		<titleElements>Термостат с биг кнопками</titleElements>
-	</elements>
-
-	<!-- RIGHT7 END -->
-	
-	<!-- RIGHT8 START -->
-	<elements pos="RIGHT8">
-		<nameElements>title</nameElements>
-		<titleElements>Заголовок</titleElements>
-	</elements>
-	<elements pos="RIGHT8">
-		<nameElements>html</nameElements>
-		<titleElements>Произвольный html</titleElements>
-	</elements>
-	<elements pos="RIGHT8">
-		<nameElements>switch_icor</nameElements>
-		<titleElements>Выключатель иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT8">
-		<nameElements>button_icor</nameElements>
-		<titleElements>Кнопка иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT8">
-		<nameElements>tv_console</nameElements>
-		<titleElements>ТВ пульт</titleElements>
-	</elements>
-	<elements pos="RIGHT8">
-		<nameElements>player</nameElements>
-		<titleElements>Плеер</titleElements>
-	</elements>
-	<elements pos="RIGHT8">
-		<nameElements>radio</nameElements>
-		<titleElements>Переключатель входов</titleElements>
-	</elements>
-	<elements pos="RIGHT8">
-		<nameElements>slider_r</nameElements>
-		<titleElements>Слайдер</titleElements>
-	</elements>
-	<elements pos="RIGHT8">
-		<nameElements>slider_wb_r</nameElements>
-		<titleElements>Слайдер с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT8">
-		<nameElements>termostat_wb</nameElements>
-		<titleElements>Термостат с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT8">
-		<nameElements>termostat_big_wb</nameElements>
-		<titleElements>Термостат с биг кнопками</titleElements>
-	</elements>
-
-	<!-- RIGHT8 END -->
-	
-	<!-- RIGHT9 START -->
-	<elements pos="RIGHT9">
-		<nameElements>title</nameElements>
-		<titleElements>Заголовок</titleElements>
-	</elements>
-	<elements pos="RIGHT9">
-		<nameElements>html</nameElements>
-		<titleElements>Произвольный html</titleElements>
-	</elements>
-	<elements pos="RIGHT9">
-		<nameElements>switch_icor</nameElements>
-		<titleElements>Выключатель иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT9">
-		<nameElements>button_icor</nameElements>
-		<titleElements>Кнопка иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT9">
-		<nameElements>tv_console</nameElements>
-		<titleElements>ТВ пульт</titleElements>
-	</elements>
-	<elements pos="RIGHT9">
-		<nameElements>player</nameElements>
-		<titleElements>Плеер</titleElements>
-	</elements>
-	<elements pos="RIGHT9">
-		<nameElements>radio</nameElements>
-		<titleElements>Переключатель входов</titleElements>
-	</elements>
-	<elements pos="RIGHT9">
-		<nameElements>slider_r</nameElements>
-		<titleElements>Слайдер</titleElements>
-	</elements>
-	<elements pos="RIGHT9">
-		<nameElements>slider_wb_r</nameElements>
-		<titleElements>Слайдер с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT9">
-		<nameElements>termostat_wb</nameElements>
-		<titleElements>Термостат с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT9">
-		<nameElements>termostat_big_wb</nameElements>
-		<titleElements>Термостат с биг кнопками</titleElements>
-	</elements>
-
-	<!-- RIGHT9 END -->
-
-	<!-- RIGHT10 START -->
-	<elements pos="RIGHT10">
-		<nameElements>title</nameElements>
-		<titleElements>Заголовок</titleElements>
-	</elements>
-	<elements pos="RIGHT10">
-		<nameElements>html</nameElements>
-		<titleElements>Произвольный html</titleElements>
-	</elements>
-	<elements pos="RIGHT10">
-		<nameElements>switch_icor</nameElements>
-		<titleElements>Выключатель иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT10">
-		<nameElements>button_icor</nameElements>
-		<titleElements>Кнопка иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT10">
-		<nameElements>tv_console</nameElements>
-		<titleElements>ТВ пульт</titleElements>
-	</elements>
-	<elements pos="RIGHT10">
-		<nameElements>player</nameElements>
-		<titleElements>Плеер</titleElements>
-	</elements>
-	<elements pos="RIGHT10">
-		<nameElements>radio</nameElements>
-		<titleElements>Переключатель входов</titleElements>
-	</elements>
-	<elements pos="RIGHT10">
-		<nameElements>slider_r</nameElements>
-		<titleElements>Слайдер</titleElements>
-	</elements>
-	<elements pos="RIGHT10">
-		<nameElements>slider_wb_r</nameElements>
-		<titleElements>Слайдер с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT10">
-		<nameElements>termostat_wb</nameElements>
-		<titleElements>Термостат с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT10">
-		<nameElements>termostat_big_wb</nameElements>
-		<titleElements>Термостат с биг кнопками</titleElements>
-	</elements>
-
-	<!-- RIGHT10 END -->
-
-	<!-- RIGHT11 START -->
-	<elements pos="RIGHT11">
-		<nameElements>title</nameElements>
-		<titleElements>Заголовок</titleElements>
-	</elements>
-	<elements pos="RIGHT11">
-		<nameElements>html</nameElements>
-		<titleElements>Произвольный html</titleElements>
-	</elements>
-	<elements pos="RIGHT11">
-		<nameElements>switch_icor</nameElements>
-		<titleElements>Выключатель иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT11">
-		<nameElements>button_icor</nameElements>
-		<titleElements>Кнопка иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT11">
-		<nameElements>tv_console</nameElements>
-		<titleElements>ТВ пульт</titleElements>
-	</elements>
-	<elements pos="RIGHT11">
-		<nameElements>player</nameElements>
-		<titleElements>Плеер</titleElements>
-	</elements>
-	<elements pos="RIGHT11">
-		<nameElements>radio</nameElements>
-		<titleElements>Переключатель входов</titleElements>
-	</elements>
-	<elements pos="RIGHT11">
-		<nameElements>slider_r</nameElements>
-		<titleElements>Слайдер</titleElements>
-	</elements>
-	<elements pos="RIGHT11">
-		<nameElements>slider_wb_r</nameElements>
-		<titleElements>Слайдер с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT11">
-		<nameElements>termostat_wb</nameElements>
-		<titleElements>Термостат с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT11">
-		<nameElements>termostat_big_wb</nameElements>
-		<titleElements>Термостат с биг кнопками</titleElements>
-	</elements>
-	
-	<!-- RIGHT11 END -->
-
-	<!-- RIGHT12 START -->
-	<elements pos="RIGHT12">
-		<nameElements>title</nameElements>
-		<titleElements>Заголовок</titleElements>
-	</elements>
-	<elements pos="RIGHT12">
-		<nameElements>html</nameElements>
-		<titleElements>Произвольный html</titleElements>
-	</elements>
-	<elements pos="RIGHT12">
-		<nameElements>switch_icor</nameElements>
-		<titleElements>Выключатель иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT12">
-		<nameElements>button_icor</nameElements>
-		<titleElements>Кнопка иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT12">
-		<nameElements>tv_console</nameElements>
-		<titleElements>ТВ пульт</titleElements>
-	</elements>
-	<elements pos="RIGHT12">
-		<nameElements>player</nameElements>
-		<titleElements>Плеер</titleElements>
-	</elements>
-	<elements pos="RIGHT12">
-		<nameElements>radio</nameElements>
-		<titleElements>Переключатель входов</titleElements>
-	</elements>
-	<elements pos="RIGHT12">
-		<nameElements>slider_r</nameElements>
-		<titleElements>Слайдер</titleElements>
-	</elements>
-	<elements pos="RIGHT12">
-		<nameElements>slider_wb_r</nameElements>
-		<titleElements>Слайдер с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT12">
-		<nameElements>termostat_wb</nameElements>
-		<titleElements>Термостат с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT12">
-		<nameElements>termostat_big_wb</nameElements>
-		<titleElements>Термостат с биг кнопками</titleElements>
-	</elements>
-
-	<!-- RIGHT12 END -->
-
-	<!-- RIGHT13 START -->
-	<elements pos="RIGHT13">
-		<nameElements>title</nameElements>
-		<titleElements>Заголовок</titleElements>
-	</elements>
-	<elements pos="RIGHT13">
-		<nameElements>html</nameElements>
-		<titleElements>Произвольный html</titleElements>
-	</elements>
-	<elements pos="RIGHT13">
-		<nameElements>switch_icor</nameElements>
-		<titleElements>Выключатель иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT13">
-		<nameElements>button_icor</nameElements>
-		<titleElements>Кнопка иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT13">
-		<nameElements>tv_console</nameElements>
-		<titleElements>ТВ пульт</titleElements>
-	</elements>
-	<elements pos="RIGHT13">
-		<nameElements>player</nameElements>
-		<titleElements>Плеер</titleElements>
-	</elements>
-	<elements pos="RIGHT13">
-		<nameElements>radio</nameElements>
-		<titleElements>Переключатель входов</titleElements>
-	</elements>
-	<elements pos="RIGHT13">
-		<nameElements>slider_r</nameElements>
-		<titleElements>Слайдер</titleElements>
-	</elements>
-	<elements pos="RIGHT13">
-		<nameElements>slider_wb_r</nameElements>
-		<titleElements>Слайдер с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT13">
-		<nameElements>termostat_wb</nameElements>
-		<titleElements>Термостат с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT13">
-		<nameElements>termostat_big_wb</nameElements>
-		<titleElements>Термостат с биг кнопками</titleElements>
-	</elements>
-
-	<!-- RIGHT13 END -->
-
-	<!-- RIGHT14 START -->
-	<elements pos="RIGHT14">
-		<nameElements>title</nameElements>
-		<titleElements>Заголовок</titleElements>
-	</elements>
-	<elements pos="RIGHT14">
-		<nameElements>html</nameElements>
-		<titleElements>Произвольный html</titleElements>
-	</elements>
-	<elements pos="RIGHT14">
-		<nameElements>switch_icor</nameElements>
-		<titleElements>Выключатель иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT14">
-		<nameElements>button_icor</nameElements>
-		<titleElements>Кнопка иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT14">
-		<nameElements>tv_console</nameElements>
-		<titleElements>ТВ пульт</titleElements>
-	</elements>
-	<elements pos="RIGHT14">
-		<nameElements>player</nameElements>
-		<titleElements>Плеер</titleElements>
-	</elements>
-	<elements pos="RIGHT14">
-		<nameElements>radio</nameElements>
-		<titleElements>Переключатель входов</titleElements>
-	</elements>
-	<elements pos="RIGHT14">
-		<nameElements>slider_r</nameElements>
-		<titleElements>Слайдер</titleElements>
-	</elements>
-	<elements pos="RIGHT14">
-		<nameElements>slider_wb_r</nameElements>
-		<titleElements>Слайдер с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT14">
-		<nameElements>termostat_wb</nameElements>
-		<titleElements>Термостат с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT14">
-		<nameElements>termostat_big_wb</nameElements>
-		<titleElements>Термостат с биг кнопками</titleElements>
-	</elements>
-
-	<!-- RIGHT14 END -->
-
-	<!-- RIGHT15 START -->
-	<elements pos="RIGHT15">
-		<nameElements>title</nameElements>
-		<titleElements>Заголовок</titleElements>
-	</elements>
-	<elements pos="RIGHT15">
-		<nameElements>html</nameElements>
-		<titleElements>Произвольный html</titleElements>
-	</elements>
-	<elements pos="RIGHT15">
-		<nameElements>switch_icor</nameElements>
-		<titleElements>Выключатель иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT15">
-		<nameElements>button_icor</nameElements>
-		<titleElements>Кнопка иконка</titleElements>
-	</elements>
-	<elements pos="RIGHT15">
-		<nameElements>tv_console</nameElements>
-		<titleElements>ТВ пульт</titleElements>
-	</elements>
-	<elements pos="RIGHT15">
-		<nameElements>player</nameElements>
-		<titleElements>Плеер</titleElements>
-	</elements>
-	<elements pos="RIGHT15">
-		<nameElements>radio</nameElements>
-		<titleElements>Переключатель входов</titleElements>
-	</elements>
-	<elements pos="RIGHT15">
-		<nameElements>slider_r</nameElements>
-		<titleElements>Слайдер</titleElements>
-	</elements>
-	<elements pos="RIGHT15">
-		<nameElements>slider_wb_r</nameElements>
-		<titleElements>Слайдер с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT15">
-		<nameElements>termostat_wb</nameElements>
-		<titleElements>Термостат с кнопками</titleElements>
-	</elements>
-	<elements pos="RIGHT15">
-		<nameElements>termostat_big_wb</nameElements>
-		<titleElements>Термостат с биг кнопками</titleElements>
-	</elements>
-
-	<!-- RIGHT15 END -->
 	
 	<!-- HEADER ICO START -->	
 	<ico ico_pos="HEADER" element="ico_link">
@@ -4010,530 +3402,5 @@
 
         </ico>
 
-	<!-- CENTER15 ICO END -->
-
-	<!-- RIGHT1 ICO START -->
-	<ico ico_pos="RIGHT1" element="button_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<ico ico_pos="RIGHT1" element="switch_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<!-- RIGHT1 ICO END -->
-	
-	<!-- RIGHT2 ICO START -->
-	<ico ico_pos="RIGHT2" element="button_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<ico ico_pos="RIGHT2" element="switch_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<!-- RIGHT2 ICO END -->
-	
-	<!-- RIGHT3 ICO START -->
-	<ico ico_pos="RIGHT3" element="button_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<ico ico_pos="RIGHT3" element="switch_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<!-- RIGHT3 ICO END -->
-	
-	<!-- RIGHT4 ICO START -->
-	<ico ico_pos="RIGHT4" element="button_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<ico ico_pos="RIGHT4" element="switch_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<!-- RIGHT4 ICO END -->
-
-	<!-- RIGHT5 ICO START -->
-	<ico ico_pos="RIGHT5" element="button_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<ico ico_pos="RIGHT5" element="switch_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<!-- RIGHT5 ICO END -->
-
-	<!-- RIGHT6 ICO START -->
-	<ico ico_pos="RIGHT6" element="button_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<ico ico_pos="RIGHT6" element="switch_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<!-- RIGHT6 ICO END -->
-
-	<!-- RIGHT7 ICO START -->
-	<ico ico_pos="RIGHT7" element="button_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<ico ico_pos="RIGHT7" element="switch_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<!-- RIGHT7 ICO END -->
-
-	<!-- RIGHT8 ICO START -->
-	<ico ico_pos="RIGHT8" element="button_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<ico ico_pos="RIGHT8" element="switch_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<!-- RIGHT8 ICO END -->
-
-	<!-- RIGHT9 ICO START -->
-	<ico ico_pos="RIGHT9" element="button_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<ico ico_pos="RIGHT9" element="switch_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<!-- RIGHT9 ICO END -->
-
-	<!-- RIGHT10 ICO START -->
-	<ico ico_pos="RIGHT10" element="button_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<ico ico_pos="RIGHT10" element="switch_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<!-- RIGHT10 ICO END -->
-
-	<!-- RIGHT11 ICO START -->
-	<ico ico_pos="RIGHT11" element="button_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<ico ico_pos="RIGHT11" element="switch_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<!-- RIGHT11 ICO END -->
-
-	<!-- RIGHT12 ICO START -->
-	<ico ico_pos="RIGHT12" element="button_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<ico ico_pos="RIGHT12" element="switch_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<!-- RIGHT12 ICO END -->
-
-	<!-- RIGHT13 ICO START -->
-	<ico ico_pos="RIGHT13" element="button_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<ico ico_pos="RIGHT13" element="switch_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<!-- RIGHT13 ICO END -->
-
-	<!-- RIGHT14 ICO START -->
-	<ico ico_pos="RIGHT14" element="button_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<ico ico_pos="RIGHT14" element="switch_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<!-- RIGHT14 ICO END -->
-
-	<!-- RIGHT15 ICO START -->
-	<ico ico_pos="RIGHT15" element="button_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<ico ico_pos="RIGHT15" element="switch_icor">
-		<filesIco id="1">script-lamp-0</filesIco>
-		<filesIco id="2">script-eco-0</filesIco>
-		<filesIco id="3">script-luna-0</filesIco>
-		<filesIco id="4">script-sun-0</filesIco>
-		<filesIco id="5">script-wather-0</filesIco>
-		<filesIco id="6">script-zam-0</filesIco>
-		<filesIco id="7">script-tv-0</filesIco>
-		<filesIco id="8">script-smotr-0</filesIco>
-		<filesIco id="9">script-code-0</filesIco>
-		<filesIco id="10">script-pivo-0</filesIco>
-		<filesIco id="11">script-party-0</filesIco>
-		<filesIco id="12">script-kol-0</filesIco>
-		<filesIco id="13">script-open-0</filesIco>
-		<filesIco id="14">script-openk-0</filesIco>
-	</ico>
-	<!-- RIGHT15 ICO END -->
+	<!-- CENTER15 ICO END -->	
 </templates>
