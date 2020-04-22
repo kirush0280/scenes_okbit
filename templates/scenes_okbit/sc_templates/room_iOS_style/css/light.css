@@ -1010,6 +1010,7 @@ A, A:hover {
 	float:right;
 	font-size:16px;
 	width:100%;
+	display:none;
 }
 
 .right-menu li{
@@ -1181,7 +1182,7 @@ A, A:hover {
 }
 
 .player {
-	width:calc(100vw/3 - 40px);
+	/*width:calc(100vw/3 - 40px);*/
 }
 
 .mode-out {
@@ -1447,6 +1448,14 @@ A, A:hover {
 
 .info-color1-0 {
  background-color: #36b636!important;
+}
+
+.info-term-0 {
+	background-image: url(../../templates/scenes_okbit/sc_templates/sys_iOS_style/images/ico/gradus-t-0.png)!important;
+}
+
+.info-term-1 {
+	background-image: url(../../templates/scenes_okbit/sc_templates/sys_iOS_style/images/ico/gradus-t-1.png)!important;
 }
 
 
@@ -1786,7 +1795,7 @@ input[type="checkbox"]:checked + label::after {
 	font-size: 18px !important;
 	width:32%  !important;
 	float:left  !important;
-	height: 100vh!important;
+	/*height: 100vh!important;*/
 	text-align:left  !important;
 	border: 0px !important;
 /*	border-right: 2px solid #242425  !important;*/
@@ -1818,9 +1827,10 @@ input[type="checkbox"]:checked + label::after {
 	left : auto !important;
 	z-index : auto !important;
 	font-size: 16px !important;
-	width:calc(36% - 35px);
+	/*width:calc(36% - 35px);*/
+	width:calc(67% - 35px);
 	float:left  !important;
-	height: 100vh!important;
+	/*height: 100vh!important;*/
 	text-align:center !important;
 	background : 0 !important;
 	border: 0px !important;
@@ -1850,11 +1860,12 @@ input[type="checkbox"]:checked + label::after {
 	font-size: 18px !important;
 	width:32%  !important;
 	float:right  !important;
-	height: 100vh!important;
+	/*height: 100vh!important;*/
 	text-align:left  !important;
 	border: 0px !important;
 	border-left: 0px solid #242425  !important;
 	background : 0 !important;
+	display:none;
 }
 
 /* CSS Движение влево */
@@ -2912,6 +2923,12 @@ input[type="checkbox"]:checked + label::after {
 
 /* Landscape phones and smaller */
 @media (min-width: 300px) and (max-width: 1211px) {
+	.{{LEFT}} {	/* LEFT */
+	width: 100%!important;
+	float:left  !important;
+	/*height: 100vh!important;*/
+	text-align:left  !important;
+	}
 	#scene_background_{{ID}} {
 		display: flex!important;
 		flex-flow: wrap!important;
@@ -2934,9 +2951,10 @@ input[type="checkbox"]:checked + label::after {
 		order: 2!important;
 		padding: 0px!important;
 		margin: 0px!important;
-		background: #f0eff4!important;
-/*	margin: 5px!important;
-	padding:0px!important;*/
+		width: 100%!important;
+                background: #f0eff4!important;
+/*      margin: 5px!important;
+        padding:0px!important;*/
 
 	}
 	.player {
