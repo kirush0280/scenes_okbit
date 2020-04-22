@@ -1168,7 +1168,7 @@ A, A:hover {
 }
 
 .player {
-	width:calc(100vw/3 - 40px);
+	/*width:calc(100vw/3 - 40px);*/
 }
 
 .mode-out {
