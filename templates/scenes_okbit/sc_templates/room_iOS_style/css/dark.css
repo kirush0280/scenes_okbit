@@ -1523,7 +1523,7 @@ A, A:hover {
 	text-align: center; 
 	font-weight: bold;
     text-transform: uppercase;
-	width:calc(100vw/3 - 40px)!important;
+	/*width:calc(100vw/3 - 40px)!important;*/
 	color: #ffffff;
 }
 
@@ -3032,6 +3032,6 @@ A, A:hover {
                 width: calc(100vw - 10px)!important;
         }
         .info-sl{
-                width: calc(100vw - 40px)!important;
+               /* width: calc(100vw - 40px)!important;*/
         }
 }
