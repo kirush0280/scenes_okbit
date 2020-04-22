@@ -128,6 +128,10 @@ $('#right_{{ELEMENT_ID}}').click(function(){
 	margin: 8px;
 	font-size: 14px;
 	}
+	.termostat .info-s{
+	float:left;
+	padding-top: 0.2em ;
+	}
 </style>	 
 <div class="center-in termostat">
 	<span class="left">{{TITLE}}</span>
@@ -140,6 +144,7 @@ $('#right_{{ELEMENT_ID}}').click(function(){
 	 		
 	
 	<div class="termostat right">
+		<div class="termostat info-s">%{{OBJECT}}.updatedText%</div>
 		<div id="left_{{ELEMENT_ID}}" class="btn btn-sm">-</div>
 		<input class="termostat btn btn-sm" id="range{{ELEMENT_ID}}" oninput="range_{{ELEMENT_ID}}()" onchange="rangeSend_{{ELEMENT_ID}}(this.value)"  type="text" value="%{{OBJECT}}.normalTargetValue%">
 		<div id="right_{{ELEMENT_ID}}" class="btn btn-sm">+</div>
