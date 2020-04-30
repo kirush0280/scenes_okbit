@@ -2763,7 +2763,7 @@ input[type="checkbox"]:checked + label::after {
 }
 
 /* Portrait tablets and medium desktops */
-@media (min-width: 1212px) and (max-width: 1439px) {
+@media (min-width: 768px) and (max-width: 1439px) {
 	
 	.left-menu .link-ico{
 		width:25px!important;
@@ -2793,7 +2793,7 @@ input[type="checkbox"]:checked + label::after {
 }
 
 */
-@media (min-width: 1212px) {
+@media (min-width: 768px) {
 	
 	html {
 		overflow:  hidden; /* скрываем полосы прокрутки */
@@ -2911,7 +2911,7 @@ input[type="checkbox"]:checked + label::after {
 }
 
 /* Landscape phones and smaller */
-@media (min-width: 300px) and (max-width: 1211px) {
+@media (min-width: 300px) and (max-width: 767px) {
 	#scene_background_{{ID}} {
 		display: flex!important;
 		flex-flow: wrap!important;
