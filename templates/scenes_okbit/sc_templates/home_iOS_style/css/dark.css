@@ -1902,7 +1902,7 @@ A, A:hover {
 
 
 /* Portrait tablets and small desktops */
-@media (min-width: 768px) and (max-width: 899px) {
+@media (min-width: 850px) and (max-width: 899px) {
 	
 	.img-home {
 		height: 200px;
@@ -2029,7 +2029,7 @@ A, A:hover {
 
 
 /* Landscape phones and smaller */
-@media (max-width: 767px) {
+@media (max-width: 849px) {
 	#scene_background_{{ID}} {
 		display: flex!important;
 		flex-flow: wrap!important;
