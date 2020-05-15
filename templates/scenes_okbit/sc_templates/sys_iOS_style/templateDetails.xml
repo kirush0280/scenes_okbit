@@ -50,7 +50,7 @@
 	</elements>
 	<elements pos="CENTER">
 		<nameElements>info_time</nameElements>
-		<titleElements>Информер</titleElements>
+		<titleElements>Информер со временем</titleElements>
 	</elements>
 	<elements pos="CENTER">
 		<nameElements>info_bin</nameElements>
