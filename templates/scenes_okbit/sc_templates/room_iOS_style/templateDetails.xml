@@ -150,12 +150,16 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER1">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер со временем</titleElements>
+	</elements>
+	<elements pos="CENTER1">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER1">
 	        <nameElements>info_sos</nameElements>
-	        <titleElements>Информер охранный</titleElements>
+	        <titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 	<elements pos="CENTER1">
 		<nameElements>switch_cent</nameElements>
@@ -245,12 +249,16 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER2">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер со временем</titleElements>
+	</elements>
+	<elements pos="CENTER2">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER2">
 	        <nameElements>info_sos</nameElements>
-	        <titleElements>Информер охранный</titleElements>
+	        <titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 	<elements pos="CENTER2">
 		<nameElements>switch_cent</nameElements>
@@ -340,12 +348,16 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER3">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер со временем</titleElements>
+	</elements>
+	<elements pos="CENTER3">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER3">
 	        <nameElements>info_sos</nameElements>
-	        <titleElements>Информер охранный</titleElements>
+	        <titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 	<elements pos="CENTER3">
 		<nameElements>switch_cent</nameElements>
@@ -436,12 +448,16 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER4">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер со временем</titleElements>
+	</elements>
+	<elements pos="CENTER4">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER4">
 	        <nameElements>info_sos</nameElements>
-	        <titleElements>Информер охранный</titleElements>
+	        <titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 	<elements pos="CENTER4">
 		<nameElements>switch_cent</nameElements>
@@ -531,12 +547,16 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER5">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер со временем</titleElements>
+	</elements>
+	<elements pos="CENTER5">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER5">
 	        <nameElements>info_sos</nameElements>
-	        <titleElements>Информер охранный</titleElements>
+	        <titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 	<elements pos="CENTER5">
 		<nameElements>switch_cent</nameElements>
@@ -626,12 +646,16 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER6">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер со временем</titleElements>
+	</elements>
+	<elements pos="CENTER6">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER6">
 	        <nameElements>info_sos</nameElements>
-	        <titleElements>Информер охранный</titleElements>
+	        <titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 
 	<elements pos="CENTER6">
@@ -723,12 +747,16 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER7">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер со временем</titleElements>
+	</elements>
+	<elements pos="CENTER7">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER7">
 	        <nameElements>info_sos</nameElements>
-	        <titleElements>Информер охранный</titleElements>
+	        <titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 
 	<elements pos="CENTER7">
@@ -820,12 +848,16 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER8">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер со временем</titleElements>
+	</elements>
+	<elements pos="CENTER8">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER8">
 	        <nameElements>info_sos</nameElements>
-	        <titleElements>Информер охранный</titleElements>
+	        <titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 	<elements pos="CENTER8">
 		<nameElements>switch_cent</nameElements>
@@ -916,12 +948,16 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER9">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер со временем</titleElements>
+	</elements>
+	<elements pos="CENTER9">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER9">
 	        <nameElements>info_sos</nameElements>
-	        <titleElements>Информер охранный</titleElements>
+	        <titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 	<elements pos="CENTER9">
 		<nameElements>switch_cent</nameElements>
@@ -1012,12 +1048,16 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER10">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер со временем</titleElements>
+	</elements>
+	<elements pos="CENTER10">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER10">
 	        <nameElements>info_sos</nameElements>
-	        <titleElements>Информер охранный</titleElements>
+	        <titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 
 	<elements pos="CENTER10">
@@ -1108,12 +1148,16 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER11">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер со временем</titleElements>
+	</elements>
+	<elements pos="CENTER11">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER11">
 	        <nameElements>info_sos</nameElements>
-	        <titleElements>Информер охранный</titleElements>
+	        <titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 
 	<elements pos="CENTER11">
@@ -1205,12 +1249,17 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER12">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер со временем</titleElements>
+	</elements>
+
+	<elements pos="CENTER12">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER12">
 	        <nameElements>info_sos</nameElements>
-	        <titleElements>Информер охранный</titleElements>
+	        <titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 
 	<elements pos="CENTER12">
@@ -1301,12 +1350,17 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER13">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер со временем</titleElements>
+	</elements>
+
+	<elements pos="CENTER13">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER13">
 	        <nameElements>info_sos</nameElements>
-	        <titleElements>Информер охранный</titleElements>
+	        <titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 
 	<elements pos="CENTER13">
@@ -1397,12 +1451,16 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER14">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер со временем</titleElements>
+	</elements>
+	<elements pos="CENTER14">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER14">
 	        <nameElements>info_sos</nameElements>
-	        <titleElements>Информер охранный</titleElements>
+	        <titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 	<elements pos="CENTER14">
 		<nameElements>switch_cent</nameElements>
@@ -1492,12 +1550,16 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER15">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер со временем</titleElements>
+	</elements>
+	<elements pos="CENTER15">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER15">
 	        <nameElements>info_sos</nameElements>
-	        <titleElements>Информер охранный</titleElements>
+	        <titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 	<elements pos="CENTER15">
 		<nameElements>switch_cent</nameElements>
@@ -1658,6 +1720,14 @@
 		<filesIco id="5">info-volt			</filesIco>
 		<filesIco id="6">movement-room		</filesIco>
 	</ico>
+	<ico ico_pos="CENTER1" element="info_time">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">movement-room		</filesIco>
+	</ico>
 	<ico ico_pos="CENTER1" element="info_bin">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
@@ -1776,6 +1846,14 @@
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
 	</ico>
+	<ico ico_pos="CENTER2" element="info_time">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">movement-room		</filesIco>
+	</ico>
 	<ico ico_pos="CENTER2" element="info_bin">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
@@ -1893,7 +1971,16 @@
 		<filesIco id="3">info-svet			</filesIco>
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
-	</ico>	
+	</ico>
+	<ico ico_pos="CENTER3" element="info_time">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">movement-room		</filesIco>
+	</ico>
+	
 	<ico ico_pos="CENTER3" element="info_bin">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
@@ -2012,7 +2099,16 @@
 		<filesIco id="3">info-svet			</filesIco>
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
-	</ico>	
+	</ico>
+	<ico ico_pos="CENTER4" element="info_time">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">movement-room		</filesIco>
+	</ico>
+
 	<ico ico_pos="CENTER4" element="info_bin">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
@@ -2131,6 +2227,15 @@
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
 	</ico>
+	<ico ico_pos="CENTER5" element="info_time">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">movement-room		</filesIco>
+	</ico>
+
 	<ico ico_pos="CENTER5" element="info_bin">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
@@ -2249,6 +2354,14 @@
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
 	</ico>
+	<ico ico_pos="CENTER6" element="info_time">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+	</ico>
+
 	<ico ico_pos="CENTER6" element="info_bin">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
@@ -2367,6 +2480,14 @@
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
 	</ico>
+	<ico ico_pos="CENTER7" element="info">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+	</ico>
+
 	<ico ico_pos="CENTER7" element="info_bin">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
@@ -2478,6 +2599,13 @@
 		<filesIco id="21">hot_water</filesIco>
 		<filesIco id="22">warm_water</filesIco>
 	</ico>	
+	<ico ico_pos="CENTER8" element="info">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+	</ico>
 	<ico ico_pos="CENTER8" element="info">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
@@ -2604,6 +2732,7 @@
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
 	</ico>
+
 	<ico ico_pos="CENTER9" element="info_bin">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
@@ -2723,6 +2852,14 @@
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
 	</ico>
+	<ico ico_pos="CENTER10" element="info_time">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+	</ico>
+
 	<ico ico_pos="CENTER10" element="info_bin">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
@@ -2841,6 +2978,14 @@
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
 	</ico>
+	<ico ico_pos="CENTER11" element="info_time">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+	</ico>
+
 	<ico ico_pos="CENTER11" element="info_bin">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
@@ -2960,6 +3105,14 @@
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
 	</ico>
+	<ico ico_pos="CENTER12" element="info_time">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+	</ico>
+
 	<ico ico_pos="CENTER12" element="info_bin">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
@@ -3079,6 +3232,14 @@
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
 	</ico>
+	<ico ico_pos="CENTER13" element="info_time">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+	</ico>
+
 	<ico ico_pos="CENTER13" element="info_bin">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
@@ -3198,6 +3359,14 @@
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
 	</ico>
+	<ico ico_pos="CENTER14" element="info_time">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+	</ico>
+
 	<ico ico_pos="CENTER14" element="info_bin">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
@@ -3317,6 +3486,14 @@
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
 	</ico>
+	<ico ico_pos="CENTER15" element="info_time">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+	</ico>
+
 	<ico ico_pos="CENTER15" element="info_bin">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>

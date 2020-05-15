@@ -49,12 +49,16 @@
 		<titleElements>Информер</titleElements>
 	</elements>
 	<elements pos="CENTER">
+		<nameElements>info_time</nameElements>
+		<titleElements>Информер</titleElements>
+	</elements>
+	<elements pos="CENTER">
 		<nameElements>info_bin</nameElements>
 		<titleElements>Информер бинарный</titleElements>
 	</elements>
 	<elements pos="CENTER">
 		<nameElements>info_sos</nameElements>
-		<titleElements>Информер охранный</titleElements>
+		<titleElements>Информер бинарный со временем</titleElements>
 	</elements>
 	<elements pos="CENTER">
 		<nameElements>switch_cent</nameElements>
@@ -140,6 +144,14 @@
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
 	</ico>	
+	<ico ico_pos="CENTER" element="info_time">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+	</ico>	
+
 	<ico ico_pos="CENTER" element="button_ico">
 		<filesIco id="1">room-hoz			</filesIco>
 		<filesIco id="2">left-show-climat	</filesIco>
