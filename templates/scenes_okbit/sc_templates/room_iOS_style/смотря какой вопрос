@@ -2480,7 +2480,7 @@
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
 	</ico>
-	<ico ico_pos="CENTER7" element="info">
+	<ico ico_pos="CENTER7" element="info_time">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
 		<filesIco id="3">info-svet			</filesIco>
@@ -2606,7 +2606,7 @@
 		<filesIco id="4">info-pr			</filesIco>
 		<filesIco id="5">info-volt			</filesIco>
 	</ico>
-	<ico ico_pos="CENTER8" element="info">
+	<ico ico_pos="CENTER8" element="info_time">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
 		<filesIco id="3">info-svet			</filesIco>
@@ -2726,6 +2726,13 @@
 		<filesIco id="22">warm_water</filesIco>
 	</ico>	
 	<ico ico_pos="CENTER9" element="info">
+		<filesIco id="1">info-gradus		</filesIco>
+		<filesIco id="2">info-wather		</filesIco>
+		<filesIco id="3">info-svet			</filesIco>
+		<filesIco id="4">info-pr			</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+	</ico>
+	<ico ico_pos="CENTER9" element="info_time">
 		<filesIco id="1">info-gradus		</filesIco>
 		<filesIco id="2">info-wather		</filesIco>
 		<filesIco id="3">info-svet			</filesIco>
