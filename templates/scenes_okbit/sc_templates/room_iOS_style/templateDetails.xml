@@ -138,6 +138,10 @@
 		<titleElements>Заголовок</titleElements>
 	</elements>
 	<elements pos="CENTER1">
+		<nameElements>button_ico</nameElements>
+		<titleElements>Кнопка иконка</titleElements>
+	</elements>
+	<elements pos="CENTER1">
 		<nameElements>zero</nameElements>
 		<titleElements>Отступ</titleElements>
 	</elements>
@@ -237,6 +241,10 @@
 		<titleElements>Заголовок</titleElements>
 	</elements>
 	<elements pos="CENTER2">
+		<nameElements>button_ico</nameElements>
+		<titleElements>Кнопка иконка</titleElements>
+	</elements>
+	<elements pos="CENTER2">
 		<nameElements>zero</nameElements>
 		<titleElements>Отступ</titleElements>
 	</elements>
@@ -334,6 +342,10 @@
 	<elements pos="CENTER3">
 		<nameElements>title</nameElements>
 		<titleElements>Заголовок</titleElements>
+	</elements>
+	<elements pos="CENTER3">
+		<nameElements>button_ico</nameElements>
+		<titleElements>Кнопка иконка</titleElements>
 	</elements>
 	<elements pos="CENTER3">
 		<nameElements>zero</nameElements>
@@ -436,6 +448,10 @@
 		<titleElements>Заголовок</titleElements>
 	</elements>
 	<elements pos="CENTER4">
+		<nameElements>button_ico</nameElements>
+		<titleElements>Кнопка иконка</titleElements>
+	</elements>
+	<elements pos="CENTER4">
 		<nameElements>zero</nameElements>
 		<titleElements>Отступ</titleElements>
 	</elements>
@@ -535,6 +551,10 @@
 		<titleElements>Заголовок</titleElements>
 	</elements>
 	<elements pos="CENTER5">
+		<nameElements>button_ico</nameElements>
+		<titleElements>Кнопка иконка</titleElements>
+	</elements>
+	<elements pos="CENTER5">
 		<nameElements>zero</nameElements>
 		<titleElements>Отступ</titleElements>
 	</elements>
@@ -632,6 +652,10 @@
 	<elements pos="CENTER6">
 		<nameElements>title</nameElements>
 		<titleElements>Заголовок</titleElements>
+	</elements>
+	<elements pos="CENTER6">
+		<nameElements>button_ico</nameElements>
+		<titleElements>Кнопка иконка</titleElements>
 	</elements>
 	<elements pos="CENTER6">
 		<nameElements>zero</nameElements>
@@ -735,6 +759,10 @@
 		<titleElements>Заголовок</titleElements>
 	</elements>
 	<elements pos="CENTER7">
+		<nameElements>button_ico</nameElements>
+		<titleElements>Кнопка иконка</titleElements>
+	</elements>
+	<elements pos="CENTER7">
 		<nameElements>zero</nameElements>
 		<titleElements>Отступ</titleElements>
 	</elements>
@@ -834,6 +862,10 @@
 	<elements pos="CENTER8">
 		<nameElements>title</nameElements>
 		<titleElements>Заголовок</titleElements>
+	</elements>
+	<elements pos="CENTER8">
+		<nameElements>button_ico</nameElements>
+		<titleElements>Кнопка иконка</titleElements>
 	</elements>
 	<elements pos="CENTER8">
 		<nameElements>zero</nameElements>
@@ -936,6 +968,10 @@
 		<titleElements>Заголовок</titleElements>
 	</elements>
 	<elements pos="CENTER9">
+		<nameElements>button_ico</nameElements>
+		<titleElements>Кнопка иконка</titleElements>
+	</elements>
+	<elements pos="CENTER9">
 		<nameElements>zero</nameElements>
 		<titleElements>Отступ</titleElements>
 	</elements>
@@ -1036,6 +1072,10 @@
 		<titleElements>Заголовок</titleElements>
 	</elements>
 	<elements pos="CENTER10">
+		<nameElements>button_ico</nameElements>
+		<titleElements>Кнопка иконка</titleElements>
+	</elements>
+	<elements pos="CENTER10">
 		<nameElements>zero</nameElements>
 		<titleElements>Отступ</titleElements>
 	</elements>
@@ -1134,6 +1174,10 @@
 	<elements pos="CENTER11">
 		<nameElements>title</nameElements>
 		<titleElements>Заголовок</titleElements>
+	</elements>
+	<elements pos="CENTER11">
+		<nameElements>button_ico</nameElements>
+		<titleElements>Кнопка иконка</titleElements>
 	</elements>
 	<elements pos="CENTER11">
 		<nameElements>zero</nameElements>
@@ -1237,6 +1281,10 @@
 		<titleElements>Заголовок</titleElements>
 	</elements>
 	<elements pos="CENTER12">
+		<nameElements>button_ico</nameElements>
+		<titleElements>Кнопка иконка</titleElements>
+	</elements>
+	<elements pos="CENTER12">
 		<nameElements>zero</nameElements>
 		<titleElements>Отступ</titleElements>
 	</elements>
@@ -1336,6 +1384,10 @@
 	<elements pos="CENTER13">
 		<nameElements>title</nameElements>
 		<titleElements>Заголовок</titleElements>
+	</elements>
+	<elements pos="CENTER13">
+		<nameElements>button_ico</nameElements>
+		<titleElements>Кнопка иконка</titleElements>
 	</elements>
 	<elements pos="CENTER13">
 		<nameElements>zero</nameElements>
@@ -1439,6 +1491,10 @@
 		<titleElements>Заголовок</titleElements>
 	</elements>
 	<elements pos="CENTER14">
+		<nameElements>button_ico</nameElements>
+		<titleElements>Кнопка иконка</titleElements>
+	</elements>
+	<elements pos="CENTER14">
 		<nameElements>zero</nameElements>
 		<titleElements>Отступ</titleElements>
 	</elements>
@@ -1536,6 +1592,10 @@
 	<elements pos="CENTER15">
 		<nameElements>title</nameElements>
 		<titleElements>Заголовок</titleElements>
+	</elements>
+	<elements pos="CENTER15">
+		<nameElements>button_ico</nameElements>
+		<titleElements>Кнопка иконка</titleElements>
 	</elements>
 	<elements pos="CENTER15">
 		<nameElements>zero</nameElements>
@@ -1740,12 +1800,28 @@
 	</ico>	
 
 	<ico ico_pos="CENTER1" element="button_ico">
-		<filesIco id="1">room-hoz			</filesIco>
-		<filesIco id="2">left-show-climat	</filesIco>
-		<filesIco id="3">left-show-muzc		</filesIco>
-		<filesIco id="4">left-show-vent		</filesIco>
-		<filesIco id="5">left-show-volt		</filesIco>
-		<filesIco id="6">left-show-gradus	</filesIco>
+		<filesIco id="1">left-show-lamp		</filesIco>
+		<filesIco id="2">budSet				</filesIco>
+		<filesIco id="3">ventRoom			</filesIco>
+		<filesIco id="4">gradus				</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">left-show-climat	</filesIco>
+		<filesIco id="7">show-muzc			</filesIco>
+		<filesIco id="8">sec				</filesIco>
+		<filesIco id="9">show-mic			</filesIco>
+		<filesIco id="10">heat-pol			</filesIco>
+		<filesIco id="11">radioSwitch		</filesIco>
+		<filesIco id="12">rgb				</filesIco>
+		<filesIco id="13">room-hoz2			</filesIco>
+		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+	    	<filesIco id="16">win-3				</filesIco>
+	    	<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
+		<filesIco id="20">cold_water</filesIco>
+		<filesIco id="21">hot_water</filesIco>
+		<filesIco id="22">warm_water</filesIco>
 	</ico>
 	<ico ico_pos="CENTER1" element="time">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -1866,12 +1942,28 @@
 		<filesIco id="8">win-room			</filesIco>
 	</ico>
 	<ico ico_pos="CENTER2" element="button_ico">
-		<filesIco id="1">room-hoz			</filesIco>
-		<filesIco id="2">left-show-climat	</filesIco>
-		<filesIco id="3">left-show-muzc		</filesIco>
-		<filesIco id="4">left-show-vent		</filesIco>
-		<filesIco id="5">left-show-volt		</filesIco>
-		<filesIco id="6">left-show-gradus	</filesIco>
+		<filesIco id="1">left-show-lamp		</filesIco>
+		<filesIco id="2">budSet				</filesIco>
+		<filesIco id="3">ventRoom			</filesIco>
+		<filesIco id="4">gradus				</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">left-show-climat	</filesIco>
+		<filesIco id="7">show-muzc			</filesIco>
+		<filesIco id="8">sec				</filesIco>
+		<filesIco id="9">show-mic			</filesIco>
+		<filesIco id="10">heat-pol			</filesIco>
+		<filesIco id="11">radioSwitch		</filesIco>
+		<filesIco id="12">rgb				</filesIco>
+		<filesIco id="13">room-hoz2			</filesIco>
+		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+	    	<filesIco id="16">win-3				</filesIco>
+	    	<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
+		<filesIco id="20">cold_water</filesIco>
+		<filesIco id="21">hot_water</filesIco>
+		<filesIco id="22">warm_water</filesIco>
 	</ico>
 	<ico ico_pos="CENTER2" element="time">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -1994,12 +2086,28 @@
 		<filesIco id="8">win-room			</filesIco>
 	</ico>
 	<ico ico_pos="CENTER3" element="button_ico">
-		<filesIco id="1">room-hoz			</filesIco>
-		<filesIco id="2">left-show-climat	</filesIco>
-		<filesIco id="3">left-show-muzc		</filesIco>
-		<filesIco id="4">left-show-vent		</filesIco>
-		<filesIco id="5">left-show-volt		</filesIco>
-		<filesIco id="6">left-show-gradus	</filesIco>
+		<filesIco id="1">left-show-lamp		</filesIco>
+		<filesIco id="2">budSet				</filesIco>
+		<filesIco id="3">ventRoom			</filesIco>
+		<filesIco id="4">gradus				</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">left-show-climat	</filesIco>
+		<filesIco id="7">show-muzc			</filesIco>
+		<filesIco id="8">sec				</filesIco>
+		<filesIco id="9">show-mic			</filesIco>
+		<filesIco id="10">heat-pol			</filesIco>
+		<filesIco id="11">radioSwitch		</filesIco>
+		<filesIco id="12">rgb				</filesIco>
+		<filesIco id="13">room-hoz2			</filesIco>
+		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+	    	<filesIco id="16">win-3				</filesIco>
+	    	<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
+		<filesIco id="20">cold_water</filesIco>
+		<filesIco id="21">hot_water</filesIco>
+		<filesIco id="22">warm_water</filesIco>
 	</ico>
 	<ico ico_pos="CENTER3" element="time">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2123,12 +2231,28 @@
 		<filesIco id="8">win-room			</filesIco>
 	</ico>
 	<ico ico_pos="CENTER4" element="button_ico">
-		<filesIco id="1">room-hoz			</filesIco>
-		<filesIco id="2">left-show-climat	</filesIco>
-		<filesIco id="3">left-show-muzc		</filesIco>
-		<filesIco id="4">left-show-vent		</filesIco>
-		<filesIco id="5">left-show-volt		</filesIco>
-		<filesIco id="6">left-show-gradus	</filesIco>
+		<filesIco id="1">left-show-lamp		</filesIco>
+		<filesIco id="2">budSet				</filesIco>
+		<filesIco id="3">ventRoom			</filesIco>
+		<filesIco id="4">gradus				</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">left-show-climat	</filesIco>
+		<filesIco id="7">show-muzc			</filesIco>
+		<filesIco id="8">sec				</filesIco>
+		<filesIco id="9">show-mic			</filesIco>
+		<filesIco id="10">heat-pol			</filesIco>
+		<filesIco id="11">radioSwitch		</filesIco>
+		<filesIco id="12">rgb				</filesIco>
+		<filesIco id="13">room-hoz2			</filesIco>
+		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+	    	<filesIco id="16">win-3				</filesIco>
+	    	<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
+		<filesIco id="20">cold_water</filesIco>
+		<filesIco id="21">hot_water</filesIco>
+		<filesIco id="22">warm_water</filesIco>
 	</ico>
 	<ico ico_pos="CENTER4" element="time">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2251,12 +2375,28 @@
 		<filesIco id="8">win-room			</filesIco>
 	</ico>
 	<ico ico_pos="CENTER5" element="button_ico">
-		<filesIco id="1">room-hoz			</filesIco>
-		<filesIco id="2">left-show-climat	</filesIco>
-		<filesIco id="3">left-show-muzc		</filesIco>
-		<filesIco id="4">left-show-vent		</filesIco>
-		<filesIco id="5">left-show-volt		</filesIco>
-		<filesIco id="6">left-show-gradus	</filesIco>
+		<filesIco id="1">left-show-lamp		</filesIco>
+		<filesIco id="2">budSet				</filesIco>
+		<filesIco id="3">ventRoom			</filesIco>
+		<filesIco id="4">gradus				</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">left-show-climat	</filesIco>
+		<filesIco id="7">show-muzc			</filesIco>
+		<filesIco id="8">sec				</filesIco>
+		<filesIco id="9">show-mic			</filesIco>
+		<filesIco id="10">heat-pol			</filesIco>
+		<filesIco id="11">radioSwitch		</filesIco>
+		<filesIco id="12">rgb				</filesIco>
+		<filesIco id="13">room-hoz2			</filesIco>
+		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+	    	<filesIco id="16">win-3				</filesIco>
+	    	<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
+		<filesIco id="20">cold_water</filesIco>
+		<filesIco id="21">hot_water</filesIco>
+		<filesIco id="22">warm_water</filesIco>
 	</ico>
 	<ico ico_pos="CENTER5" element="time">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2379,12 +2519,28 @@
 		<filesIco id="8">win-room			</filesIco>
 	</ico>
 	<ico ico_pos="CENTER6" element="button_ico">
-		<filesIco id="1">room-hoz			</filesIco>
-		<filesIco id="2">left-show-climat	</filesIco>
-		<filesIco id="3">left-show-muzc		</filesIco>
-		<filesIco id="4">left-show-vent		</filesIco>
-		<filesIco id="5">left-show-volt		</filesIco>
-		<filesIco id="6">left-show-gradus	</filesIco>
+		<filesIco id="1">left-show-lamp		</filesIco>
+		<filesIco id="2">budSet				</filesIco>
+		<filesIco id="3">ventRoom			</filesIco>
+		<filesIco id="4">gradus				</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">left-show-climat	</filesIco>
+		<filesIco id="7">show-muzc			</filesIco>
+		<filesIco id="8">sec				</filesIco>
+		<filesIco id="9">show-mic			</filesIco>
+		<filesIco id="10">heat-pol			</filesIco>
+		<filesIco id="11">radioSwitch		</filesIco>
+		<filesIco id="12">rgb				</filesIco>
+		<filesIco id="13">room-hoz2			</filesIco>
+		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+	    	<filesIco id="16">win-3				</filesIco>
+	    	<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
+		<filesIco id="20">cold_water</filesIco>
+		<filesIco id="21">hot_water</filesIco>
+		<filesIco id="22">warm_water</filesIco>
 	</ico>
 	<ico ico_pos="CENTER6" element="time">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2507,12 +2663,28 @@
 		<filesIco id="8">win-room			</filesIco>
 	</ico>
 	<ico ico_pos="CENTER7" element="button_ico">
-		<filesIco id="1">room-hoz			</filesIco>
-		<filesIco id="2">left-show-climat	</filesIco>
-		<filesIco id="3">left-show-muzc		</filesIco>
-		<filesIco id="4">left-show-vent		</filesIco>
-		<filesIco id="5">left-show-volt		</filesIco>
-		<filesIco id="6">left-show-gradus	</filesIco>
+		<filesIco id="1">left-show-lamp		</filesIco>
+		<filesIco id="2">budSet				</filesIco>
+		<filesIco id="3">ventRoom			</filesIco>
+		<filesIco id="4">gradus				</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">left-show-climat	</filesIco>
+		<filesIco id="7">show-muzc			</filesIco>
+		<filesIco id="8">sec				</filesIco>
+		<filesIco id="9">show-mic			</filesIco>
+		<filesIco id="10">heat-pol			</filesIco>
+		<filesIco id="11">radioSwitch		</filesIco>
+		<filesIco id="12">rgb				</filesIco>
+		<filesIco id="13">room-hoz2			</filesIco>
+		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+	    	<filesIco id="16">win-3				</filesIco>
+	    	<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
+		<filesIco id="20">cold_water</filesIco>
+		<filesIco id="21">hot_water</filesIco>
+		<filesIco id="22">warm_water</filesIco>
 	</ico>
 	<ico ico_pos="CENTER7" element="time">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2634,12 +2806,28 @@
 		<filesIco id="8">win-room			</filesIco>
 	</ico>
 	<ico ico_pos="CENTER8" element="button_ico">
-		<filesIco id="1">room-hoz			</filesIco>
-		<filesIco id="2">left-show-climat	</filesIco>
-		<filesIco id="3">left-show-muzc		</filesIco>
-		<filesIco id="4">left-show-vent		</filesIco>
-		<filesIco id="5">left-show-volt		</filesIco>
-		<filesIco id="6">left-show-gradus	</filesIco>
+		<filesIco id="1">left-show-lamp		</filesIco>
+		<filesIco id="2">budSet				</filesIco>
+		<filesIco id="3">ventRoom			</filesIco>
+		<filesIco id="4">gradus				</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">left-show-climat	</filesIco>
+		<filesIco id="7">show-muzc			</filesIco>
+		<filesIco id="8">sec				</filesIco>
+		<filesIco id="9">show-mic			</filesIco>
+		<filesIco id="10">heat-pol			</filesIco>
+		<filesIco id="11">radioSwitch		</filesIco>
+		<filesIco id="12">rgb				</filesIco>
+		<filesIco id="13">room-hoz2			</filesIco>
+		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+	    	<filesIco id="16">win-3				</filesIco>
+	    	<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
+		<filesIco id="20">cold_water</filesIco>
+		<filesIco id="21">hot_water</filesIco>
+		<filesIco id="22">warm_water</filesIco>
 	</ico>
 	<ico ico_pos="CENTER8" element="time">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2763,12 +2951,28 @@
 		<filesIco id="8">win-room			</filesIco>
 	</ico>
 	<ico ico_pos="CENTER9" element="button_ico">
-		<filesIco id="1">room-hoz			</filesIco>
-		<filesIco id="2">left-show-climat	</filesIco>
-		<filesIco id="3">left-show-muzc		</filesIco>
-		<filesIco id="4">left-show-vent		</filesIco>
-		<filesIco id="5">left-show-volt		</filesIco>
-		<filesIco id="6">left-show-gradus	</filesIco>
+		<filesIco id="1">left-show-lamp		</filesIco>
+		<filesIco id="2">budSet				</filesIco>
+		<filesIco id="3">ventRoom			</filesIco>
+		<filesIco id="4">gradus				</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">left-show-climat	</filesIco>
+		<filesIco id="7">show-muzc			</filesIco>
+		<filesIco id="8">sec				</filesIco>
+		<filesIco id="9">show-mic			</filesIco>
+		<filesIco id="10">heat-pol			</filesIco>
+		<filesIco id="11">radioSwitch		</filesIco>
+		<filesIco id="12">rgb				</filesIco>
+		<filesIco id="13">room-hoz2			</filesIco>
+		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+	    	<filesIco id="16">win-3				</filesIco>
+	    	<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
+		<filesIco id="20">cold_water</filesIco>
+		<filesIco id="21">hot_water</filesIco>
+		<filesIco id="22">warm_water</filesIco>
 	</ico>
 	<ico ico_pos="CENTER9" element="time">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -2892,12 +3096,28 @@
 		<filesIco id="8">win-room			</filesIco>
 	</ico>
 	<ico ico_pos="CENTER10" element="button_ico">
-		<filesIco id="1">room-hoz			</filesIco>
-		<filesIco id="2">left-show-climat	</filesIco>
-		<filesIco id="3">left-show-muzc		</filesIco>
-		<filesIco id="4">left-show-vent		</filesIco>
-		<filesIco id="5">left-show-volt		</filesIco>
-		<filesIco id="6">left-show-gradus	</filesIco>
+		<filesIco id="1">left-show-lamp		</filesIco>
+		<filesIco id="2">budSet				</filesIco>
+		<filesIco id="3">ventRoom			</filesIco>
+		<filesIco id="4">gradus				</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">left-show-climat	</filesIco>
+		<filesIco id="7">show-muzc			</filesIco>
+		<filesIco id="8">sec				</filesIco>
+		<filesIco id="9">show-mic			</filesIco>
+		<filesIco id="10">heat-pol			</filesIco>
+		<filesIco id="11">radioSwitch		</filesIco>
+		<filesIco id="12">rgb				</filesIco>
+		<filesIco id="13">room-hoz2			</filesIco>
+		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+	    	<filesIco id="16">win-3				</filesIco>
+	    	<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
+		<filesIco id="20">cold_water</filesIco>
+		<filesIco id="21">hot_water</filesIco>
+		<filesIco id="22">warm_water</filesIco>
 	</ico>
 	<ico ico_pos="CENTER10" element="time">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -3020,12 +3240,28 @@
 		<filesIco id="8">win-room			</filesIco>
 	</ico>
 	<ico ico_pos="CENTER11" element="button_ico">
-		<filesIco id="1">room-hoz			</filesIco>
-		<filesIco id="2">left-show-climat	</filesIco>
-		<filesIco id="3">left-show-muzc		</filesIco>
-		<filesIco id="4">left-show-vent		</filesIco>
-		<filesIco id="5">left-show-volt		</filesIco>
-		<filesIco id="6">left-show-gradus	</filesIco>
+		<filesIco id="1">left-show-lamp		</filesIco>
+		<filesIco id="2">budSet				</filesIco>
+		<filesIco id="3">ventRoom			</filesIco>
+		<filesIco id="4">gradus				</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">left-show-climat	</filesIco>
+		<filesIco id="7">show-muzc			</filesIco>
+		<filesIco id="8">sec				</filesIco>
+		<filesIco id="9">show-mic			</filesIco>
+		<filesIco id="10">heat-pol			</filesIco>
+		<filesIco id="11">radioSwitch		</filesIco>
+		<filesIco id="12">rgb				</filesIco>
+		<filesIco id="13">room-hoz2			</filesIco>
+		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+	    	<filesIco id="16">win-3				</filesIco>
+	    	<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
+		<filesIco id="20">cold_water</filesIco>
+		<filesIco id="21">hot_water</filesIco>
+		<filesIco id="22">warm_water</filesIco>
 	</ico>
 	<ico ico_pos="CENTER11" element="time">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -3149,12 +3385,28 @@
 		<filesIco id="8">win-room			</filesIco>
 	</ico>
 	<ico ico_pos="CENTER12" element="button_ico">
-		<filesIco id="1">room-hoz			</filesIco>
-		<filesIco id="2">left-show-climat	</filesIco>
-		<filesIco id="3">left-show-muzc		</filesIco>
-		<filesIco id="4">left-show-vent		</filesIco>
-		<filesIco id="5">left-show-volt		</filesIco>
-		<filesIco id="6">left-show-gradus	</filesIco>
+		<filesIco id="1">left-show-lamp		</filesIco>
+		<filesIco id="2">budSet				</filesIco>
+		<filesIco id="3">ventRoom			</filesIco>
+		<filesIco id="4">gradus				</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">left-show-climat	</filesIco>
+		<filesIco id="7">show-muzc			</filesIco>
+		<filesIco id="8">sec				</filesIco>
+		<filesIco id="9">show-mic			</filesIco>
+		<filesIco id="10">heat-pol			</filesIco>
+		<filesIco id="11">radioSwitch		</filesIco>
+		<filesIco id="12">rgb				</filesIco>
+		<filesIco id="13">room-hoz2			</filesIco>
+		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+	    	<filesIco id="16">win-3				</filesIco>
+	    	<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
+		<filesIco id="20">cold_water</filesIco>
+		<filesIco id="21">hot_water</filesIco>
+		<filesIco id="22">warm_water</filesIco>
 	</ico>
 	<ico ico_pos="CENTER12" element="time">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -3278,12 +3530,28 @@
 		<filesIco id="8">win-room			</filesIco>
 	</ico>
 	<ico ico_pos="CENTER13" element="button_ico">
-		<filesIco id="1">room-hoz			</filesIco>
-		<filesIco id="2">left-show-climat	</filesIco>
-		<filesIco id="3">left-show-muzc		</filesIco>
-		<filesIco id="4">left-show-vent		</filesIco>
-		<filesIco id="5">left-show-volt		</filesIco>
-		<filesIco id="6">left-show-gradus	</filesIco>
+		<filesIco id="1">left-show-lamp		</filesIco>
+		<filesIco id="2">budSet				</filesIco>
+		<filesIco id="3">ventRoom			</filesIco>
+		<filesIco id="4">gradus				</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">left-show-climat	</filesIco>
+		<filesIco id="7">show-muzc			</filesIco>
+		<filesIco id="8">sec				</filesIco>
+		<filesIco id="9">show-mic			</filesIco>
+		<filesIco id="10">heat-pol			</filesIco>
+		<filesIco id="11">radioSwitch		</filesIco>
+		<filesIco id="12">rgb				</filesIco>
+		<filesIco id="13">room-hoz2			</filesIco>
+		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+	    	<filesIco id="16">win-3				</filesIco>
+	    	<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
+		<filesIco id="20">cold_water</filesIco>
+		<filesIco id="21">hot_water</filesIco>
+		<filesIco id="22">warm_water</filesIco>
 	</ico>
 	<ico ico_pos="CENTER13" element="time">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -3407,12 +3675,28 @@
 		<filesIco id="8">win-room			</filesIco>
 	</ico>
 	<ico ico_pos="CENTER14" element="button_ico">
-		<filesIco id="1">room-hoz			</filesIco>
-		<filesIco id="2">left-show-climat	</filesIco>
-		<filesIco id="3">left-show-muzc		</filesIco>
-		<filesIco id="4">left-show-vent		</filesIco>
-		<filesIco id="5">left-show-volt		</filesIco>
-		<filesIco id="6">left-show-gradus	</filesIco>
+		<filesIco id="1">left-show-lamp		</filesIco>
+		<filesIco id="2">budSet				</filesIco>
+		<filesIco id="3">ventRoom			</filesIco>
+		<filesIco id="4">gradus				</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">left-show-climat	</filesIco>
+		<filesIco id="7">show-muzc			</filesIco>
+		<filesIco id="8">sec				</filesIco>
+		<filesIco id="9">show-mic			</filesIco>
+		<filesIco id="10">heat-pol			</filesIco>
+		<filesIco id="11">radioSwitch		</filesIco>
+		<filesIco id="12">rgb				</filesIco>
+		<filesIco id="13">room-hoz2			</filesIco>
+		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+	    	<filesIco id="16">win-3				</filesIco>
+	    	<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
+		<filesIco id="20">cold_water</filesIco>
+		<filesIco id="21">hot_water</filesIco>
+		<filesIco id="22">warm_water</filesIco>
 	</ico>
 	<ico ico_pos="CENTER14" element="time">
 		<filesIco id="1">left-show-lamp		</filesIco>
@@ -3536,12 +3820,28 @@
 		<filesIco id="8">win-room			</filesIco>
 	</ico>
 	<ico ico_pos="CENTER15" element="button_ico">
-		<filesIco id="1">room-hoz			</filesIco>
-		<filesIco id="2">left-show-climat	</filesIco>
-		<filesIco id="3">left-show-muzc		</filesIco>
-		<filesIco id="4">left-show-vent		</filesIco>
-		<filesIco id="5">left-show-volt		</filesIco>
-		<filesIco id="6">left-show-gradus	</filesIco>
+		<filesIco id="1">left-show-lamp		</filesIco>
+		<filesIco id="2">budSet				</filesIco>
+		<filesIco id="3">ventRoom			</filesIco>
+		<filesIco id="4">gradus				</filesIco>
+		<filesIco id="5">info-volt			</filesIco>
+		<filesIco id="6">left-show-climat	</filesIco>
+		<filesIco id="7">show-muzc			</filesIco>
+		<filesIco id="8">sec				</filesIco>
+		<filesIco id="9">show-mic			</filesIco>
+		<filesIco id="10">heat-pol			</filesIco>
+		<filesIco id="11">radioSwitch		</filesIco>
+		<filesIco id="12">rgb				</filesIco>
+		<filesIco id="13">room-hoz2			</filesIco>
+		<filesIco id="14">win-1				</filesIco>
+		<filesIco id="15">win-2				</filesIco>
+	    	<filesIco id="16">win-3				</filesIco>
+	    	<filesIco id="17">win-4				</filesIco>
+		<filesIco id="18">win-5				</filesIco>
+		<filesIco id="19">left-show-radio</filesIco>
+		<filesIco id="20">cold_water</filesIco>
+		<filesIco id="21">hot_water</filesIco>
+		<filesIco id="22">warm_water</filesIco>
 	</ico>
 	<ico ico_pos="CENTER15" element="time">
 		<filesIco id="1">left-show-lamp		</filesIco>
