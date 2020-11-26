@@ -1434,6 +1434,25 @@ A, A:hover {
  margin-right: 5px;
 }
 
+/*кнопка иконка в комнатах*/
+.button_ico {
+    border: 1px solid #c7c7c7;
+    width: 58px;
+    height: 28px;
+    border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    float:right;
+    margin-right: 5px;
+    background: radial-gradient(farthest-side at top left, #ffffff, #7b7e83);
+}
+
+/*кнопка иконка анимация нажатия*/
+.button_ico:active{
+	opacity:0.55;
+	filter:alpha(opacity=55);
+}
+
 .info-color-0 {
  background-color: #dddddd!important;
 }

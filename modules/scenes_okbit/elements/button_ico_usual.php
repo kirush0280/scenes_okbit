@@ -8,9 +8,9 @@ function  button_{{ELEMENT_ID}}(){
 }
 </script>
 
-<div class="link-ico-out">
-	<div class="link-ico link-color-{{ICO}}-0" onclick="button_{{ELEMENT_ID}}()">
-		<div class="link-ico-in link-ico-{{ICO}}-0"></div>
-	</div>
+<div class="center-in">
+	<div class="link-ico link-ico-{{ICO}}"></div>
 	<span>{{TITLE}}</span>
+	<div class="button_ico" onclick="button_{{ELEMENT_ID}}()"></div>
 </div>
+
