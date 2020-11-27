@@ -708,6 +708,9 @@ A, A:hover {
 .center-menu .link-ico-15-1 {
         background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/script-p-1.png)!important;
 }
+.center-menu .link-ico-15-0 {
+	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/script-p-0.png)!important;
+}
 .center-menu .link-ico-16-0 {
         background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/script-radio-0.png)!important;
 }
