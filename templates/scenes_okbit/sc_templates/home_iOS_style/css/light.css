@@ -1765,7 +1765,7 @@ A, A:hover {
 @media (min-width: 900px) {
 	
 	html {
-		overflow:  hidden; /* скрываем полосы прокрутки */
+		/*overflow:  hidden;*/ /* скрываем полосы прокрутки */
 	}
 	
 	.small-title, .mini-title {
@@ -1814,7 +1814,7 @@ A, A:hover {
 @media (min-width: 900px) {/* отдельный медеазапрос для всех, не трогать */
 
         html {
-                overflow:  hidden; /* запрет скролинга */
+             /*   overflow:  hidden; *//* запрет скролинга */
         }
 
         .small-title, .mini-title {/* скрываем меню для портативных устройств */
