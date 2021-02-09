@@ -54,7 +54,7 @@
 		<titleElements>Выключатель иконка</titleElements>
 	</elements>
 	<elements pos="CENTER">
-		<nameElements>button_ico</nameElements>
+		<nameElements>button_icor</nameElements>
 		<titleElements>Кнопка иконка</titleElements>
 	</elements>
 	<elements pos="CENTER">
@@ -159,7 +159,7 @@
 
 
 	</ico>
-	<ico ico_pos="CENTER" element="button_ico">
+	<ico ico_pos="CENTER" element="button_icor">
 		<filesIco id="1">script-lamp-0</filesIco>
 		<filesIco id="2">script-eco-0</filesIco>
 		<filesIco id="3">script-luna-0</filesIco>
