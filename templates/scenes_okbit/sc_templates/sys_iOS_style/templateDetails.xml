@@ -115,6 +115,7 @@
 		<filesIco id="24">top-log		</filesIco>
 		<filesIco id="25">top-zam		</filesIco>
 		<filesIco id="26">top-socket		</filesIco>
+		<filesIco id="27">top-batt		</filesIco>
 	</ico>
 	<ico ico_pos="CENTER" element="switch_cent">
 		<filesIco id="1">left-show-lamp		</filesIco>
