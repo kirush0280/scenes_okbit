@@ -110,6 +110,7 @@
 		<filesIco id="25">top-zam		</filesIco>
 		<filesIco id="26">top-socket		</filesIco>
 		<filesIco id="27">top-batt		</filesIco>
+		<filesIco id="28">top-curtains		</filesIco>
 	</ico>
 	<ico ico_pos="LEFT" element="link_ico">
 		<filesIco id="1">room-spal		</filesIco>
