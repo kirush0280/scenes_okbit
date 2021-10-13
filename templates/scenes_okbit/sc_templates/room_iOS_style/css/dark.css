@@ -2802,7 +2802,7 @@ A, A:hover {
 @media (min-width: 850px) {
 	
 	html {
-		overflow:  hidden; /* скрываем полосы прокрутки */
+/*		overflow:  hidden; /* скрываем полосы прокрутки */*/
 	}
 	
 	.small-title, .mini-title {
