@@ -329,7 +329,9 @@ table {
 .top-menu .link-ico-27{
 	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/top-batt.png);
 }
-
+.top-menu .link-ico-28{
+	background-image: url(../../templates/scenes_okbit/sc_templates/home_iOS_style/images/ico/top-curtains.png);
+}
 
 .time-home {
 	font-size: 58px;
