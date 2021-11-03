@@ -1613,7 +1613,7 @@ A, A:hover {
 	margin: 14px 5px;
     -webkit-appearance: none;
     border-radius:2px;
-    width:calc(100% - 55px)!important;
+    width:calc(100% - 110px)!important;
     height:2px;
     outline : none;
     border:0px solid #D4D4D4;
